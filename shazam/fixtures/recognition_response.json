@@ -1,0 +1,162 @@
+{
+ "matches": [
+  {
+   "id": "264579291",
+   "offset": 48.1780625,
+   "timeskew": 0.0002965927,
+   "frequencyskew": 0.0
+  },
+  {
+   "id": "440520625",
+   "offset": 47.862570312,
+   "timeskew": 0.00015926361,
+   "frequencyskew": 0.0
+  },
+  {
+   "id": "584303525",
+   "offset": 48.147546875,
+   "timeskew": 0.00014722347,
+   "frequencyskew": 0.0
+  }
+ ],
+ "location": {
+  "accuracy": 0.01
+ },
+ "timestamp": 3098619560,
+ "timezone": "Europe/Moscow",
+ "track": {
+  "layout": "5",
+  "type": "MUSIC",
+  "key": "40333609",
+  "title": "River Flows In You",
+  "subtitle": "Yiruma",
+  "images": {
+   "background": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/48/0d/4d/480d4d9b-3ece-267d-1c86-b43dfda20cae/tns.rgpboapg.png/800x800cc.jpg",
+   "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/f4/9b/5ff49b8c-d0bb-3748-14f4-131edfb332ce/first_love_3000.jpg/400x400cc.jpg",
+   "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/f4/9b/5ff49b8c-d0bb-3748-14f4-131edfb332ce/first_love_3000.jpg/400x400cc.jpg",
+   "joecolor": "b:e1e5e8p:25231fs:372b1ft:4a4947q:595047"
+  },
+  "display": {
+   "actions": [
+    {
+     "name": "display:updateshazam",
+     "type": "webview",
+     "uri": "https://www.shazam.com/inapp/updatenow/40333609"
+    }
+   ]
+  },
+  "share": {
+   "subject": "River Flows In You - Yiruma",
+   "text": "River Flows In You by Yiruma",
+   "href": "https://www.shazam.com/track/40333609/river-flows-in-you",
+   "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/f4/9b/5ff49b8c-d0bb-3748-14f4-131edfb332ce/first_love_3000.jpg/400x400cc.jpg",
+   "twitter": "I used @Shazam to discover River Flows In You by Yiruma.",
+   "html": "https://www.shazam.com/snippets/email-share/40333609?lang=en-US&country=GB",
+   "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/48/0d/4d/480d4d9b-3ece-267d-1c86-b43dfda20cae/tns.rgpboapg.png/800x800cc.jpg",
+   "snapchat": "https://www.shazam.com/partner/sc/track/40333609"
+  },
+  "hub": {
+   "type": "APPLEMUSIC",
+   "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+   "actions": [
+    {
+     "name": "apple",
+     "type": "applemusicplay",
+     "id": "1436677761"
+    },
+    {
+     "name": "apple",
+     "type": "uri",
+     "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/e8/db/5de8db2a-16e9-9952-1e92-72c8bd66c466/mzaf_8171178460157641075.plus.aac.ep.m4a"
+    }
+   ],
+   "explicit": false,
+   "displayname": "APPLE MUSIC",
+   "options": [
+    {
+     "caption": "OPEN IN",
+     "actions": [
+      {
+       "name": "hub:applemusic:deeplink",
+       "type": "applemusicopen",
+       "uri": "https://music.apple.com/gb/album/river-flows-in-you/1436677753?i=1436677761&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+      },
+      {
+       "name": "hub:applemusic:deeplink",
+       "type": "uri",
+       "uri": "https://music.apple.com/gb/album/river-flows-in-you/1436677753?i=1436677761&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+      }
+     ],
+     "beacondata": {
+      "type": "open",
+      "providername": "applemusic"
+     },
+     "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+     "type": "open",
+     "listcaption": "Open in Apple Music",
+     "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+     "colouroverflowimage": false,
+     "providername": "applemusic"
+    }
+   ]
+  },
+  "sections": [
+   {
+    "type": "SONG",
+    "metapages": [
+     {
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/48/0d/4d/480d4d9b-3ece-267d-1c86-b43dfda20cae/tns.rgpboapg.png/800x800cc.jpg",
+      "caption": "Yiruma"
+     },
+     {
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/f4/9b/5ff49b8c-d0bb-3748-14f4-131edfb332ce/first_love_3000.jpg/400x400cc.jpg",
+      "caption": "River Flows In You"
+     }
+    ],
+    "tabname": "Song",
+    "metadata": [
+     {
+      "title": "Album",
+      "text": "Yiruma 2nd Album 'First Love' (The Original & the Very First Recording)"
+     },
+     {
+      "title": "Label",
+      "text": "Stomp Music"
+     },
+     {
+      "title": "Released",
+      "text": "2001"
+     }
+    ]
+   },
+   {
+    "type": "RELATED",
+    "url": "https://cdn.shazam.com/shazam/v3/en-US/GB/web/-/tracks/track-similarities-id-40333609?startFrom=0&pageSize=20&connected=",
+    "tabname": "Related"
+   }
+  ],
+  "url": "https://www.shazam.com/track/40333609/river-flows-in-you",
+  "artists": [
+   {
+    "alias": "yiruma",
+    "id": "42",
+    "adamid": "73406786"
+   }
+  ],
+  "alias": "river-flows-in-you",
+  "genres": {
+   "primary": "New Age"
+  },
+  "urlparams": {
+   "{tracktitle}": "River+Flows+In+You",
+   "{trackartist}": "Yiruma"
+  },
+  "highlightsurls": {},
+  "relatedtracksurl": "https://cdn.shazam.com/shazam/v3/en-US/GB/web/-/tracks/track-similarities-id-40333609?startFrom=0&pageSize=20&connected=",
+  "albumadamid": "1436677753",
+  "trackadamid": "1436677761",
+  "releasedate": "27-11-2001",
+  "isrc": "HKOA10616988"
+ },
+ "tagid": "02D92E4B-152F-46FC-9B5B-C593852B12EE"
+}

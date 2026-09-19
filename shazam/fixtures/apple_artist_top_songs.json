@@ -1,0 +1,226 @@
+{
+ "next": "/v1/catalog/us/artists/567072/view/top-songs?offset=5",
+ "data": [
+  {
+   "id": "850571371",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/850571371",
+   "attributes": {
+    "albumName": "Demon Days",
+    "artistName": "Gorillaz & De La Soul",
+    "artwork": {
+     "bgColor": "c9cccf",
+     "height": 1425,
+     "textColor1": "00070c",
+     "textColor2": "161d21",
+     "textColor3": "282e33",
+     "textColor4": "3a4044",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/{w}x{h}bb.jpg",
+     "width": 1425
+    },
+    "composerName": "David Jolicoeur, Brian Burton, Damon Albarn & Jamie Hewlett",
+    "discNumber": 1,
+    "durationInMillis": 221173,
+    "genreNames": [
+     "Alternative",
+     "Music",
+     "Pop"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": true,
+    "isrc": "GBAYE1400422",
+    "name": "Feel Good Inc. (feat. David Jolicoeur, Kelvin Mercer & Vincent Mason)",
+    "playParams": {
+     "id": "850571371",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/a7/90/9aa790e3-651e-9674-26ac-14aba4d3b8d1/mzaf_10454527198707970464.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2005-05-09",
+    "trackNumber": 6,
+    "url": "https://music.apple.com/us/album/feel-good-inc-feat-david-jolicoeur-kelvin-mercer-vincent/850571319?i=850571371"
+   }
+  },
+  {
+   "id": "850571388",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/850571388",
+   "attributes": {
+    "albumName": "Demon Days",
+    "artistName": "Gorillaz",
+    "artwork": {
+     "bgColor": "c9cccf",
+     "height": 1425,
+     "textColor1": "00070c",
+     "textColor2": "161d21",
+     "textColor3": "282e33",
+     "textColor4": "3a4044",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/{w}x{h}bb.jpg",
+     "width": 1425
+    },
+    "composerName": "Damon Albarn, Jamie Hewlett & Brian Burton",
+    "discNumber": 1,
+    "durationInMillis": 244307,
+    "genreNames": [
+     "Alternative",
+     "Music",
+     "Pop"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": true,
+    "isrc": "GBAYE1400428",
+    "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
+    "playParams": {
+     "id": "850571388",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/d5/99/e3d599a6-15c9-113d-65a1-f637c22de0e0/mzaf_11995878542823587618.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2005-05-11",
+    "trackNumber": 12,
+    "url": "https://music.apple.com/us/album/dare-feat-shaun-ryder-roses-gabor/850571319?i=850571388"
+   }
+  },
+  {
+   "id": "850576665",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/850576665",
+   "attributes": {
+    "albumName": "Gorillaz",
+    "artistName": "Gorillaz",
+    "artwork": {
+     "bgColor": "ffffff",
+     "height": 1500,
+     "textColor1": "131b10",
+     "textColor2": "192818",
+     "textColor3": "424940",
+     "textColor4": "475346",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+     "width": 1500
+    },
+    "composerName": "Damon Albarn & Teren Jones",
+    "contentRating": "explicit",
+    "discNumber": 1,
+    "durationInMillis": 342560,
+    "genreNames": [
+     "Alternative",
+     "Music",
+     "Pop"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": true,
+    "isrc": "GBAYE1400468",
+    "name": "Clint Eastwood",
+    "playParams": {
+     "id": "850576665",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/53/06/61530647-9a86-b309-d46e-eb4661c5ec32/mzaf_4757516976440204736.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2001-03-05",
+    "trackNumber": 5,
+    "url": "https://music.apple.com/us/album/clint-eastwood/850576570?i=850576665"
+   }
+  },
+  {
+   "id": "1217912253",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1217912253",
+   "attributes": {
+    "albumName": "Humanz (Deluxe)",
+    "artistName": "Gorillaz",
+    "artwork": {
+     "bgColor": "12120d",
+     "height": 4000,
+     "textColor1": "ded0a6",
+     "textColor2": "dab181",
+     "textColor3": "b5aa87",
+     "textColor4": "b2916a",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/{w}x{h}bb.jpg",
+     "width": 4000
+    },
+    "composerName": "Damon Albarn & Kali Uchis",
+    "discNumber": 1,
+    "durationInMillis": 209560,
+    "genreNames": [
+     "Alternative",
+     "Music"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": true,
+    "isrc": "GBAYE1700879",
+    "name": "She's My Collar (feat. Kali Uchis)",
+    "playParams": {
+     "id": "1217912253",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/49/e5/7949e5a5-14c4-2d8f-981e-f3640d511d42/mzaf_8609887615687365181.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2017-04-28",
+    "trackNumber": 17,
+    "url": "https://music.apple.com/us/album/shes-my-collar-feat-kali-uchis/1217911994?i=1217912253"
+   }
+  },
+  {
+   "id": "850569466",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/850569466",
+   "attributes": {
+    "albumName": "Plastic Beach",
+    "artistName": "Gorillaz",
+    "artwork": {
+     "bgColor": "013569",
+     "height": 1418,
+     "textColor1": "d7e0dd",
+     "textColor2": "c3d6df",
+     "textColor3": "acbec6",
+     "textColor4": "9cb6c8",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/f9/b9/b8f9b9f8-a609-bde2-0302-349436ffc508/825646291038.jpg/{w}x{h}bb.jpg",
+     "width": 1418
+    },
+    "composerName": "Damon Albarn",
+    "discNumber": 1,
+    "durationInMillis": 200173,
+    "genreNames": [
+     "Alternative",
+     "Music",
+     "Hip-Hop/Rap",
+     "Alternative Rap",
+     "Rock",
+     "Adult Alternative",
+     "Underground Rap",
+     "Rap",
+     "Pop"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": true,
+    "isrc": "GBAYE1400435",
+    "name": "Rhinestone Eyes",
+    "playParams": {
+     "id": "850569466",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/65/1a/a6651a37-68b2-8a03-9897-36f198c817ca/mzaf_2234845319721050972.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2010-03-03",
+    "trackNumber": 4,
+    "url": "https://music.apple.com/us/album/rhinestone-eyes/850569437?i=850569466"
+   }
+  }
+ ]
+}

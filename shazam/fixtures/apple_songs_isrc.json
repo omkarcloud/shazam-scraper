@@ -1,0 +1,501 @@
+{
+ "data": [
+  {
+   "id": "6809927960",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/6809927960",
+   "attributes": {
+    "albumName": "i walk in making cash then walk out cashing out - Single",
+    "artistName": "qu1nnix",
+    "artwork": {
+     "bgColor": "d8d8d8",
+     "height": 3000,
+     "textColor1": "212123",
+     "textColor2": "1f2830",
+     "textColor3": "454647",
+     "textColor4": "444b52",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c7/e8/8d/c7e88dfe-fe94-5afa-1967-4df846cf4fb2/artwork.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "composerName": "Xavier Q Morrison",
+    "discNumber": 1,
+    "durationInMillis": 98952,
+    "genreNames": [
+     "Hip-Hop/Rap",
+     "Music"
+    ],
+    "hasLyrics": false,
+    "isAppleDigitalMaster": false,
+    "isrc": "QZJ842400387",
+    "name": "i walk in making cash then walk out cashing out",
+    "playParams": {
+     "id": "6809927960",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/78/b5/c578b558-ed39-b7a3-98c4-2a447697fd85/mzaf_12147741003614155936.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2026-07-04",
+    "trackNumber": 1,
+    "url": "https://music.apple.com/us/album/i-walk-in-making-cash-then-walk-out-cashing-out/6809927959?i=6809927960"
+   },
+   "relationships": {
+    "albums": {
+     "href": "/v1/catalog/us/songs/6809927960/albums",
+     "data": [
+      {
+       "id": "6809927959",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/6809927959"
+      }
+     ]
+    },
+    "artists": {
+     "href": "/v1/catalog/us/songs/6809927960/artists",
+     "data": [
+      {
+       "id": "1825636204",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/1825636204"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "1756196298",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1756196298",
+   "attributes": {
+    "albumName": "wet dreams - Single",
+    "artistName": "Artemas",
+    "artwork": {
+     "bgColor": "322e1e",
+     "height": 1400,
+     "textColor1": "e8bfad",
+     "textColor2": "daac83",
+     "textColor3": "c3a290",
+     "textColor4": "b8926f",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/98/37/d2/9837d23a-5ede-258c-57ae-af2f005e4489/810129993875.jpg/{w}x{h}bb.jpg",
+     "width": 1400
+    },
+    "composerName": "Artemas Diamandis, Jesse Fink, Kevin White & Toby Daintree",
+    "discNumber": 1,
+    "durationInMillis": 142515,
+    "genreNames": [
+     "Pop",
+     "Music",
+     "Alternative"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": false,
+    "isrc": "QZJ842400387",
+    "name": "i like the way you kiss me",
+    "playParams": {
+     "id": "1756196298",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/52/e9/bf52e941-6fae-ac80-3ba6-6fbcd968fb41/mzaf_13691938801096994919.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2024-02-09",
+    "trackNumber": 3,
+    "url": "https://music.apple.com/us/album/i-like-the-way-you-kiss-me/1756195773?i=1756196298"
+   },
+   "relationships": {
+    "albums": {
+     "href": "/v1/catalog/us/songs/1756196298/albums",
+     "data": [
+      {
+       "id": "1756195773",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1756195773"
+      }
+     ]
+    },
+    "artists": {
+     "href": "/v1/catalog/us/songs/1756196298/artists",
+     "data": [
+      {
+       "id": "1300620186",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/1300620186"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "1737759223",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1737759223",
+   "attributes": {
+    "albumName": "i like the way you kiss me (burnt) - Single",
+    "artistName": "Artemas",
+    "artwork": {
+     "bgColor": "3f301c",
+     "height": 3000,
+     "textColor1": "f49c33",
+     "textColor2": "eb9d54",
+     "textColor3": "cf862f",
+     "textColor4": "c88749",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/79/4a/07/794a07b2-fcb8-52a1-d487-fbdf70f5d219/810129998023.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "composerName": "Artemas Diamandis, Jesse Fink, Kevin White & Toby Daintree",
+    "discNumber": 1,
+    "durationInMillis": 142515,
+    "genreNames": [
+     "Pop",
+     "Music",
+     "Alternative"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": false,
+    "isrc": "QZJ842400387",
+    "name": "i like the way you kiss me",
+    "playParams": {
+     "id": "1737759223",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f4/ab/e4/f4abe456-12c4-d018-98be-1dcdfc0b5270/mzaf_15024415165305223411.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2024-02-09",
+    "trackNumber": 2,
+    "url": "https://music.apple.com/us/album/i-like-the-way-you-kiss-me/1737759217?i=1737759223"
+   },
+   "relationships": {
+    "albums": {
+     "href": "/v1/catalog/us/songs/1737759223/albums",
+     "data": [
+      {
+       "id": "1737759217",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1737759217"
+      }
+     ]
+    },
+    "artists": {
+     "href": "/v1/catalog/us/songs/1737759223/artists",
+     "data": [
+      {
+       "id": "1300620186",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/1300620186"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "1739572518",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1739572518",
+   "attributes": {
+    "albumName": "i like the way you kiss me (remixes) - EP",
+    "artistName": "Artemas",
+    "artwork": {
+     "bgColor": "3f301c",
+     "height": 3000,
+     "textColor1": "f49c33",
+     "textColor2": "eb9d54",
+     "textColor3": "cf862f",
+     "textColor4": "c88749",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/db/05/c5db05be-cd86-6c0d-3638-aa85b489f70c/810129997804.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "composerName": "Artemas Diamandis, Jesse Fink, Kevin White & Toby Daintree",
+    "discNumber": 1,
+    "durationInMillis": 142515,
+    "genreNames": [
+     "Pop",
+     "Music",
+     "Alternative"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": false,
+    "isrc": "QZJ842400387",
+    "name": "i like the way you kiss me",
+    "playParams": {
+     "id": "1739572518",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/19/1b/5d191bc8-6506-ea52-9d67-e00b23b75653/mzaf_3488901831478790196.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2024-02-09",
+    "trackNumber": 5,
+    "url": "https://music.apple.com/us/album/i-like-the-way-you-kiss-me/1739571982?i=1739572518"
+   },
+   "relationships": {
+    "albums": {
+     "href": "/v1/catalog/us/songs/1739572518/albums",
+     "data": [
+      {
+       "id": "1739571982",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1739571982"
+      }
+     ]
+    },
+    "artists": {
+     "href": "/v1/catalog/us/songs/1739572518/artists",
+     "data": [
+      {
+       "id": "1300620186",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/1300620186"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "1756057163",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1756057163",
+   "attributes": {
+    "albumName": "yustyna",
+    "artistName": "Artemas",
+    "artwork": {
+     "bgColor": "322e1e",
+     "height": 1400,
+     "textColor1": "e8bfad",
+     "textColor2": "daac83",
+     "textColor3": "c3a290",
+     "textColor4": "b8926f",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/37/aa/5f/37aa5f13-88c3-c89c-07c0-5e96f7e9573e/810129993745.jpg/{w}x{h}bb.jpg",
+     "width": 1400
+    },
+    "composerName": "Artemas Diamandis, Jesse Fink, Kevin White & Toby Daintree",
+    "discNumber": 1,
+    "durationInMillis": 142515,
+    "genreNames": [
+     "Pop",
+     "Music",
+     "Alternative"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": false,
+    "isrc": "QZJ842400387",
+    "name": "i like the way you kiss me",
+    "playParams": {
+     "id": "1756057163",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/9a/68/a09a682f-b2f0-242b-598d-719c848c82ca/mzaf_8705655265232001803.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2024-02-09",
+    "trackNumber": 1,
+    "url": "https://music.apple.com/us/album/i-like-the-way-you-kiss-me/1756056965?i=1756057163"
+   },
+   "relationships": {
+    "albums": {
+     "href": "/v1/catalog/us/songs/1756057163/albums",
+     "data": [
+      {
+       "id": "1756056965",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1756056965"
+      }
+     ]
+    },
+    "artists": {
+     "href": "/v1/catalog/us/songs/1756057163/artists",
+     "data": [
+      {
+       "id": "1300620186",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/1300620186"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "1736426869",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1736426869",
+   "attributes": {
+    "albumName": "i like the way you kiss me - Single",
+    "artistName": "Artemas",
+    "artwork": {
+     "bgColor": "3f301c",
+     "height": 3000,
+     "textColor1": "f49c33",
+     "textColor2": "eb9d54",
+     "textColor3": "cf862f",
+     "textColor4": "c88749",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b6/1e/ac/b61eaceb-b493-0909-abfe-0930b7e53d9f/810129998306.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "composerName": "Artemas Diamandis, Jesse Fink, Kevin White & Toby Daintree",
+    "discNumber": 1,
+    "durationInMillis": 142515,
+    "genreNames": [
+     "Pop",
+     "Music",
+     "Alternative"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": false,
+    "isrc": "QZJ842400387",
+    "name": "i like the way you kiss me",
+    "playParams": {
+     "id": "1736426869",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/49/c1/cc49c165-07b1-fd9e-1092-07fb1d3bd484/mzaf_11754248539941798058.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2024-02-09",
+    "trackNumber": 1,
+    "url": "https://music.apple.com/us/album/i-like-the-way-you-kiss-me/1736426868?i=1736426869"
+   },
+   "relationships": {
+    "albums": {
+     "href": "/v1/catalog/us/songs/1736426869/albums",
+     "data": [
+      {
+       "id": "1736426868",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1736426868"
+      }
+     ]
+    },
+    "artists": {
+     "href": "/v1/catalog/us/songs/1736426869/artists",
+     "data": [
+      {
+       "id": "1300620186",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/1300620186"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "1755482879",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1755482879",
+   "attributes": {
+    "albumName": "dirty little secret - Single",
+    "artistName": "Artemas",
+    "artwork": {
+     "bgColor": "322e1e",
+     "height": 1400,
+     "textColor1": "e8bfad",
+     "textColor2": "daac83",
+     "textColor3": "c3a290",
+     "textColor4": "b8926f",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/72/e5/b872e58a-1daf-936d-892e-eaa3df3c7f1e/810129993875.jpg/{w}x{h}bb.jpg",
+     "width": 1400
+    },
+    "composerName": "Artemas Diamandis, Jesse Fink, Kevin White & Toby Daintree",
+    "discNumber": 1,
+    "durationInMillis": 142515,
+    "genreNames": [
+     "Pop",
+     "Music",
+     "Alternative"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": false,
+    "isrc": "QZJ842400387",
+    "name": "i like the way you kiss me",
+    "playParams": {
+     "id": "1755482879",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/b4/b9/15b4b9ee-08b2-9588-ee21-4d6deec212be/mzaf_13924222620342890513.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2024-02-09",
+    "trackNumber": 2,
+    "url": "https://music.apple.com/us/album/i-like-the-way-you-kiss-me/1755482877?i=1755482879"
+   },
+   "relationships": {
+    "albums": {
+     "href": "/v1/catalog/us/songs/1755482879/albums",
+     "data": [
+      {
+       "id": "1755482877",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1755482877"
+      }
+     ]
+    },
+    "artists": {
+     "href": "/v1/catalog/us/songs/1755482879/artists",
+     "data": [
+      {
+       "id": "1300620186",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/1300620186"
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "meta": {
+  "filters": {
+   "isrc": {
+    "QZJ842400387": [
+     {
+      "id": "6809927960",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/6809927960"
+     },
+     {
+      "id": "1756196298",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1756196298"
+     },
+     {
+      "id": "1737759223",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1737759223"
+     },
+     {
+      "id": "1739572518",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1739572518"
+     },
+     {
+      "id": "1756057163",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1756057163"
+     },
+     {
+      "id": "1736426869",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1736426869"
+     },
+     {
+      "id": "1755482879",
+      "type": "songs",
+      "href": "/v1/catalog/us/songs/1755482879"
+     }
+    ]
+   }
+  }
+ }
+}

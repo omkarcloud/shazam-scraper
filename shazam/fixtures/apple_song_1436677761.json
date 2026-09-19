@@ -1,0 +1,1136 @@
+{
+ "data": [
+  {
+   "id": "1436677761",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1436677761",
+   "attributes": {
+    "albumName": "Yiruma 2nd Album 'First Love' (The Original & the Very First Recording)",
+    "artistName": "Yiruma",
+    "artwork": {
+     "bgColor": "e1e5e8",
+     "height": 3000,
+     "textColor1": "25231f",
+     "textColor2": "372b1f",
+     "textColor3": "4a4947",
+     "textColor4": "595047",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/f4/9b/5ff49b8c-d0bb-3748-14f4-131edfb332ce/first_love_3000.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "discNumber": 1,
+    "durationInMillis": 188787,
+    "genreNames": [
+     "New Age",
+     "Music",
+     "Pop",
+     "K-Pop",
+     "Classical"
+    ],
+    "hasLyrics": false,
+    "isAppleDigitalMaster": false,
+    "isrc": "HKOA10616988",
+    "name": "River Flows In You",
+    "playParams": {
+     "id": "1436677761",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5d/e8/db/5de8db2a-16e9-9952-1e92-72c8bd66c466/mzaf_12453809584145821574.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2001-11-27",
+    "trackNumber": 4,
+    "url": "https://music.apple.com/us/album/river-flows-in-you/1436677753?i=1436677761"
+   },
+   "relationships": {
+    "albums": {
+     "href": "/v1/catalog/us/songs/1436677761/albums",
+     "data": [
+      {
+       "id": "1436677753",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1436677753",
+       "attributes": {
+        "artistName": "Yiruma",
+        "artwork": {
+         "bgColor": "e1e5e8",
+         "height": 3000,
+         "textColor1": "25231f",
+         "textColor2": "372b1f",
+         "textColor3": "4a4947",
+         "textColor4": "595047",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/f4/9b/5ff49b8c-d0bb-3748-14f4-131edfb332ce/first_love_3000.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "copyright": "℗ 2001 Stomp Music under licence to Genie Music Corporation",
+        "genreNames": [
+         "New Age",
+         "Music",
+         "Pop",
+         "K-Pop",
+         "Worldwide",
+         "Classical",
+         "Classical Crossover"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isSingle": false,
+        "name": "Yiruma 2nd Album 'First Love' (The Original & the Very First Recording)",
+        "playParams": {
+         "id": "1436677753",
+         "kind": "album"
+        },
+        "recordLabel": "Stomp Music",
+        "releaseDate": "2001-11-27",
+        "trackCount": 15,
+        "upc": "803680097182",
+        "url": "https://music.apple.com/us/album/yiruma-2nd-album-first-love-the-original-the-very/1436677753"
+       }
+      }
+     ]
+    },
+    "artists": {
+     "href": "/v1/catalog/us/songs/1436677761/artists",
+     "data": [
+      {
+       "id": "73406786",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/73406786",
+       "attributes": {
+        "artwork": {
+         "bgColor": "b8b3b1",
+         "height": 1755,
+         "textColor1": "070c0b",
+         "textColor2": "0e1414",
+         "textColor3": "2a2d2c",
+         "textColor4": "303433",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/48/0d/4d/480d4d9b-3ece-267d-1c86-b43dfda20cae/tns.rgpboapg.png/{w}x{h}bb.jpg",
+         "width": 1755
+        },
+        "genreNames": [
+         "New Age"
+        ],
+        "name": "Yiruma",
+        "url": "https://music.apple.com/us/artist/yiruma/73406786"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/73406786/albums",
+         "next": "/v1/catalog/us/artists/73406786/albums?offset=25",
+         "data": [
+          {
+           "id": "1436677753",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1436677753",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "e1e5e8",
+             "height": 3000,
+             "textColor1": "25231f",
+             "textColor2": "372b1f",
+             "textColor3": "4a4947",
+             "textColor4": "595047",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5f/f4/9b/5ff49b8c-d0bb-3748-14f4-131edfb332ce/first_love_3000.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "copyright": "℗ 2001 Stomp Music under licence to Genie Music Corporation",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Pop",
+             "K-Pop",
+             "Worldwide",
+             "Classical",
+             "Classical Crossover"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Yiruma 2nd Album 'First Love' (The Original & the Very First Recording)",
+            "playParams": {
+             "id": "1436677753",
+             "kind": "album"
+            },
+            "recordLabel": "Stomp Music",
+            "releaseDate": "2001-11-27",
+            "trackCount": 15,
+            "upc": "803680097182",
+            "url": "https://music.apple.com/us/album/yiruma-2nd-album-first-love-the-original-the-very/1436677753"
+           }
+          },
+          {
+           "id": "485353575",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/485353575",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "2a252f",
+             "height": 600,
+             "textColor1": "e9e2f1",
+             "textColor2": "e1d4ee",
+             "textColor3": "c3bcca",
+             "textColor4": "bdb1c8",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/b5/ae/26/b5ae2651-542a-9ee9-be4c-278791e2918f/mzi.ncrxyndi.jpg/{w}x{h}bb.jpg",
+             "width": 600
+            },
+            "copyright": "℗ 2012 Sony Music Entertainment Korea Inc.",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Rock",
+             "Worldwide",
+             "Classical"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "The Best - Reminiscent 10th Anniversary",
+            "playParams": {
+             "id": "485353575",
+             "kind": "album"
+            },
+            "recordLabel": "SME Korea Inc.",
+            "releaseDate": "2011-11-24",
+            "trackCount": 17,
+            "upc": "886443317628",
+            "url": "https://music.apple.com/us/album/the-best-reminiscent-10th-anniversary/485353575"
+           }
+          },
+          {
+           "id": "1044222525",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1044222525",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "061313",
+             "height": 1417,
+             "textColor1": "e9edd8",
+             "textColor2": "deeddb",
+             "textColor3": "bbc1b1",
+             "textColor4": "b3c2b3",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f9/3f/e0/f93fe043-6bdc-23c7-ef39-7487dfd7eb37/dj.mgvljqfe.jpg/{w}x{h}bb.jpg",
+             "width": 1417
+            },
+            "copyright": "℗ 2015 Sony Music Entertainment Korea Inc.",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Worldwide",
+             "Classical"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Piano",
+            "playParams": {
+             "id": "1044222525",
+             "kind": "album"
+            },
+            "recordLabel": "SME Korea Inc.",
+            "releaseDate": "2015-10-09",
+            "trackCount": 11,
+            "upc": "886445527346",
+            "url": "https://music.apple.com/us/album/piano/1044222525"
+           }
+          },
+          {
+           "id": "1545092808",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1545092808",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "605a51",
+             "height": 1772,
+             "textColor1": "f7f6f6",
+             "textColor2": "efeeed",
+             "textColor3": "d9d7d5",
+             "textColor4": "d2d0ce",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d5/53/4a/d5534a29-47be-63c6-3ad9-80dfb0f9e916/20UM1IM15686.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 1772
+            },
+            "copyright": "℗ 2021 Mind Tailor Music",
+            "genreNames": [
+             "Classical Crossover",
+             "Music",
+             "Classical"
+            ],
+            "isCompilation": false,
+            "isComplete": false,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "f r a m e",
+            "playParams": {
+             "id": "1545092808",
+             "kind": "album"
+            },
+            "recordLabel": "Universal Music Ltd.",
+            "releaseDate": "2017-11-01",
+            "trackCount": 12,
+            "upc": "00602435659176",
+            "url": "https://music.apple.com/us/album/f-r-a-m-e/1545092808"
+           }
+          },
+          {
+           "id": "1437481261",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1437481261",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "261c1a",
+             "height": 3000,
+             "textColor1": "e9e9e9",
+             "textColor2": "d3d3d2",
+             "textColor3": "c2c0bf",
+             "textColor4": "b0aead",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/01/a4/12/01a41272-f0f7-e25a-f140-8d0dda4c30c7/from_the_yellow_room_3000.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "copyright": "℗ 2003 Stomp Music under licence to Genie Music Corporation",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Pop",
+             "K-Pop",
+             "Worldwide",
+             "Classical"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Yiruma 3rd Album 'From The Yellow Room'",
+            "playParams": {
+             "id": "1437481261",
+             "kind": "album"
+            },
+            "recordLabel": "Stomp Music",
+            "releaseDate": "2003-10-23",
+            "trackCount": 14,
+            "upc": "803680097588",
+            "url": "https://music.apple.com/us/album/yiruma-3rd-album-from-the-yellow-room/1437481261"
+           }
+          },
+          {
+           "id": "1437482782",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1437482782",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "ffffff",
+             "height": 3000,
+             "textColor1": "000205",
+             "textColor2": "620f05",
+             "textColor3": "333537",
+             "textColor4": "823f37",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/95/9c/5d/959c5d91-29d5-69b0-0d34-bf935d46b991/first_love_repackage_3000.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "copyright": "℗ 2018 Stomp Music under licence to Genie Music Corporation",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Pop",
+             "K-Pop",
+             "Classical",
+             "Classical Crossover",
+             "Worldwide"
+            ],
+            "isCompilation": true,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Yiruma Special Album 'First Love' (Repackage) [The Original & the Very First Recording]",
+            "playParams": {
+             "id": "1437482782",
+             "kind": "album"
+            },
+            "recordLabel": "Stomp Music",
+            "releaseDate": "2005-05-19",
+            "trackCount": 18,
+            "upc": "803680098288",
+            "url": "https://music.apple.com/us/album/yiruma-special-album-first-love-repackage-the/1437482782"
+           }
+          },
+          {
+           "id": "1576662868",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1576662868",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "0f1513",
+             "height": 4536,
+             "textColor1": "f1eae3",
+             "textColor2": "cdcac5",
+             "textColor3": "c3bfb9",
+             "textColor4": "a7a5a2",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/0a/d1/e8/0ad1e89c-df29-a43e-9852-eb6ece2dd556/21UMGIM24785.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 4536
+            },
+            "copyright": "℗ 2021 Mind Tailer Music",
+            "editorialNotes": {
+             "short": "A 20th-anniversary album of Yiruma’s most heart-melting piano music."
+            },
+            "genreNames": [
+             "Classical Crossover",
+             "Music",
+             "Classical",
+             "Piano"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": true,
+            "isSingle": false,
+            "name": "SOLO",
+            "playParams": {
+             "id": "1576662868",
+             "kind": "album"
+            },
+            "recordLabel": "Universal Music Ltd.",
+            "releaseDate": "2021-09-24",
+            "trackCount": 14,
+            "upc": "00602438099252",
+            "url": "https://music.apple.com/us/album/solo/1576662868"
+           }
+          },
+          {
+           "id": "1437486308",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1437486308",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "e2dfd7",
+             "height": 3000,
+             "textColor1": "0f0f0e",
+             "textColor2": "0f0f0e",
+             "textColor3": "393836",
+             "textColor4": "393836",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/30/39/92/303992cb-7068-ee23-a9fa-867f5734a976/healing_piano_3000.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "copyright": "℗ 2013 Stomp Music under licence to Genie Music Corporation",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Pop",
+             "K-Pop",
+             "Classical"
+            ],
+            "isCompilation": true,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Yiruma Official Album 'Healing Piano' (The Original Compilation)",
+            "playParams": {
+             "id": "1437486308",
+             "kind": "album"
+            },
+            "recordLabel": "Stomp Music",
+            "releaseDate": "2013-11-06",
+            "trackCount": 24,
+            "upc": "888003662476",
+            "url": "https://music.apple.com/us/album/yiruma-official-album-healing-piano-the-original/1437486308"
+           }
+          },
+          {
+           "id": "1544756941",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1544756941",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "f2f2ef",
+             "height": 4000,
+             "textColor1": "0b0b0a",
+             "textColor2": "30312d",
+             "textColor3": "393938",
+             "textColor4": "565754",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/44/30/d1/4430d170-d87a-b01b-163f-0dbccb213c28/20UMGIM58045.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 4000
+            },
+            "copyright": "℗ 2020 Mind Tailor Music",
+            "genreNames": [
+             "Classical Crossover",
+             "Music",
+             "Classical",
+             "Piano"
+            ],
+            "isCompilation": true,
+            "isComplete": false,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "f r a m e",
+            "playParams": {
+             "id": "1544756941",
+             "kind": "album"
+            },
+            "recordLabel": "Universal Music Ltd.",
+            "releaseDate": "2020-07-17",
+            "trackCount": 14,
+            "upc": "00028948550241",
+            "url": "https://music.apple.com/us/album/f-r-a-m-e/1544756941"
+           }
+          },
+          {
+           "id": "529813784",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/529813784",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "e0dedf",
+             "height": 600,
+             "textColor1": "0e0d0d",
+             "textColor2": "100f0f",
+             "textColor3": "383737",
+             "textColor4": "393838",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ba/09/d9/ba09d9bb-b5a4-b475-5c9f-f9573ecff42e/886443500334.jpg/{w}x{h}bb.jpg",
+             "width": 600
+            },
+            "copyright": "℗ 2012 Sony Music Entertainment Korea Inc.",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Worldwide",
+             "Asia",
+             "Classical",
+             "Rock"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Stay In Memory",
+            "playParams": {
+             "id": "529813784",
+             "kind": "album"
+            },
+            "recordLabel": "SME Korea Inc.",
+            "releaseDate": "2012-05-24",
+            "trackCount": 12,
+            "upc": "886443500334",
+            "url": "https://music.apple.com/us/album/stay-in-memory/529813784"
+           }
+          },
+          {
+           "id": "1436679537",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1436679537",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "143374",
+             "height": 3000,
+             "textColor1": "dceffa",
+             "textColor2": "40c0f3",
+             "textColor3": "b4c9df",
+             "textColor4": "38a4d9",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/c9/1f/32/c91f3245-cdf5-8393-233b-22386574a506/3000.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "copyright": "℗ 2012 Stomp Music under licence to Genie Music Corporation",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Pop",
+             "K-Pop",
+             "Soundtrack",
+             "Classical",
+             "Worldwide"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Doggy Poo (Original Soundtrack)",
+            "playParams": {
+             "id": "1436679537",
+             "kind": "album"
+            },
+            "recordLabel": "Stomp Music",
+            "releaseDate": "2012-12-17",
+            "trackCount": 15,
+            "upc": "803680097489",
+            "url": "https://music.apple.com/us/album/doggy-poo-original-soundtrack/1436679537"
+           }
+          },
+          {
+           "id": "1552158320",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1552158320",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "070607",
+             "height": 4536,
+             "textColor1": "f2f2f2",
+             "textColor2": "d4d4d4",
+             "textColor3": "c3c2c3",
+             "textColor4": "ababab",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/46/a1/8c/46a18cc9-39a2-d3d0-ea61-01f26e2346f2/21UMGIM02490.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 4536
+            },
+            "copyright": "℗ 2021 Mind Tailor Music",
+            "editorialNotes": {
+             "short": "The pianist-composer revisits his catalogue in stunning fashion.",
+             "standard": "The pianist-composer revisits his catalogue in stunning fashion."
+            },
+            "genreNames": [
+             "Classical Crossover",
+             "Music",
+             "Classical",
+             "Piano"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": true,
+            "isSingle": false,
+            "name": "The Rewritten Memories",
+            "playParams": {
+             "id": "1552158320",
+             "kind": "album"
+            },
+            "recordLabel": "Universal Music Ltd.",
+            "releaseDate": "2021-03-26",
+            "trackCount": 8,
+            "upc": "00602435607481",
+            "url": "https://music.apple.com/us/album/the-rewritten-memories/1552158320"
+           }
+          },
+          {
+           "id": "1437487719",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1437487719",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "3d3744",
+             "height": 3000,
+             "textColor1": "f0edef",
+             "textColor2": "c7d1d2",
+             "textColor3": "ccc8cd",
+             "textColor4": "abb2b5",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/81/b0/94/81b094ee-7d3a-8f1b-323e-d9157fc78a5b/3000.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "copyright": "℗ 2014 Stomp Music under licence to Genie Music Corporation",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Pop",
+             "K-Pop",
+             "Classical"
+            ],
+            "isCompilation": true,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Yiruma Official Album 'Piano Serenade'",
+            "playParams": {
+             "id": "1437487719",
+             "kind": "album"
+            },
+            "recordLabel": "Stomp Music",
+            "releaseDate": "2014-11-27",
+            "trackCount": 20,
+            "upc": "889176249884",
+            "url": "https://music.apple.com/us/album/yiruma-official-album-piano-serenade/1437487719"
+           }
+          },
+          {
+           "id": "727831005",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/727831005",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "0f1010",
+             "height": 1417,
+             "textColor1": "f1eef1",
+             "textColor2": "e0dfdc",
+             "textColor3": "c3c2c4",
+             "textColor4": "b6b5b3",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/09/de/6f/09de6f2c-c639-e06c-0371-316202ddb016/886444275835.jpg/{w}x{h}bb.jpg",
+             "width": 1417
+            },
+            "copyright": "℗ 2013 Sony Music Entertainment Korea",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Rock",
+             "Worldwide",
+             "Classical"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Blind Film",
+            "playParams": {
+             "id": "727831005",
+             "kind": "album"
+            },
+            "recordLabel": "SME Korea Inc.",
+            "releaseDate": "2013-10-17",
+            "trackCount": 11,
+            "upc": "886444275835",
+            "url": "https://music.apple.com/us/album/blind-film/727831005"
+           }
+          },
+          {
+           "id": "1512380036",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1512380036",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "9c9189",
+             "height": 4536,
+             "textColor1": "090c08",
+             "textColor2": "11120e",
+             "textColor3": "272621",
+             "textColor4": "2d2c26",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/2e/88/e3/2e88e317-6319-0560-096b-a6d9ac27fe3b/20UMGIM22120.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 4536
+            },
+            "copyright": "℗ 2020 Mind Tailor Music",
+            "editorialNotes": {
+             "short": "Magical melodies run through a comforting meditation on solitude.",
+             "standard": "Released during the COVID-19 outbreak, South Korean pianist-composer Yiruma’s bittersweet, five-track EP is a timely meditation on solitude. He finds inspiration and comfort in the familiar, from birdsong outside his window (“Sunset Bird”) to the title track’s reflection on sitting alone during a bright spring day. Lockdown has presented the world with time for nostalgia, too—and Yiruma shares his own touching memory of his commute to music college in London (“Berrylands Rd.”), while “Yellow Room” conjures recollections of childhood. Yiruma’s melodies are pure Chopin-inspired magic, each one carried aloft by gorgeous, jazz-inflected harmonies."
+            },
+            "genreNames": [
+             "Classical Crossover",
+             "Music",
+             "Classical"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": true,
+            "isSingle": false,
+            "name": "Room with a View - EP",
+            "playParams": {
+             "id": "1512380036",
+             "kind": "album"
+            },
+            "recordLabel": "Universal Music Ltd.",
+            "releaseDate": "2020-05-22",
+            "trackCount": 5,
+            "upc": "00602507124335",
+            "url": "https://music.apple.com/us/album/room-with-a-view-ep/1512380036"
+           }
+          },
+          {
+           "id": "1761162569",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1761162569",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "0b282f",
+             "height": 3000,
+             "textColor1": "bad9db",
+             "textColor2": "8dc6d2",
+             "textColor3": "97b5b9",
+             "textColor4": "73a7b2",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3a/cd/64/3acd6472-362c-cfe3-0f1c-329b579e4f4d/24UMGIM80611.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "copyright": "A uDiscover Music Release; ℗ 2026 UMG Recordings, Inc.",
+            "genreNames": [
+             "Classical Crossover",
+             "Music",
+             "Classical"
+            ],
+            "isCompilation": false,
+            "isComplete": false,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Kiss The Rain",
+            "playParams": {
+             "id": "1761162569",
+             "kind": "album"
+            },
+            "recordLabel": "UME - Global Clearing House",
+            "releaseDate": "2024-08-07",
+            "trackCount": 7,
+            "upc": "00028948769452",
+            "url": "https://music.apple.com/us/album/kiss-the-rain/1761162569"
+           }
+          },
+          {
+           "id": "1442474491",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1442474491",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "c7c1c3",
+             "height": 3000,
+             "textColor1": "1f1d15",
+             "textColor2": "3a271a",
+             "textColor3": "413e38",
+             "textColor4": "56453c",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/de/72/74/de7274cd-edd6-4850-528a-c8e13ec24806/3000.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "copyright": "℗ 2012 Stomp Music under licence to Genie Music Corporation",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Pop",
+             "K-Pop",
+             "Classical"
+            ],
+            "isCompilation": true,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Yiruma Official Album 'Womb Tunes for a Baby' (The Original Compilation)",
+            "playParams": {
+             "id": "1442474491",
+             "kind": "album"
+            },
+            "recordLabel": "Stomp Music",
+            "releaseDate": "2012-02-20",
+            "trackCount": 24,
+            "upc": "191953018843",
+            "url": "https://music.apple.com/us/album/yiruma-official-album-pregnancy-music-piano-music-for/1442474491"
+           }
+          },
+          {
+           "id": "1437484981",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1437484981",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "faf3e0",
+             "height": 3000,
+             "textColor1": "13110e",
+             "textColor2": "141311",
+             "textColor3": "413e38",
+             "textColor4": "42403b",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/59/37/3b/59373bc1-1330-4819-30d9-d1a407d7b6e7/pioni_3000.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "copyright": "℗ 2008 Stomp Music under licence to Genie Music Corporation",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Worldwide",
+             "Pop",
+             "K-Pop",
+             "Classical"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Yiruma 6th Album 'P.N.O.N.I' (The Original & the Very First Recording)",
+            "playParams": {
+             "id": "1437484981",
+             "kind": "album"
+            },
+            "recordLabel": "Stomp Music",
+            "releaseDate": "2008-10-21",
+            "trackCount": 11,
+            "upc": "843436040598",
+            "url": "https://music.apple.com/us/album/yiruma-6th-album-p-n-o-n-i-the-original-the-very/1437484981"
+           }
+          },
+          {
+           "id": "1437494598",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1437494598",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "eeeff5",
+             "height": 3000,
+             "textColor1": "08090d",
+             "textColor2": "0a0b0e",
+             "textColor3": "36373b",
+             "textColor4": "37393c",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4c/81/0c/4c810cf1-7973-9976-846c-69f965ea60c1/dj.cfihbwta.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "copyright": "℗ 2011 Stomp Music under licence to Genie Music Corporation",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Pop",
+             "K-Pop",
+             "Classical"
+            ],
+            "isCompilation": true,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Yiruma Official Album 'The Very Best of Yiruma: Greatest Hits' (The Original & the Very First Recording)",
+            "playParams": {
+             "id": "1437494598",
+             "kind": "album"
+            },
+            "recordLabel": "Stomp Music",
+            "releaseDate": "2011-11-30",
+            "trackCount": 51,
+            "upc": "886788363052",
+            "url": "https://music.apple.com/us/album/yiruma-official-album-the-very-best-of-yiruma/1437494598"
+           }
+          },
+          {
+           "id": "1685086173",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1685086173",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "162023",
+             "height": 4536,
+             "textColor1": "e1e5ed",
+             "textColor2": "d1cfdf",
+             "textColor3": "b9bec4",
+             "textColor4": "acacba",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/bf/02/40/bf0240f1-32e1-850a-48aa-dd4276077239/23UMGIM34541.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 4536
+            },
+            "copyright": "℗ 2023 Mind Tailor Music",
+            "genreNames": [
+             "Classical Crossover",
+             "Music",
+             "Classical"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": true,
+            "isSingle": false,
+            "name": "non è la fine - EP",
+            "playParams": {
+             "id": "1685086173",
+             "kind": "album"
+            },
+            "recordLabel": "Universal Music Ltd.",
+            "releaseDate": "2023-05-12",
+            "trackCount": 5,
+            "upc": "00602455625557",
+            "url": "https://music.apple.com/us/album/non-%C3%A8-la-fine-ep/1685086173"
+           }
+          },
+          {
+           "id": "1437483687",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1437483687",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "272624",
+             "height": 3000,
+             "textColor1": "f4f1ea",
+             "textColor2": "dedcd8",
+             "textColor3": "cbc8c2",
+             "textColor4": "b9b7b4",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e3/60/48/e360480d-46a9-108d-77b5-8440c24a4213/poemusic_3000.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "copyright": "℗ 2005 Stomp Music under licence to Genie Music Corporation",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Pop",
+             "K-Pop",
+             "Classical"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Yiruma 4th Album 'Poemusic' (The Original & the Very First Recording)",
+            "playParams": {
+             "id": "1437483687",
+             "kind": "album"
+            },
+            "recordLabel": "Stomp Music",
+            "releaseDate": "2005-11-29",
+            "trackCount": 12,
+            "upc": "843436040604",
+            "url": "https://music.apple.com/us/album/yiruma-4th-album-poemusic-the-original-the-very/1437483687"
+           }
+          },
+          {
+           "id": "1508469753",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1508469753",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "93938a",
+             "height": 4536,
+             "textColor1": "0d110c",
+             "textColor2": "11130f",
+             "textColor3": "282b25",
+             "textColor4": "2b2d28",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/de/5f/1e/de5f1eb7-9ffe-6cd2-6b32-6bb19a5b5885/20UMGIM22119.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 4536
+            },
+            "copyright": "℗ 2020 Mind Tailor Music",
+            "genreNames": [
+             "Classical Crossover",
+             "Music",
+             "Classical"
+            ],
+            "isCompilation": false,
+            "isComplete": false,
+            "isMasteredForItunes": true,
+            "isSingle": true,
+            "name": "Room With A View - Single",
+            "playParams": {
+             "id": "1508469753",
+             "kind": "album"
+            },
+            "recordLabel": "Universal Music Ltd.",
+            "releaseDate": "2020-04-24",
+            "trackCount": 1,
+            "upc": "00602507124311",
+            "url": "https://music.apple.com/us/album/room-with-a-view-single/1508469753"
+           }
+          },
+          {
+           "id": "1680128494",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1680128494",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "424242",
+             "height": 4536,
+             "textColor1": "f5f5f5",
+             "textColor2": "f1f1f1",
+             "textColor3": "d1d1d1",
+             "textColor4": "cecece",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/22/76/71/22767152-eba4-3841-3d3f-b5a4dd566709/23UMGIM34543.rgb.jpg/{w}x{h}bb.jpg",
+             "width": 4536
+            },
+            "copyright": "℗ 2023 Mind Tailor Music",
+            "genreNames": [
+             "Classical Crossover",
+             "Music",
+             "Classical"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": true,
+            "isSingle": true,
+            "name": "non è la fine - Single",
+            "playParams": {
+             "id": "1680128494",
+             "kind": "album"
+            },
+            "recordLabel": "Universal Music Ltd.",
+            "releaseDate": "2023-04-14",
+            "trackCount": 1,
+            "upc": "00602455625618",
+            "url": "https://music.apple.com/us/album/non-%C3%A8-la-fine-single/1680128494"
+           }
+          },
+          {
+           "id": "717051142",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/717051142",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "0f1010",
+             "height": 1417,
+             "textColor1": "f1eef1",
+             "textColor2": "e0dfdc",
+             "textColor3": "c3c2c4",
+             "textColor4": "b6b5b3",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/a1/45/d2a145c9-54c5-3b58-dc90-a0dd65eadc8b/886444242783.jpg/{w}x{h}bb.jpg",
+             "width": 1417
+            },
+            "copyright": "℗ 2013 Sony Music Entertainment Korea",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Rock",
+             "Classical",
+             "Worldwide"
+            ],
+            "isCompilation": false,
+            "isComplete": true,
+            "isMasteredForItunes": true,
+            "isSingle": false,
+            "name": "Blind Film",
+            "playParams": {
+             "id": "717051142",
+             "kind": "album"
+            },
+            "recordLabel": "SME Korea Inc.",
+            "releaseDate": "2013-10-08",
+            "trackCount": 11,
+            "upc": "886444242783",
+            "url": "https://music.apple.com/us/album/blind-film/717051142"
+           }
+          },
+          {
+           "id": "1442478289",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1442478289",
+           "attributes": {
+            "artistName": "Yiruma",
+            "artwork": {
+             "bgColor": "fcd31e",
+             "height": 3000,
+             "textColor1": "09090d",
+             "textColor2": "0d090c",
+             "textColor3": "393210",
+             "textColor4": "3d310f",
+             "url": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f7/e1/2a/f7e12af4-5f3b-b977-618c-23b13c332caf/3000.jpg/{w}x{h}bb.jpg",
+             "width": 3000
+            },
+            "copyright": "℗ 2015 Stomp Music under licence to Genie Music Corporation",
+            "genreNames": [
+             "New Age",
+             "Music",
+             "Pop",
+             "K-Pop",
+             "Classical"
+            ],
+            "isCompilation": true,
+            "isComplete": true,
+            "isMasteredForItunes": false,
+            "isSingle": false,
+            "name": "Yiruma Official Album 'The First Special Moment with Your Baby' (The Original Compilation)",
+            "playParams": {
+             "id": "1442478289",
+             "kind": "album"
+            },
+            "recordLabel": "Stomp Music",
+            "releaseDate": "2015-03-12",
+            "trackCount": 32,
+            "upc": "191953018850",
+            "url": "https://music.apple.com/us/album/yiruma-official-album-%EC%95%84%EA%B8%B0%EC%99%80-%EB%82%98%EB%88%84%EB%8A%94-%EC%B2%AB-%EA%B5%90%EA%B0%90-%ED%94%BC%EC%95%84%EB%85%B8-%ED%83%9C%EA%B5%90%EC%9D%8C%EB%B0%98-the/1442478289"
+           }
+          }
+         ]
+        }
+       }
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

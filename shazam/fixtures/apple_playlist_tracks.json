@@ -1,0 +1,218 @@
+{
+ "next": "/v1/catalog/us/playlists/pl.92d704ba99a3411289a34fab82866a62/tracks?offset=5",
+ "data": [
+  {
+   "id": "6778877440",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/6778877440",
+   "attributes": {
+    "albumName": "Twenty One",
+    "artistName": "HUGEL, Imael Angel & Ultra Naté",
+    "artwork": {
+     "bgColor": "481f0c",
+     "height": 3000,
+     "textColor1": "ebb88d",
+     "textColor2": "e79f6f",
+     "textColor3": "ca9973",
+     "textColor4": "c7855b",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/10/b4/8610b422-9eaf-dccc-bb90-68751386deeb/1134279.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "composerName": "Florent Hugel, Bernadett Gango, Loris Cimino & Maximilian Riehl",
+    "discNumber": 1,
+    "durationInMillis": 142200,
+    "genreNames": [
+     "Electronic",
+     "Music"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": false,
+    "isrc": "QT4K42627327",
+    "name": "Movin' To The Sun",
+    "playParams": {
+     "id": "6778877440",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/aa/63/c9aa63e1-7f15-8b04-7255-7d4466c10028/mzaf_14263624320297744244.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2026-06-26",
+    "trackNumber": 4,
+    "url": "https://music.apple.com/us/album/movin-to-the-sun/6778877191?i=6778877440"
+   }
+  },
+  {
+   "id": "1890913669",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1890913669",
+   "attributes": {
+    "albumName": "Bad Times (Extended Version) - Single",
+    "artistName": "Imael Angel",
+    "artwork": {
+     "bgColor": "0e2035",
+     "height": 3000,
+     "textColor1": "efa05a",
+     "textColor2": "8db4e4",
+     "textColor3": "c28752",
+     "textColor4": "7396c1",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "composerName": "Bernadett Gango",
+    "discNumber": 1,
+    "durationInMillis": 400869,
+    "genreNames": [
+     "House",
+     "Music",
+     "Dance"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": false,
+    "isrc": "QZTB92637534",
+    "name": "Bad Times (Extended Version)",
+    "playParams": {
+     "id": "1890913669",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/fc/38/cffc38e7-ccf6-499a-2a93-eb98de0d936b/mzaf_3294710183099291572.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2026-03-30",
+    "trackNumber": 1,
+    "url": "https://music.apple.com/us/album/bad-times-extended-version/1890913668?i=1890913669"
+   }
+  },
+  {
+   "id": "1894224409",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1894224409",
+   "attributes": {
+    "albumName": "BAD TIMES - Single",
+    "artistName": "Imael Angel",
+    "artwork": {
+     "bgColor": "0e2035",
+     "height": 3000,
+     "textColor1": "efa05a",
+     "textColor2": "8db4e4",
+     "textColor3": "c28752",
+     "textColor4": "7396c1",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "composerName": "Bernadett Gango",
+    "discNumber": 1,
+    "durationInMillis": 168000,
+    "genreNames": [
+     "House",
+     "Music",
+     "Dance"
+    ],
+    "hasLyrics": false,
+    "isAppleDigitalMaster": false,
+    "isrc": "QZWFF2645518",
+    "name": "BAD TIMES",
+    "playParams": {
+     "id": "1894224409",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2026-03-30",
+    "trackNumber": 1,
+    "url": "https://music.apple.com/us/album/bad-times/1894224408?i=1894224409"
+   }
+  },
+  {
+   "id": "6796864754",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/6796864754",
+   "attributes": {
+    "albumName": "NO ME ARREPIENTO DE SENTIR TANTO",
+    "artistName": "KAROL G, Judeline & rusowsky",
+    "artwork": {
+     "bgColor": "bfdae6",
+     "height": 3000,
+     "textColor1": "030d12",
+     "textColor2": "0e2831",
+     "textColor3": "29363c",
+     "textColor4": "324c55",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "composerName": "Carolina Giraldo Navarro, Marco Masis, Omer Fedi, Lara Fernández Castrelo, Andres Jael Correa Rios & Ruslán Mediavilla",
+    "discNumber": 1,
+    "durationInMillis": 225835,
+    "genreNames": [
+     "Urbano latino",
+     "Music",
+     "Latin"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": true,
+    "isrc": "USUG12607940",
+    "name": "BbY WOW",
+    "playParams": {
+     "id": "6796864754",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/08/da/f308da3d-00cc-7682-7be9-87cb882f4ea5/mzaf_129115212197250565.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2026-08-07",
+    "trackNumber": 11,
+    "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+   }
+  },
+  {
+   "id": "1862201387",
+   "type": "songs",
+   "href": "/v1/catalog/us/songs/1862201387",
+   "attributes": {
+    "albumName": "ты в моих мыслях навсегда - Single",
+    "artistName": "урал гайсин & снялцепи",
+    "artwork": {
+     "bgColor": "ffffff",
+     "height": 3000,
+     "textColor1": "1b1b1b",
+     "textColor2": "303030",
+     "textColor3": "494949",
+     "textColor4": "595959",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/fa/e5/4dfae551-1c1d-7185-c7fa-45bd97282aa0/cover.jpg/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "composerName": "урал гайсин & Ушаков Александр Павлович",
+    "discNumber": 1,
+    "durationInMillis": 117708,
+    "genreNames": [
+     "Hip-Hop/Rap",
+     "Music"
+    ],
+    "hasLyrics": true,
+    "isAppleDigitalMaster": false,
+    "isrc": "RUAGW2511720",
+    "name": "ты в моих мыслях навсегда",
+    "playParams": {
+     "id": "1862201387",
+     "kind": "song"
+    },
+    "previews": [
+     {
+      "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/ea/25/45ea25f2-47de-3a0f-b6bc-8663ddf2c1cf/mzaf_17497837178796472735.plus.aac.p.m4a"
+     }
+    ],
+    "releaseDate": "2025-12-19",
+    "trackNumber": 1,
+    "url": "https://music.apple.com/us/album/%D1%82%D1%8B-%D0%B2-%D0%BC%D0%BE%D0%B8%D1%85-%D0%BC%D1%8B%D1%81%D0%BB%D1%8F%D1%85-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0/1862201379?i=1862201387"
+   }
+  }
+ ]
+}

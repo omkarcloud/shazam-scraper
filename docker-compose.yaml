@@ -1,0 +1,12 @@
+services:
+  shazam-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — Shazam does not rate-limit its JSON APIs, so leave this unset.
+      # - SHAZAM_PROXY=http://user:pass@host:port
+      # Optional — only for heavy use of lyrics / audio analysis / popular segments.
+      # - SHAZAM_FALLBACK_PROXY=http://user:pass@host:port

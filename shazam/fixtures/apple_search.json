@@ -1,0 +1,905 @@
+{
+ "results": {
+  "albums": {
+   "href": "/v1/catalog/us/search?limit=3&term=gorillaz&types=albums",
+   "next": "/v1/catalog/us/search?offset=3&term=gorillaz&types=albums",
+   "data": [
+    {
+     "id": "1837237742",
+     "type": "albums",
+     "href": "/v1/catalog/us/albums/1837237742",
+     "attributes": {
+      "artistName": "Gorillaz",
+      "artwork": {
+       "bgColor": "8a7c54",
+       "height": 3000,
+       "textColor1": "030202",
+       "textColor2": "020302",
+       "textColor3": "1e1a12",
+       "textColor4": "1d1b13",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/{w}x{h}bb.jpg",
+       "width": 3000
+      },
+      "contentRating": "explicit",
+      "copyright": "℗ 2026 Kong",
+      "editorialNotes": {
+       "short": "“We had a great adventure”: How loss and India inspired a new era for Gorillaz.",
+       "standard": "The ninth Gorillaz album arrived a few weeks short of their debut’s 25th anniversary. In that intervening quarter of a century, lives have been lived. <i>The Mountain</i> is a record that, like Damon Albarn’s 2021 solo album <i>The Nearer the Fountain, More Pure the Stream Flows</i>, explores loss and transformation, themes you become more sensitive to the older you get. While there aren’t huge signs of wear and tear on the faces of the animations that front Gorillaz, Albarn and Jamie Hewlett, the band’s core creative duo, are well into their fifties and, in the summer of 2024, both lost their fathers while working on <i>The Mountain</i>. “It contains grief,” Albarn tells Apple Music Radio’s Matt Wilkinson. “It’s personal, but it’s supposed to be for everyone. You know: May contain grief-stricken lyrics.”\n\nPart of Albarn’s grieving process was to scatter his father’s ashes in Varanasi on the banks of the Ganges in northern India. Hewlett had also spent a good deal of time in the country during 2022 and 2023, helping look after his mother-in-law who had suffered a stroke in the Rajasthan capital, Jaipur. Confronting mortality in a different land, they both found inspiration for the record. “Visually, it’s mind-blowing what’s going on,” says Hewlett. “There’s hundreds of years of history still evident on the street. There’ll be a guy galloping down the street on a white horse dressed in a costume from 500 years ago. Or there’s a funeral pyre or there’s a wedding ceremony. And then you’re in traffic in a tuk-tuk and there’s every car ever made and cows and horses and mules and dogs and then an elephant. If you’re an artist or a musician or anybody creative and you go to India and it doesn’t fry your mind, then clearly you’re not a creative person. It’s all there. Everything is right in front of you. And you come back full. Your mind’s just full of stuff.” \n\nThe influence is most immediately felt in the sound of an album that was partly recorded in a number of locations across India. As ever, the music draws from, and mutates, multiple genres and, here, it’s regularly infused with the instrumentation and rhythms of Indian classical musicians including Anoushka Shankar, Ajay Prasanna, Amaan Ali Bangash, and Ayaan Ali Bangash. It was also the local attitudes towards death—a vibrant contrast to the solemnity of grief in the UK—that impacted the pair. “What’s interesting is: Why is that?” says Albarn. “It’s not because we don’t have the capacity to open our minds to the ideas that you find in abundance in places like India. But it’s not the only place that has an interesting relationship with death. Go to Mexico. You go to Ghana—[going] anywhere where there’s some kind of color and joy is a good way to counterbalance all the grimness. And we seem to pile the grimness on. So not only is it a crematorium, but it’s a grey sky and it’s cold.”\n\nOn <i>The Mountain</i>, death inspires warm expressions of love: “The Sweet Prince” places Albarn at his father’s bedside “looking out across the void” during his final hours and celebrating his life and character as he waves him on his “patterned path into the next life.” And there’s hope about transference as Bollywood legend Asha Bhosle sings of a journey to the next life on “The Shadowy Light” amid bubbling synth-pop buoyed by Super Furry Animals’ Gruff Rhys declaring, “I shed, I shed my skin/The end is the beginning.”\n\nDuring “The Hardest Thing,” Albarn is at his most elegiac. So often on Gorillaz records, his voice is warped and muddied, like thoughts spilling from an answer-machine recording—is it Albarn himself or the animated 2D calling? On this song though, his vocal is untouched and vulnerable as he absorbs the shattering pain of loss with the line “The hardest thing is to say goodbye to someone you love.” Yet on the next song, “Orange County,” that very refrain becomes part of something more optimistic and spry, decorated by a chipper whistle and Shankar’s sitar. “It’s the same song,” says Albarn. “It’s slightly like if you’re in one room, you feel something in you. You go into another one and it’s got the right lighting and it smells right. It’s a different room, although it may be exactly the same space. They’re different sides of a coin, my philosophical coin.”\n\nThat subject matter also encouraged Gorillaz to return to unused recordings they’d made with collaborators who have since passed away. “We put in collages of, photographs of, and memories of other people we’ve had the privilege to know and work with over the years,” says Albarn. Afrobeat legend Tony Allen gently says, “Oya, e dide erori” (Yoruba for “Oh, wake up my dear”) on “The Hardest Thing.” Mark E. Smith comes bowling and bellowing through the celestial calm of “Delirium,” and this life dovetails with the next on “The Moon Cave,” which carries the voice of Bobby Womack and also features The Roots’ Black Thought swapping bars with the late Dave Jolicoeur of De La Soul. “They were very good friends for a long time,” says Hewlett. “They came in and [Black Thought] had a conversation with his friend, who’s somewhere else.”\n\nAs personal as <i>The Mountain</i> feels during these moments, it’s also a record with an eye on today’s wider world. On the doomy dub of “The God of Lying,” IDLES’ Joe Talbot recommends questioning everything, Sparks appear as autocratic rulers on “The Happy Dictator” and the Johnny Marr-assisted “The Plastic Guru” contemplates how belief and truth can be manipulated. It’s all part of an album where Gorillaz sound revitalized—as curious, adventurous, thoughtful, and cohesive as they’ve ever been. The end is a beginning. “We had a great adventure,” says Hewlett. “It reminded us that in order to make something really good, you have to go somewhere you’ve never been or have an experience you’ve never had, not just be in the studio in LA or London or wherever. India was the place this time. It gave us a lot.”",
+       "tagline": "New Album and Interview"
+      },
+      "genreNames": [
+       "Alternative",
+       "Music"
+      ],
+      "isCompilation": false,
+      "isComplete": true,
+      "isMasteredForItunes": false,
+      "isSingle": false,
+      "name": "The Mountain",
+      "playParams": {
+       "id": "1837237742",
+       "kind": "album"
+      },
+      "recordLabel": "Kong",
+      "releaseDate": "2026-02-27",
+      "trackCount": 15,
+      "upc": "199538459005",
+      "url": "https://music.apple.com/us/album/the-mountain/1837237742"
+     }
+    },
+    {
+     "id": "850571319",
+     "type": "albums",
+     "href": "/v1/catalog/us/albums/850571319",
+     "attributes": {
+      "artistName": "Gorillaz",
+      "artwork": {
+       "bgColor": "c9cccf",
+       "height": 1425,
+       "textColor1": "00070c",
+       "textColor2": "161d21",
+       "textColor3": "282e33",
+       "textColor4": "3a4044",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/{w}x{h}bb.jpg",
+       "width": 1425
+      },
+      "copyright": "℗ 2014 Parlophone Records Limited, a Warner Music Group company.",
+      "editorialNotes": {
+       "name": "Demon Days",
+       "short": "A-list guests and King Kong-sized hits: Gorillaz get serious.",
+       "standard": "If Gorillaz began life as a playful comment on artificiality in music (and a way for Damon Albarn to escape the shadow of Britpop) then <i>Demon Days</i> is their coming of age. Laden with A-grade guests—ranging from Roots Manuva to Dennis Hopper—and expansive in its scope, this second record delivers everything from off-kilter hip hop (“Dirty Harry” and De La Soul feature “Feel Good Inc.”) to neo-rave bangers (Shaun Ryder assist “Dare”) without putting a foot wrong."
+      },
+      "genreNames": [
+       "Alternative",
+       "Music",
+       "Pop"
+      ],
+      "isCompilation": false,
+      "isComplete": true,
+      "isMasteredForItunes": true,
+      "isSingle": false,
+      "name": "Demon Days",
+      "playParams": {
+       "id": "850571319",
+       "kind": "album"
+      },
+      "recordLabel": "Parlophone UK",
+      "releaseDate": "2005-05-11",
+      "trackCount": 15,
+      "upc": "825646291045",
+      "url": "https://music.apple.com/us/album/demon-days/850571319"
+     }
+    },
+    {
+     "id": "850576570",
+     "type": "albums",
+     "href": "/v1/catalog/us/albums/850576570",
+     "attributes": {
+      "artistName": "Gorillaz",
+      "artwork": {
+       "bgColor": "ffffff",
+       "height": 1500,
+       "textColor1": "131b10",
+       "textColor2": "192818",
+       "textColor3": "424940",
+       "textColor4": "475346",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+       "width": 1500
+      },
+      "contentRating": "explicit",
+      "copyright": "℗ 2014 Parlophone Records Limited, a Warner Music Group company.",
+      "editorialNotes": {
+       "short": "Toon in, turn on: Gorillaz reset pop’s possibilities on their 2001 debut.",
+       "standard": "The traditional origin story says Damon Albarn and Jamie Hewlett conceived Gorillaz as a comment on the soullessness and artifice of pop at the turn of the millennium. However, the concept of a virtual band had another appeal for Blur frontman Albarn: It allowed him to disappear. Even as Blur’s increasingly intrepid music distanced them from the creeping conservatism of Britpop during the late ’90s, Albarn had creative urges that couldn’t be satisfied within one of Britain’s biggest guitar bands. Retreating behind comic-book creator Hewlett’s animations gave him a new freedom to experiment. After all, who was a more convincing front for otherworldly adventures in dub, trip-hop, punk, rap Westerns, and bolero sounds? A man inexorably tied to Britpop with Union Jack bunting? Or Noodle, 2D, Russel, and Murdoc, a motley gang of vaguely apocalyptic animations?<br />\nAlbarn originally planned to be an anonymous part of the project, but that was a futile notion by the time this debut album arrived in March 2001. There’s no mistaking the careworn voice carried by rolling hip-hop beats on opener “Re-Hash.” Other Albarn identifiers run through the record—the sharpness of melody, the air of melancholy that hangs around even the brightest moments—but he calls on collaborators to help frame them in new, divergent ways. Co-producer Dan the Automator injects an astral glimmer and rib-shaking bottom end throughout, assisted by Jamaican bass legend Junior Dan, who leads bittersweet dub odysseys “Starshine” and “Slow Country.” Listen closely and you’ll hear Tom Tom Club adding finger snaps and backing vocals to the wonky euphoria of “19-2000,” before Buena Vista Social Club’s Ibrahim Ferrer brings stately elegance and wisdom to proceedings on “Latin Simone (Que Pasa Contigo).”<br />\nRarely had Albarn achieved such a fine balance of adventure and directness. Gorillaz was dismissed as “music for 12-year-olds” by Albarn’s old adversary Noel Gallagher, but that wasn’t the insult he thought it was. Albarn wanted Gorillaz to be for everyone—a mainstream catalyst for exploring all corners of music. The album’s reach was certainly broad—selling seven million copies worldwide—and its impact is still audible. By scuffing away genre boundaries while they helicoptered collaborators in and out, Gorillaz anticipated the pop of today. But the greatest testament to the strength of Albarn and Hewlett’s vision arrives when you play 2017 single “We Got the Power” and realize which Britpop legend is singing backing vocals. It took nearly two decades, but even Noel Gallagher came round in the end."
+      },
+      "genreNames": [
+       "Alternative",
+       "Music",
+       "Pop",
+       "Hip-Hop/Rap",
+       "Alternative Rap",
+       "Rock",
+       "Adult Alternative",
+       "Underground Rap",
+       "Rap"
+      ],
+      "isCompilation": false,
+      "isComplete": true,
+      "isMasteredForItunes": true,
+      "isSingle": false,
+      "name": "Gorillaz",
+      "playParams": {
+       "id": "850576570",
+       "kind": "album"
+      },
+      "recordLabel": "Parlophone UK",
+      "releaseDate": "2001-03-26",
+      "trackCount": 17,
+      "upc": "825646290703",
+      "url": "https://music.apple.com/us/album/gorillaz/850576570"
+     }
+    }
+   ]
+  },
+  "artists": {
+   "href": "/v1/catalog/us/search?limit=3&term=gorillaz&types=artists",
+   "data": [
+    {
+     "id": "567072",
+     "type": "artists",
+     "href": "/v1/catalog/us/artists/567072",
+     "attributes": {
+      "artwork": {
+       "bgColor": "000000",
+       "height": 3000,
+       "textColor1": "cda561",
+       "textColor2": "d38d4f",
+       "textColor3": "a4844e",
+       "textColor4": "a9703f",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/4b/5d/b2/4b5db26b-da7d-af1d-50a4-b3cfc133d773/ami-identity-633ffe096a09d49a5897b472da31d004-2025-09-11T17-35-59.719Z_cropped.png/{w}x{h}bb.jpg",
+       "width": 3000
+      },
+      "editorialNotes": {
+       "name": "Gorillaz",
+       "short": "Laconic trip-hop beats and sizzling electronics from Albarn and co.",
+       "standard": "Laconic trip-hop beats skate beneath ex-Blur frontman Damon Albarn’s distinctive Brit vocals on the animated foursome’s debut album. Nods to hip-hop futurism on “New Genius (Brother)” and dub swagger on “Slow Country” are fused together by Kid Koala’s skittering scratching and Dan \"The Automator\" Nakamura’s sizzling electronics."
+      },
+      "genreNames": [
+       "Alternative"
+      ],
+      "name": "Gorillaz",
+      "url": "https://music.apple.com/us/artist/gorillaz/567072"
+     },
+     "relationships": {
+      "albums": {
+       "href": "/v1/catalog/us/artists/567072/albums",
+       "next": "/v1/catalog/us/artists/567072/albums?offset=25",
+       "data": [
+        {
+         "id": "850571319",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/850571319"
+        },
+        {
+         "id": "1217911994",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1217911994"
+        },
+        {
+         "id": "859841880",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/859841880"
+        },
+        {
+         "id": "850576570",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/850576570"
+        },
+        {
+         "id": "1641561652",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1641561652"
+        },
+        {
+         "id": "1387814084",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1387814084"
+        },
+        {
+         "id": "1837237742",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1837237742"
+        },
+        {
+         "id": "850569437",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/850569437"
+        },
+        {
+         "id": "1530812327",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1530812327"
+        },
+        {
+         "id": "1673502694",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1673502694"
+        },
+        {
+         "id": "1247590076",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1247590076"
+        },
+        {
+         "id": "850583573",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/850583573"
+        },
+        {
+         "id": "1653675571",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1653675571"
+        },
+        {
+         "id": "850585388",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/850585388"
+        },
+        {
+         "id": "1300105773",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1300105773"
+        },
+        {
+         "id": "1580441749",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1580441749"
+        },
+        {
+         "id": "700025929",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/700025929"
+        },
+        {
+         "id": "884147414",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/884147414"
+        },
+        {
+         "id": "726389588",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/726389588"
+        },
+        {
+         "id": "1318802242",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1318802242"
+        },
+        {
+         "id": "699724514",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/699724514"
+        },
+        {
+         "id": "1511203452",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1511203452"
+        },
+        {
+         "id": "693778034",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/693778034"
+        },
+        {
+         "id": "1222735817",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1222735817"
+        },
+        {
+         "id": "1226535984",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1226535984"
+        }
+       ]
+      }
+     }
+    }
+   ]
+  },
+  "music-videos": {
+   "href": "/v1/catalog/us/search?limit=3&term=gorillaz&types=music-videos",
+   "next": "/v1/catalog/us/search?offset=3&term=gorillaz&types=music-videos",
+   "data": [
+    {
+     "id": "1062507627",
+     "type": "music-videos",
+     "href": "/v1/catalog/us/music-videos/1062507627",
+     "attributes": {
+      "artistName": "Gorillaz",
+      "artwork": {
+       "bgColor": "516d7a",
+       "height": 360,
+       "textColor1": "dff3fb",
+       "textColor2": "edf0f1",
+       "textColor3": "c3d8e1",
+       "textColor4": "ced6d9",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video49/v4/e2/b5/c8/e2b5c81f-88da-e0c7-90f9-bc7076a06091/GB0401000140.sca1.jpg/{w}x{h}mv.jpg",
+       "width": 640
+      },
+      "durationInMillis": 940054,
+      "genreNames": [
+       "Hip-Hop/Rap"
+      ],
+      "has4K": false,
+      "hasHDR": false,
+      "isrc": "GB0401000140",
+      "name": "Gorillaz: Journey to Plastic Beach",
+      "playParams": {
+       "id": "1062507627",
+       "kind": "musicVideo"
+      },
+      "previews": [
+       {
+        "artwork": {
+         "bgColor": "020202",
+         "height": 720,
+         "textColor1": "e3e6dc",
+         "textColor2": "cdaa85",
+         "textColor3": "b6b8b0",
+         "textColor4": "a4886a",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video116/v4/dd/ae/53/ddae5318-78b3-c7e3-794b-2b6d513c5bfd/Job520780b2-277e-4c27-ae66-a6b59fafc35b-162803386-PreviewImage_preview_image_43000_video_sdr-Time1707606972154.png/{w}x{h}bb.jpg",
+         "width": 1280
+        },
+        "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1062507627&id=793935177&aec=HD&l=en",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video126/v4/56/73/bb/5673bb95-c378-0ec3-27fe-caa2751f7eef/mzvf_289743281115464117.720w.h264lc.U.p.m4v"
+       }
+      ],
+      "releaseDate": "2010-06-25",
+      "url": "https://music.apple.com/us/music-video/gorillaz-journey-to-plastic-beach/1062507627"
+     }
+    },
+    {
+     "id": "1075687584",
+     "type": "music-videos",
+     "href": "/v1/catalog/us/music-videos/1075687584",
+     "attributes": {
+      "artistName": "Gorillaz",
+      "artwork": {
+       "bgColor": "0e1217",
+       "height": 480,
+       "textColor1": "bddaf1",
+       "textColor2": "c8d3d6",
+       "textColor3": "9ab2c5",
+       "textColor4": "a3acb0",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video/v4/0f/55/a8/0f55a8b3-7aee-ebea-a898-701411cf0153/GB0400001240.sca1.jpg/{w}x{h}mv.jpg",
+       "width": 640
+      },
+      "durationInMillis": 267007,
+      "genreNames": [
+       "Pop"
+      ],
+      "has4K": false,
+      "hasHDR": false,
+      "isrc": "GB0400001240",
+      "name": "Clint Eastwood",
+      "playParams": {
+       "id": "1075687584",
+       "kind": "musicVideo"
+      },
+      "previews": [
+       {
+        "artwork": {
+         "bgColor": "f8f8f8",
+         "height": 480,
+         "textColor1": "03050e",
+         "textColor2": "28251d",
+         "textColor3": "34353d",
+         "textColor4": "524f49",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ca/d2/09/cad209e7-ca23-8fb8-c4af-adf6d1976245/Job9d14216c-81fb-48e2-8161-a08b9376ea9e-100057239-PreviewImage_preview_image_43000_video_sdr-Time1526957906693.png/{w}x{h}bb.jpg",
+         "width": 640
+        },
+        "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1075687584&id=53446920&aec=HD&l=en",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/37/6f/30/376f30c5-3c31-3674-53ab-39bebf708a73/mzvf_8435194272596979093.640x480.h264lc.U.p.m4v"
+       }
+      ],
+      "releaseDate": "2001-03-05",
+      "url": "https://music.apple.com/us/music-video/clint-eastwood/1075687584"
+     }
+    },
+    {
+     "id": "1888614096",
+     "type": "music-videos",
+     "href": "/v1/catalog/us/music-videos/1888614096",
+     "attributes": {
+      "artistName": "Gorillaz & Zane Lowe",
+      "artwork": {
+       "bgColor": "0b0100",
+       "height": 1080,
+       "textColor1": "d6caae",
+       "textColor2": "c5bea0",
+       "textColor3": "ada28b",
+       "textColor4": "a09880",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/74/8a/cc/748acc37-1a68-7a9a-e01e-5d9eb87820bf/TN-MS-WW-Zane_Gorillaz_20260225-AUC_Episode.png/{w}x{h}mv.jpg",
+       "width": 1920
+      },
+      "contentRating": "explicit",
+      "durationInMillis": 3224192,
+      "genreNames": [
+       "Alternative"
+      ],
+      "has4K": false,
+      "hasHDR": false,
+      "isrc": "US23A8323279",
+      "name": "Gorillaz: The Zane Lowe Interview",
+      "playParams": {
+       "id": "1888614096",
+       "kind": "musicVideo"
+      },
+      "previews": [
+       {
+        "artwork": {
+         "bgColor": "090c0c",
+         "height": 1080,
+         "textColor1": "dee3af",
+         "textColor2": "d2daa8",
+         "textColor3": "b9be92",
+         "textColor4": "afb68c",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video211/v4/ab/52/cd/ab52cd67-0cbe-0100-ebc3-cc4a38572f01/Job1add6443-f7d2-4dc9-b6d3-0ece9670baf2-223733686-PreviewImage_preview_image_45000_video_sdr-Time1775242688909.png/{w}x{h}bb.jpg",
+         "width": 1920
+        },
+        "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1888614096&id=1320759914&aec=HD&l=en",
+        "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video221/v4/81/fd/59/81fd5959-985e-f2fe-2664-b0d8de29fb65/mzvf_5299524989045784532.720w.h264lc.U.p.m4v"
+       }
+      ],
+      "releaseDate": "2026-03-30",
+      "url": "https://music.apple.com/us/music-video/gorillaz-the-zane-lowe-interview/1888614096"
+     }
+    }
+   ]
+  },
+  "playlists": {
+   "href": "/v1/catalog/us/search?limit=3&term=gorillaz&types=playlists",
+   "data": [
+    {
+     "id": "pl.8e5bf1dcd88f496abb40a90b863c31c3",
+     "type": "playlists",
+     "href": "/v1/catalog/us/playlists/pl.8e5bf1dcd88f496abb40a90b863c31c3",
+     "attributes": {
+      "artwork": {
+       "bgColor": "000000",
+       "height": 1080,
+       "textColor1": "cda561",
+       "textColor2": "d38d4f",
+       "textColor3": "a4844e",
+       "textColor4": "a9703f",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/4b/5d/b2/4b5db26b-da7d-af1d-50a4-b3cfc133d773/ami-identity-633ffe096a09d49a5897b472da31d004-2025-09-11T17-35-59.719Z_cropped.png/{w}x{h}SC.FPESS04.jpg?l=en-US",
+       "width": 1080
+      },
+      "curatorName": "Apple Music Alternative",
+      "description": {
+       "short": "A cartoon prankster and a Britpop heartthrob take you on a genre-bending journey.",
+       "standard": "In the late '90s, Blur frontman Damon Albarn hooked up with cartoonist Jamie Hewlett to create a \"virtual band.\" The quirky side-project, which they named Gorillaz, quickly became the duo's most ambitious venture to date. Hewlett handles the band's distinctive punk-meets-anime visuals and Albarn lassoes a dizzying variety of sounds. Featuring a lineup of all-star guests like Snoop Dogg and Lou Reed, albums like 2005's Demon Days and 2011's Plastic Beach spin infectious and unpredictable tunes out of bits of hip-hop, indie rock, reggae, gospel, techno, and soul."
+      },
+      "isChart": false,
+      "lastModifiedDate": "2026-01-16T00:00:59Z",
+      "name": "Gorillaz Essentials",
+      "playParams": {
+       "id": "pl.8e5bf1dcd88f496abb40a90b863c31c3",
+       "kind": "playlist",
+       "versionHash": "41a2ace4c1be001b03043a427c18c477cd752b4bbf9c0e5c9ee657d7a567883c"
+      },
+      "playlistType": "editorial",
+      "url": "https://music.apple.com/us/playlist/gorillaz-essentials/pl.8e5bf1dcd88f496abb40a90b863c31c3"
+     }
+    }
+   ]
+  },
+  "songs": {
+   "href": "/v1/catalog/us/search?limit=3&term=gorillaz&types=songs",
+   "next": "/v1/catalog/us/search?offset=3&term=gorillaz&types=songs",
+   "data": [
+    {
+     "id": "850571371",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/850571371",
+     "attributes": {
+      "albumName": "Demon Days",
+      "artistName": "Gorillaz & De La Soul",
+      "artwork": {
+       "bgColor": "c9cccf",
+       "height": 1425,
+       "textColor1": "00070c",
+       "textColor2": "161d21",
+       "textColor3": "282e33",
+       "textColor4": "3a4044",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/{w}x{h}bb.jpg",
+       "width": 1425
+      },
+      "composerName": "David Jolicoeur, Brian Burton, Damon Albarn & Jamie Hewlett",
+      "discNumber": 1,
+      "durationInMillis": 221173,
+      "genreNames": [
+       "Alternative",
+       "Music",
+       "Pop"
+      ],
+      "hasLyrics": true,
+      "isAppleDigitalMaster": true,
+      "isrc": "GBAYE1400422",
+      "name": "Feel Good Inc. (feat. David Jolicoeur, Kelvin Mercer & Vincent Mason)",
+      "playParams": {
+       "id": "850571371",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/a7/90/9aa790e3-651e-9674-26ac-14aba4d3b8d1/mzaf_10454527198707970464.plus.aac.p.m4a"
+       }
+      ],
+      "releaseDate": "2005-05-09",
+      "trackNumber": 6,
+      "url": "https://music.apple.com/us/album/feel-good-inc-feat-david-jolicoeur-kelvin-mercer-vincent/850571319?i=850571371"
+     }
+    },
+    {
+     "id": "850576665",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/850576665",
+     "attributes": {
+      "albumName": "Gorillaz",
+      "artistName": "Gorillaz",
+      "artwork": {
+       "bgColor": "ffffff",
+       "height": 1500,
+       "textColor1": "131b10",
+       "textColor2": "192818",
+       "textColor3": "424940",
+       "textColor4": "475346",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+       "width": 1500
+      },
+      "composerName": "Damon Albarn & Teren Jones",
+      "contentRating": "explicit",
+      "discNumber": 1,
+      "durationInMillis": 342560,
+      "genreNames": [
+       "Alternative",
+       "Music",
+       "Pop"
+      ],
+      "hasLyrics": true,
+      "isAppleDigitalMaster": true,
+      "isrc": "GBAYE1400468",
+      "name": "Clint Eastwood",
+      "playParams": {
+       "id": "850576665",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/53/06/61530647-9a86-b309-d46e-eb4661c5ec32/mzaf_4757516976440204736.plus.aac.p.m4a"
+       }
+      ],
+      "releaseDate": "2001-03-05",
+      "trackNumber": 5,
+      "url": "https://music.apple.com/us/album/clint-eastwood/850576570?i=850576665"
+     }
+    },
+    {
+     "id": "850571388",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/850571388",
+     "attributes": {
+      "albumName": "Demon Days",
+      "artistName": "Gorillaz",
+      "artwork": {
+       "bgColor": "c9cccf",
+       "height": 1425,
+       "textColor1": "00070c",
+       "textColor2": "161d21",
+       "textColor3": "282e33",
+       "textColor4": "3a4044",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/{w}x{h}bb.jpg",
+       "width": 1425
+      },
+      "composerName": "Damon Albarn, Jamie Hewlett & Brian Burton",
+      "discNumber": 1,
+      "durationInMillis": 244307,
+      "genreNames": [
+       "Alternative",
+       "Music",
+       "Pop"
+      ],
+      "hasLyrics": true,
+      "isAppleDigitalMaster": true,
+      "isrc": "GBAYE1400428",
+      "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
+      "playParams": {
+       "id": "850571388",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/d5/99/e3d599a6-15c9-113d-65a1-f637c22de0e0/mzaf_11995878542823587618.plus.aac.p.m4a"
+       }
+      ],
+      "releaseDate": "2005-05-11",
+      "trackNumber": 12,
+      "url": "https://music.apple.com/us/album/dare-feat-shaun-ryder-roses-gabor/850571319?i=850571388"
+     }
+    }
+   ]
+  },
+  "topResults": {
+   "data": [
+    {
+     "id": "567072",
+     "type": "artists",
+     "href": "/v1/catalog/us/artists/567072",
+     "attributes": {
+      "artwork": {
+       "bgColor": "000000",
+       "height": 3000,
+       "textColor1": "cda561",
+       "textColor2": "d38d4f",
+       "textColor3": "a4844e",
+       "textColor4": "a9703f",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/4b/5d/b2/4b5db26b-da7d-af1d-50a4-b3cfc133d773/ami-identity-633ffe096a09d49a5897b472da31d004-2025-09-11T17-35-59.719Z_cropped.png/{w}x{h}bb.jpg",
+       "width": 3000
+      },
+      "editorialNotes": {
+       "name": "Gorillaz",
+       "short": "Laconic trip-hop beats and sizzling electronics from Albarn and co.",
+       "standard": "Laconic trip-hop beats skate beneath ex-Blur frontman Damon Albarn’s distinctive Brit vocals on the animated foursome’s debut album. Nods to hip-hop futurism on “New Genius (Brother)” and dub swagger on “Slow Country” are fused together by Kid Koala’s skittering scratching and Dan \"The Automator\" Nakamura’s sizzling electronics."
+      },
+      "genreNames": [
+       "Alternative"
+      ],
+      "name": "Gorillaz",
+      "url": "https://music.apple.com/us/artist/gorillaz/567072"
+     },
+     "relationships": {
+      "albums": {
+       "href": "/v1/catalog/us/artists/567072/albums",
+       "next": "/v1/catalog/us/artists/567072/albums?offset=25",
+       "data": [
+        {
+         "id": "850571319",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/850571319"
+        },
+        {
+         "id": "1217911994",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1217911994"
+        },
+        {
+         "id": "859841880",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/859841880"
+        },
+        {
+         "id": "850576570",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/850576570"
+        },
+        {
+         "id": "1641561652",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1641561652"
+        },
+        {
+         "id": "1387814084",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1387814084"
+        },
+        {
+         "id": "1837237742",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1837237742"
+        },
+        {
+         "id": "850569437",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/850569437"
+        },
+        {
+         "id": "1530812327",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1530812327"
+        },
+        {
+         "id": "1673502694",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1673502694"
+        },
+        {
+         "id": "1247590076",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1247590076"
+        },
+        {
+         "id": "850583573",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/850583573"
+        },
+        {
+         "id": "1653675571",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1653675571"
+        },
+        {
+         "id": "850585388",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/850585388"
+        },
+        {
+         "id": "1300105773",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1300105773"
+        },
+        {
+         "id": "1580441749",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1580441749"
+        },
+        {
+         "id": "700025929",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/700025929"
+        },
+        {
+         "id": "884147414",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/884147414"
+        },
+        {
+         "id": "726389588",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/726389588"
+        },
+        {
+         "id": "1318802242",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1318802242"
+        },
+        {
+         "id": "699724514",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/699724514"
+        },
+        {
+         "id": "1511203452",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1511203452"
+        },
+        {
+         "id": "693778034",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/693778034"
+        },
+        {
+         "id": "1222735817",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1222735817"
+        },
+        {
+         "id": "1226535984",
+         "type": "albums",
+         "href": "/v1/catalog/us/albums/1226535984"
+        }
+       ]
+      }
+     }
+    },
+    {
+     "id": "850571371",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/850571371",
+     "attributes": {
+      "albumName": "Demon Days",
+      "artistName": "Gorillaz & De La Soul",
+      "artwork": {
+       "bgColor": "c9cccf",
+       "height": 1425,
+       "textColor1": "00070c",
+       "textColor2": "161d21",
+       "textColor3": "282e33",
+       "textColor4": "3a4044",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/{w}x{h}bb.jpg",
+       "width": 1425
+      },
+      "composerName": "David Jolicoeur, Brian Burton, Damon Albarn & Jamie Hewlett",
+      "discNumber": 1,
+      "durationInMillis": 221173,
+      "genreNames": [
+       "Alternative",
+       "Music",
+       "Pop"
+      ],
+      "hasLyrics": true,
+      "isAppleDigitalMaster": true,
+      "isrc": "GBAYE1400422",
+      "name": "Feel Good Inc. (feat. David Jolicoeur, Kelvin Mercer & Vincent Mason)",
+      "playParams": {
+       "id": "850571371",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/a7/90/9aa790e3-651e-9674-26ac-14aba4d3b8d1/mzaf_10454527198707970464.plus.aac.p.m4a"
+       }
+      ],
+      "releaseDate": "2005-05-09",
+      "trackNumber": 6,
+      "url": "https://music.apple.com/us/album/feel-good-inc-feat-david-jolicoeur-kelvin-mercer-vincent/850571319?i=850571371"
+     }
+    },
+    {
+     "id": "850576665",
+     "type": "songs",
+     "href": "/v1/catalog/us/songs/850576665",
+     "attributes": {
+      "albumName": "Gorillaz",
+      "artistName": "Gorillaz",
+      "artwork": {
+       "bgColor": "ffffff",
+       "height": 1500,
+       "textColor1": "131b10",
+       "textColor2": "192818",
+       "textColor3": "424940",
+       "textColor4": "475346",
+       "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+       "width": 1500
+      },
+      "composerName": "Damon Albarn & Teren Jones",
+      "contentRating": "explicit",
+      "discNumber": 1,
+      "durationInMillis": 342560,
+      "genreNames": [
+       "Alternative",
+       "Music",
+       "Pop"
+      ],
+      "hasLyrics": true,
+      "isAppleDigitalMaster": true,
+      "isrc": "GBAYE1400468",
+      "name": "Clint Eastwood",
+      "playParams": {
+       "id": "850576665",
+       "kind": "song"
+      },
+      "previews": [
+       {
+        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/53/06/61530647-9a86-b309-d46e-eb4661c5ec32/mzaf_4757516976440204736.plus.aac.p.m4a"
+       }
+      ],
+      "releaseDate": "2001-03-05",
+      "trackNumber": 5,
+      "url": "https://music.apple.com/us/album/clint-eastwood/850576570?i=850576665"
+     }
+    }
+   ]
+  }
+ },
+ "meta": {
+  "results": {
+   "order": [
+    "topResults",
+    "artists",
+    "songs",
+    "albums",
+    "playlists",
+    "music-videos"
+   ],
+   "rawOrder": [
+    "topResults",
+    "artists",
+    "songs",
+    "albums",
+    "playlists",
+    "music-videos"
+   ]
+  }
+ }
+}

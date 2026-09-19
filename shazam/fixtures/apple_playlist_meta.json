@@ -1,0 +1,4323 @@
+{
+ "data": [
+  {
+   "id": "pl.92d704ba99a3411289a34fab82866a62",
+   "type": "playlists",
+   "href": "/v1/catalog/us/playlists/pl.92d704ba99a3411289a34fab82866a62",
+   "attributes": {
+    "curatorName": "Apple Music",
+    "isChart": true,
+    "lastModifiedDate": "2026-09-19T06:00:01Z",
+    "name": "Shazam Global Charts",
+    "playParams": {
+     "id": "pl.92d704ba99a3411289a34fab82866a62",
+     "kind": "playlist",
+     "versionHash": "afeffaeaf5927bd185fb16f4f44b5a77e56f87c5c52fbaf36a8ec142d79696a3"
+    },
+    "playlistType": "editorial",
+    "url": "https://music.apple.com/us/playlist/shazam-global-charts/pl.92d704ba99a3411289a34fab82866a62"
+   },
+   "relationships": {
+    "curator": {
+     "href": "/v1/catalog/us/playlists/pl.92d704ba99a3411289a34fab82866a62/curator",
+     "data": []
+    },
+    "tracks": {
+     "href": "/v1/catalog/us/playlists/pl.92d704ba99a3411289a34fab82866a62/tracks",
+     "next": "/v1/catalog/us/playlists/pl.92d704ba99a3411289a34fab82866a62/tracks?offset=100",
+     "data": [
+      {
+       "id": "6778877440",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6778877440",
+       "attributes": {
+        "albumName": "Twenty One",
+        "artistName": "HUGEL, Imael Angel & Ultra Naté",
+        "artwork": {
+         "bgColor": "481f0c",
+         "height": 3000,
+         "textColor1": "ebb88d",
+         "textColor2": "e79f6f",
+         "textColor3": "ca9973",
+         "textColor4": "c7855b",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/10/b4/8610b422-9eaf-dccc-bb90-68751386deeb/1134279.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Florent Hugel, Bernadett Gango, Loris Cimino & Maximilian Riehl",
+        "discNumber": 1,
+        "durationInMillis": 142200,
+        "genreNames": [
+         "Electronic",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QT4K42627327",
+        "name": "Movin' To The Sun",
+        "playParams": {
+         "id": "6778877440",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/aa/63/c9aa63e1-7f15-8b04-7255-7d4466c10028/mzaf_14263624320297744244.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-06-26",
+        "trackNumber": 4,
+        "url": "https://music.apple.com/us/album/movin-to-the-sun/6778877191?i=6778877440"
+       }
+      },
+      {
+       "id": "1890913669",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1890913669",
+       "attributes": {
+        "albumName": "Bad Times (Extended Version) - Single",
+        "artistName": "Imael Angel",
+        "artwork": {
+         "bgColor": "0e2035",
+         "height": 3000,
+         "textColor1": "efa05a",
+         "textColor2": "8db4e4",
+         "textColor3": "c28752",
+         "textColor4": "7396c1",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/08/03/7f/08037f7d-6173-9348-991d-5966f0686539/artwork.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Bernadett Gango",
+        "discNumber": 1,
+        "durationInMillis": 400869,
+        "genreNames": [
+         "House",
+         "Music",
+         "Dance"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QZTB92637534",
+        "name": "Bad Times (Extended Version)",
+        "playParams": {
+         "id": "1890913669",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cf/fc/38/cffc38e7-ccf6-499a-2a93-eb98de0d936b/mzaf_3294710183099291572.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-03-30",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/bad-times-extended-version/1890913668?i=1890913669"
+       }
+      },
+      {
+       "id": "1894224409",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1894224409",
+       "attributes": {
+        "albumName": "BAD TIMES - Single",
+        "artistName": "Imael Angel",
+        "artwork": {
+         "bgColor": "0e2035",
+         "height": 3000,
+         "textColor1": "efa05a",
+         "textColor2": "8db4e4",
+         "textColor3": "c28752",
+         "textColor4": "7396c1",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/ad/da/d5adda6b-65f4-755a-05ab-f33a4e0e4cdd/artwork.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Bernadett Gango",
+        "discNumber": 1,
+        "durationInMillis": 168000,
+        "genreNames": [
+         "House",
+         "Music",
+         "Dance"
+        ],
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "isrc": "QZWFF2645518",
+        "name": "BAD TIMES",
+        "playParams": {
+         "id": "1894224409",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/6c/e9/796ce961-9c5b-8f48-dd6d-9ee1ff38dc58/mzaf_3288254996312096641.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-03-30",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/bad-times/1894224408?i=1894224409"
+       }
+      },
+      {
+       "id": "6796864754",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6796864754",
+       "attributes": {
+        "albumName": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "artistName": "KAROL G, Judeline & rusowsky",
+        "artwork": {
+         "bgColor": "bfdae6",
+         "height": 3000,
+         "textColor1": "030d12",
+         "textColor2": "0e2831",
+         "textColor3": "29363c",
+         "textColor4": "324c55",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Carolina Giraldo Navarro, Marco Masis, Omer Fedi, Lara Fernández Castrelo, Andres Jael Correa Rios & Ruslán Mediavilla",
+        "discNumber": 1,
+        "durationInMillis": 225835,
+        "genreNames": [
+         "Urbano latino",
+         "Music",
+         "Latin"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUG12607940",
+        "name": "BbY WOW",
+        "playParams": {
+         "id": "6796864754",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f3/08/da/f308da3d-00cc-7682-7be9-87cb882f4ea5/mzaf_129115212197250565.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-08-07",
+        "trackNumber": 11,
+        "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+       }
+      },
+      {
+       "id": "1862201387",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1862201387",
+       "attributes": {
+        "albumName": "ты в моих мыслях навсегда - Single",
+        "artistName": "урал гайсин & снялцепи",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 3000,
+         "textColor1": "1b1b1b",
+         "textColor2": "303030",
+         "textColor3": "494949",
+         "textColor4": "595959",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4d/fa/e5/4dfae551-1c1d-7185-c7fa-45bd97282aa0/cover.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "урал гайсин & Ушаков Александр Павлович",
+        "discNumber": 1,
+        "durationInMillis": 117708,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "RUAGW2511720",
+        "name": "ты в моих мыслях навсегда",
+        "playParams": {
+         "id": "1862201387",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/45/ea/25/45ea25f2-47de-3a0f-b6bc-8663ddf2c1cf/mzaf_17497837178796472735.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-12-19",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/%D1%82%D1%8B-%D0%B2-%D0%BC%D0%BE%D0%B8%D1%85-%D0%BC%D1%8B%D1%81%D0%BB%D1%8F%D1%85-%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0/1862201379?i=1862201387"
+       }
+      },
+      {
+       "id": "6812803286",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6812803286",
+       "attributes": {
+        "albumName": "Vibin - Single",
+        "artistName": "Wxoda",
+        "artwork": {
+         "bgColor": "281c1c",
+         "height": 3000,
+         "textColor1": "fff4f7",
+         "textColor2": "ffced8",
+         "textColor3": "d3c8cb",
+         "textColor4": "d3aab2",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e9/0f/4e/e90f4e4d-0fb0-57a9-461d-533e85417bb4/885288590388.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Joshua Felder",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 93192,
+        "genreNames": [
+         "Hip-Hop",
+         "Music",
+         "Hip-Hop/Rap"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QT6FN2691167",
+        "name": "Vibin",
+        "playParams": {
+         "id": "6812803286",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/78/86/c07886de-87ef-5778-c045-25bb827014fb/mzaf_15605963228632851523.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-07-31",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/vibin/6812803282?i=6812803286"
+       }
+      },
+      {
+       "id": "1779948717",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1779948717",
+       "attributes": {
+        "albumName": "Dua Lipa - Live from the Royal Albert Hall",
+        "artistName": "Dua Lipa",
+        "artwork": {
+         "bgColor": "2c0205",
+         "height": 4000,
+         "textColor1": "f85751",
+         "textColor2": "f93336",
+         "textColor3": "cf4642",
+         "textColor4": "d0292c",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0e/c1/57/0ec1575f-5153-ac4b-d578-c5fa3a90bfe1/5021732511676.jpg/{w}x{h}bb.jpg",
+         "width": 4000
+        },
+        "composerName": "Caroline Ailin, Danny L Harle, Dua Lipa, Kevin Parker, Martina Sorbara, Nicholas Gale, Shaun Frank, Steve Francis Richard Mastroianni, Tobias Jesso Jr. & Yaakov Gruzman",
+        "discNumber": 1,
+        "durationInMillis": 220937,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "GBAHT2400726",
+        "name": "Training Season (Live from the Royal Albert Hall)",
+        "playParams": {
+         "id": "1779948717",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0e/8a/6d/0e8a6dbd-feb2-0e55-149e-72b08d48d950/mzaf_15766175317704968405.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2024-05-03",
+        "trackNumber": 4,
+        "url": "https://music.apple.com/us/album/training-season-live-from-the-royal-albert-hall/1779948675?i=1779948717"
+       }
+      },
+      {
+       "id": "6768130367",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6768130367",
+       "attributes": {
+        "albumName": "Love & Tears",
+        "artistName": "GENER8ION & Yung Lean",
+        "artwork": {
+         "bgColor": "0c0c0c",
+         "height": 1400,
+         "textColor1": "e9bc92",
+         "textColor2": "ccb59a",
+         "textColor3": "bd9977",
+         "textColor4": "a6937e",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b2/5e/f6/b25ef627-b604-0d7f-6d2a-c013697a1ebb/823375169178_Cover.jpg/{w}x{h}bb.jpg",
+         "width": 1400
+        },
+        "composerName": "Jonatan Leandoer & Benoit Heitz",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 173387,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "FRDWM2600170",
+        "name": "STORM II",
+        "playParams": {
+         "id": "6768130367",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/eb/d7/47ebd707-227b-3191-08dc-ed82200a3004/mzaf_7504325440329030173.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-04-24",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/storm-ii/6768130358?i=6768130367"
+       }
+      },
+      {
+       "id": "1883679876",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1883679876",
+       "attributes": {
+        "albumName": "Jamaican (Bam Bam) - Single",
+        "artistName": "HUGEL & SOLTO (FR)",
+        "artwork": {
+         "bgColor": "a80725",
+         "height": 3000,
+         "textColor1": "ffde18",
+         "textColor2": "fad344",
+         "textColor3": "edb31b",
+         "textColor4": "e9aa3e",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ed/f1/7c/edf17ca2-848a-c0e7-0772-4abf9666d70f/26UMGIM27048.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "HUGEL, Antoine Duthey, François-Guillaume Muller, Winston Delano Riley, Cordel Dexter Burrell & Ophelia Myrtella Russell",
+        "discNumber": 1,
+        "durationInMillis": 156393,
+        "genreNames": [
+         "Afro House",
+         "Music",
+         "African"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "ITFGO2500099",
+        "name": "Jamaican (Bam Bam)",
+        "playParams": {
+         "id": "1883679876",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1e/f6/14/1ef614c6-6f76-4142-8872-d7522c48648c/mzaf_16960215745044163951.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-11-07",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/jamaican-bam-bam/1883679875?i=1883679876"
+       }
+      },
+      {
+       "id": "6797421554",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6797421554",
+       "attributes": {
+        "albumName": "Joseph - Single",
+        "artistName": "Falling In Reverse, Corey Taylor & Serj Tankian",
+        "artwork": {
+         "bgColor": "020202",
+         "height": 3000,
+         "textColor1": "f2f2f2",
+         "textColor2": "d8d8d8",
+         "textColor3": "c2c2c2",
+         "textColor4": "adadad",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/47/d0/2f/47d02f1d-6066-a073-2580-6d9765f5222b/0045778810185.png/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Ronnie Radke, Jason Richardson, Daniel Laskiewicz & Luke Holland",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 249359,
+        "genreNames": [
+         "Rock",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USEP42633001",
+        "name": "Joseph",
+        "playParams": {
+         "id": "6797421554",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a9/9a/a9/a99aa9fa-138a-387f-00c1-95dd63abb1b5/mzaf_7474550640412008204.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-08-20",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/joseph/6797421553?i=6797421554"
+       }
+      },
+      {
+       "id": "1836226731",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1836226731",
+       "attributes": {
+        "albumName": "Deadbeat",
+        "artistName": "Tame Impala",
+        "artwork": {
+         "bgColor": "404041",
+         "height": 3000,
+         "textColor1": "fdfdfd",
+         "textColor2": "e4e4e4",
+         "textColor3": "d7d7d7",
+         "textColor4": "c3c3c3",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Kevin Parker",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 223070,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Dance"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USQX92504224",
+        "name": "Loser",
+        "playParams": {
+         "id": "1836226731",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/3c/93/963c93ce-93b1-40c6-ed8d-04bb8cc27c82/mzaf_4401986005887392953.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-09-07",
+        "trackNumber": 4,
+        "url": "https://music.apple.com/us/album/loser/1836226516?i=1836226731"
+       }
+      },
+      {
+       "id": "1746833484",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1746833484",
+       "attributes": {
+        "albumName": "Purple Rain",
+        "artistName": "Prince & The Revolution",
+        "artwork": {
+         "bgColor": "0c0a0e",
+         "height": 1425,
+         "textColor1": "f2ebeb",
+         "textColor2": "dcd3d8",
+         "textColor3": "c4bebf",
+         "textColor4": "b2abb0",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/00/17/f2/0017f24f-e580-b77a-71a8-1bc7b75881bf/603497822065.jpg/{w}x{h}bb.jpg",
+         "width": 1425
+        },
+        "composerName": "Prince",
+        "discNumber": 1,
+        "durationInMillis": 521867,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USWB10001880",
+        "name": "Purple Rain",
+        "playParams": {
+         "id": "1746833484",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/09/30/1109307b-cdbd-20b1-aebc-c39c632a73a4/mzaf_11384520489297938238.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "1984-06-25",
+        "trackNumber": 9,
+        "url": "https://music.apple.com/us/album/purple-rain/1746833068?i=1746833484"
+       }
+      },
+      {
+       "id": "1877803360",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1877803360",
+       "attributes": {
+        "albumName": "Self Aware - Single",
+        "artistName": "Temper City",
+        "artwork": {
+         "bgColor": "b60000",
+         "height": 3000,
+         "textColor1": "c4f1f9",
+         "textColor2": "a5e2ef",
+         "textColor3": "c1c1c7",
+         "textColor4": "a8b5bf",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ba/63/6e/ba636e4b-5c9a-e89c-87d3-1a9ab7773644/1084252.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Eytan Peled, Chen Kordova & Aviv Barenholtz",
+        "discNumber": 1,
+        "durationInMillis": 180741,
+        "genreNames": [
+         "Alternative",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QZHN52696246",
+        "name": "Self Aware",
+        "playParams": {
+         "id": "1877803360",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/89/4d/48894def-36b6-0085-9184-b28a200cf47a/mzaf_6109765307626823795.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-02-15",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/self-aware/1877803357?i=1877803360"
+       }
+      },
+      {
+       "id": "6789752112",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6789752112",
+       "attributes": {
+        "albumName": "Rise Slow - Single",
+        "artistName": "Kimo Sounds",
+        "artwork": {
+         "bgColor": "f58a71",
+         "height": 1400,
+         "textColor1": "131108",
+         "textColor2": "161810",
+         "textColor3": "40291d",
+         "textColor4": "422f23",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/27/8a/23278a46-aa21-30f3-9e68-213772c53ea7/825181567094.jpg/{w}x{h}bb.jpg",
+         "width": 1400
+        },
+        "composerName": "IBRAHYM ESSHAEBA",
+        "discNumber": 1,
+        "durationInMillis": 233360,
+        "genreNames": [
+         "Electronic",
+         "Music",
+         "Dance",
+         "House"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QZZ7T2635027",
+        "name": "Rise Slow",
+        "playParams": {
+         "id": "6789752112",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/57/8e/48/578e4876-2078-c1fd-d059-545e35825e95/mzaf_12624640908717768465.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-05-19",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/rise-slow/6789752111?i=6789752112"
+       }
+      },
+      {
+       "id": "6810267607",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6810267607",
+       "attributes": {
+        "albumName": "9",
+        "artistName": "FOLA, Bella Shmurda & Zlatan",
+        "artwork": {
+         "bgColor": "000000",
+         "height": 3000,
+         "textColor1": "ebeb7b",
+         "textColor2": "ebeb7b",
+         "textColor3": "bcbc63",
+         "textColor4": "bcbc63",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/92/75/82/92758237-076c-796d-e24b-1582a5eeef8a/199316770292_cover.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Afolarin Odunlami & Akorede Solarin",
+        "discNumber": 1,
+        "durationInMillis": 190973,
+        "genreNames": [
+         "African",
+         "Music",
+         "Afrobeats"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USUYG1828845",
+        "name": "it's over",
+        "playParams": {
+         "id": "6810267607",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/51/52/805152ab-db8c-b64d-8e28-97d56908edf7/mzaf_506951994379990087.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-09-11",
+        "trackNumber": 14,
+        "url": "https://music.apple.com/us/album/its-over/6810267024?i=6810267607"
+       }
+      },
+      {
+       "id": "6799036076",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6799036076",
+       "attributes": {
+        "albumName": "No condition is permanent - Single",
+        "artistName": "Rocha Maria",
+        "artwork": {
+         "bgColor": "4b3a6d",
+         "height": 1400,
+         "textColor1": "a0c1f7",
+         "textColor2": "e59cbd",
+         "textColor3": "8fa6dc",
+         "textColor4": "c688ad",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/f1/9d/b8f19dc6-fc10-5609-8ad8-8847ac87eb7a/4015712.jpg/{w}x{h}bb.jpg",
+         "width": 1400
+        },
+        "composerName": "Rocha Maria",
+        "discNumber": 1,
+        "durationInMillis": 310315,
+        "genreNames": [
+         "Reggae",
+         "Music"
+        ],
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "isrc": "QT8C22651685",
+        "name": "No condition is permanent",
+        "playParams": {
+         "id": "6799036076",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/b9/d2/ccb9d270-1477-7e42-61c5-85262158f490/mzaf_6669644400548001796.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-08-07",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/no-condition-is-permanent/6799036074?i=6799036076"
+       }
+      },
+      {
+       "id": "1889361602",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1889361602",
+       "attributes": {
+        "albumName": "Mr. Know It All - Single",
+        "artistName": "Teddy Swims",
+        "artwork": {
+         "bgColor": "c1c1c6",
+         "height": 3000,
+         "textColor1": "1a1819",
+         "textColor2": "162635",
+         "textColor3": "3b3a3b",
+         "textColor4": "384552",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7e/fb/0b/7efb0b1b-8e34-5bd0-99ee-eafc83b8d5c7/054391217349.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Alexander Izquierdo, Ed Drewett, Jaten Dimsdale, Joshua Coleman & Julian Bunetta",
+        "discNumber": 1,
+        "durationInMillis": 198425,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USWB12601324",
+        "name": "Mr. Know It All",
+        "playParams": {
+         "id": "1889361602",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8b/66/e2/8b66e2c2-73bb-1041-3e37-648c54eb0073/mzaf_10721864796995191648.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-04-09",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/mr-know-it-all/1889361601?i=1889361602"
+       }
+      },
+      {
+       "id": "6783917229",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6783917229",
+       "attributes": {
+        "albumName": "Pink Blush - Single",
+        "artistName": "dolly babe",
+        "artwork": {
+         "bgColor": "da5381",
+         "height": 3000,
+         "textColor1": "16040d",
+         "textColor2": "190a11",
+         "textColor3": "3d1424",
+         "textColor4": "401827",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/e5/21/a1e521a1-2eab-8a76-2824-36c3978b975d/0.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Latiffini Brannon",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 126687,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QZHZ62653828",
+        "name": "Pink Blush",
+        "playParams": {
+         "id": "6783917229",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/89/52/d689522d-416e-0fcf-e4fd-db989c677437/mzaf_1043987127463886777.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-06-30",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/pink-blush/6783917228?i=6783917229"
+       }
+      },
+      {
+       "id": "6781074080",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6781074080",
+       "attributes": {
+        "albumName": "My Body Isn't Ready - Single",
+        "artistName": "sombr",
+        "artwork": {
+         "bgColor": "d5dacf",
+         "height": 3000,
+         "textColor1": "1b1714",
+         "textColor2": "2c2925",
+         "textColor3": "403e39",
+         "textColor4": "4d4c47",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2f/1d/f6/2f1df6d3-09e2-e0a2-2e2b-fd5bb05be1ab/054391214515.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Shane Boose",
+        "discNumber": 1,
+        "durationInMillis": 217380,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USWB12602270",
+        "name": "My Body Isn't Ready",
+        "playParams": {
+         "id": "6781074080",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8d/fc/02/8dfc0240-e88d-aad3-6250-be1a0647a626/mzaf_8060606026433109264.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-06-25",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/my-body-isnt-ready/6781074078?i=6781074080"
+       }
+      },
+      {
+       "id": "6778928204",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6778928204",
+       "attributes": {
+        "albumName": "Mi Chico (Jason Derulo x Melody Version) - Single",
+        "artistName": "DJ Goja, Jason Derulo & Melody",
+        "artwork": {
+         "bgColor": "df856a",
+         "height": 3000,
+         "textColor1": "0e0f10",
+         "textColor2": "111111",
+         "textColor3": "382722",
+         "textColor4": "3b2823",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/aa/2b/c5aa2b28-7860-b387-fec4-4cefd5096150/712132026161_cover.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Ovidiu Marius Goja, Jason Desrouleaux & Shawn Charles",
+        "discNumber": 1,
+        "durationInMillis": 125357,
+        "genreNames": [
+         "Afro-Pop",
+         "Music",
+         "African"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QZTLA2694864",
+        "name": "Mi Chico (Jason Derulo x Melody Version)",
+        "playParams": {
+         "id": "6778928204",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/5c/22/e75c22b4-f44a-b9a8-d401-63197cb75191/mzaf_18113839483971952063.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-06-26",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/mi-chico-jason-derulo-x-melody-version/6778928203?i=6778928204"
+       }
+      },
+      {
+       "id": "6768469976",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6768469976",
+       "attributes": {
+        "albumName": "Dai Dai - Single",
+        "artistName": "Shakira & Burna Boy",
+        "artwork": {
+         "bgColor": "f5f6f1",
+         "height": 3000,
+         "textColor1": "140606",
+         "textColor2": "0a0a0a",
+         "textColor3": "413635",
+         "textColor4": "393938",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Shakira Isabel Mebarak Ripoll, Alexander (A.C) Castillo Vasquez, Vanesa castillo vasquez, Ahmed Saghir, Ed Sheeran, Jon Bellion & Damini Ebunoluwa Ogulu",
+        "discNumber": 1,
+        "durationInMillis": 223448,
+        "genreNames": [
+         "Pop",
+         "Music",
+         "African",
+         "Afro-Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USQX92602558",
+        "name": "Dai Dai",
+        "playParams": {
+         "id": "6768469976",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/56/7a/bc/567abc01-853d-946a-a47d-e75cb69b5b13/mzaf_345300859410957179.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-05-14",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/dai-dai/6768469975?i=6768469976"
+       }
+      },
+      {
+       "id": "1869436839",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1869436839",
+       "attributes": {
+        "albumName": "Dandelion",
+        "artistName": "Ella Langley",
+        "artwork": {
+         "bgColor": "4f4037",
+         "height": 4500,
+         "textColor1": "e8cdba",
+         "textColor2": "dcc4b3",
+         "textColor3": "c9b19f",
+         "textColor4": "c0aa9a",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/{w}x{h}bb.jpg",
+         "width": 4500
+        },
+        "composerName": "Ella Langley, Luke Dick, Miranda Lambert & Joybeth Taylor",
+        "discNumber": 1,
+        "durationInMillis": 231747,
+        "genreNames": [
+         "Country",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USSM12504190",
+        "name": "Choosin' Texas",
+        "playParams": {
+         "id": "1869436839",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/11/d6/3e/11d63e12-7e7e-e297-14e5-815c7b0a1248/mzaf_11639498575020843766.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-10-17",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/choosin-texas/1869436835?i=1869436839"
+       }
+      },
+      {
+       "id": "6805129295",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6805129295",
+       "attributes": {
+        "albumName": "Sweet Forever",
+        "artistName": "Mondo Cozmo",
+        "artwork": {
+         "bgColor": "251316",
+         "height": 3000,
+         "textColor1": "eaa992",
+         "textColor2": "e3896e",
+         "textColor3": "c38b79",
+         "textColor4": "bd715c",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/20/f5/6820f5d7-6314-7790-184b-09c250199097/33591.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Joshua Keith Ostrander",
+        "discNumber": 1,
+        "durationInMillis": 303000,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Indie Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "US5ED2600457",
+        "name": "Sweet Forever",
+        "playParams": {
+         "id": "6805129295",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2f/11/da/2f11da10-8b6a-d8e0-6cf9-cc113a861f19/mzaf_16712773561483361772.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-09-11",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/sweet-forever/6805129290?i=6805129295"
+       }
+      },
+      {
+       "id": "6792884088",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6792884088",
+       "attributes": {
+        "albumName": "PRIMA",
+        "artistName": "ADÉLA",
+        "artwork": {
+         "bgColor": "f3f3f1",
+         "height": 3000,
+         "textColor1": "2a060f",
+         "textColor2": "38101d",
+         "textColor3": "52363c",
+         "textColor4": "5d3d47",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Adéla Jergova, Blake Slatkin, Billy Walsh, Julia Michaels, Uffie & Dylan Brady",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 181270,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUM72606032",
+        "name": "Nicole Kidman",
+        "playParams": {
+         "id": "6792884088",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/76/bf/8b/76bf8bad-7dff-5adc-7a2f-05c4b03e1e86/mzaf_11974986281424556101.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-09-04",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
+       }
+      },
+      {
+       "id": "6763656725",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6763656725",
+       "attributes": {
+        "albumName": "petal",
+        "artistName": "Ariana Grande",
+        "artwork": {
+         "bgColor": "181818",
+         "height": 3000,
+         "textColor1": "f3f3f3",
+         "textColor2": "e4e4e4",
+         "textColor3": "c7c7c7",
+         "textColor4": "bbbbbb",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/f4/96/56f49612-02dd-83f4-44fe-d2118cc70707/26UMGIM51129.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Ilya Salmanzadeh, Max Martin & Ariana Grande",
+        "discNumber": 1,
+        "durationInMillis": 197950,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUM72601821",
+        "name": "hate that i made you love me",
+        "playParams": {
+         "id": "6763656725",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/fb/65/cdfb65fe-7d80-abde-0153-d698d1e7bde1/mzaf_14991009929085569283.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-05-28",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/hate-that-i-made-you-love-me/1895420874?i=6763656725"
+       }
+      },
+      {
+       "id": "6800491690",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6800491690",
+       "attributes": {
+        "albumName": "Withness",
+        "artistName": "ANOTR & 54 Ultra",
+        "artwork": {
+         "bgColor": "e9eaea",
+         "height": 3000,
+         "textColor1": "202853",
+         "textColor2": "2a2847",
+         "textColor3": "484f71",
+         "textColor4": "504f68",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d1/4e/8f/d14e8f6e-3bb3-ee1d-1e7f-de4a59af25d0/14447.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Hank Korsan, Jesse van der Heijden, Oguz han Guney, John Anthony Rodriguez, Jackson Shanks & Spilly Cave",
+        "discNumber": 1,
+        "durationInMillis": 191077,
+        "genreNames": [
+         "Dance",
+         "Music",
+         "House"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "CBEFB2600137",
+        "name": "Talk To You (ft. 54 Ultra)",
+        "playParams": {
+         "id": "6800491690",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/9f/a7/d09fa71f-58b5-eade-f614-4d49d8505ad2/mzaf_4752553421791475526.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-03-06",
+        "trackNumber": 7,
+        "url": "https://music.apple.com/us/album/talk-to-you-ft-54-ultra/6800491553?i=6800491690"
+       }
+      },
+      {
+       "id": "6783994964",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6783994964",
+       "attributes": {
+        "albumName": "Is This Heaven? (Extended)",
+        "artistName": "STELLA LEFTY",
+        "artwork": {
+         "bgColor": "cfc8c5",
+         "height": 3000,
+         "textColor1": "1b1d14",
+         "textColor2": "25251e",
+         "textColor3": "3f3f37",
+         "textColor4": "47463f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/bd/a9/a5bda9ec-a7d8-f812-442a-72a2a6158415/075679569011.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Grace Enger, Jacob Kasher Hindlin, Joe Reeves, Noah Kahan & STELLA LEFTY",
+        "discNumber": 1,
+        "durationInMillis": 170859,
+        "genreNames": [
+         "Country",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "QZJ842603468",
+        "name": "Boston",
+        "playParams": {
+         "id": "6783994964",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cd/6e/8a/cd6e8a16-6e6d-c6d5-2b89-a4b3e30d73c7/mzaf_2157933718095865512.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-03-27",
+        "trackNumber": 5,
+        "url": "https://music.apple.com/us/album/boston/6783994651?i=6783994964"
+       }
+      },
+      {
+       "id": "6802257484",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6802257484",
+       "attributes": {
+        "albumName": "VOL BİR",
+        "artistName": "Ankara Echoes",
+        "artwork": {
+         "bgColor": "ece3d3",
+         "height": 3000,
+         "textColor1": "090909",
+         "textColor2": "242322",
+         "textColor3": "373531",
+         "textColor4": "4c4a45",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/80/64/7c806485-3945-a951-fe8b-2cbabce94468/0.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Mertkan Erkan",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 252354,
+        "genreNames": [
+         "Electronic",
+         "Music",
+         "Turkish"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QZHZ42671188",
+        "name": "Beni Al (Ta Ki Seni Görene Kadar) [Afro House Remix]",
+        "playParams": {
+         "id": "6802257484",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a0/e9/41/a0e94105-69cf-a411-fcda-f41a3a8ae456/mzaf_826009828886914122.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-05-26",
+        "trackNumber": 12,
+        "url": "https://music.apple.com/us/album/beni-al-ta-ki-seni-g%C3%B6rene-kadar-afro-house-remix/6802257291?i=6802257484"
+       }
+      },
+      {
+       "id": "1444404620",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1444404620",
+       "attributes": {
+        "albumName": "Alors on danse - EP",
+        "artistName": "Stromae",
+        "artwork": {
+         "bgColor": "041e39",
+         "height": 1417,
+         "textColor1": "cdcc86",
+         "textColor2": "c3cba1",
+         "textColor3": "a5a976",
+         "textColor4": "9da88c",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/41/6c/6c/416c6cc8-515d-fcb7-e66a-a7b2863c16a6/00602527525242.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 1417
+        },
+        "composerName": "Stromae",
+        "discNumber": 1,
+        "durationInMillis": 208747,
+        "genreNames": [
+         "Pop",
+         "Music",
+         "French Pop",
+         "Electronic",
+         "Dance",
+         "Hip-Hop/Rap",
+         "Rap",
+         "Rock"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "BET671000140",
+        "name": "Alors on danse (feat. Erik Hassle)",
+        "playParams": {
+         "id": "1444404620",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/52/0a/75/520a75ed-eda6-2927-51cc-51ff10009c27/mzaf_1621007721846019256.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2010-01-01",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/alors-on-danse-feat-erik-hassle/1444404383?i=1444404620"
+       }
+      },
+      {
+       "id": "6796842545",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6796842545",
+       "attributes": {
+        "albumName": "9 months & 50 hours",
+        "artistName": "LATIN MAFIA & Fred again..",
+        "artwork": {
+         "bgColor": "041924",
+         "height": 4000,
+         "textColor1": "ead7c4",
+         "textColor2": "ddd6c3",
+         "textColor3": "bcb1a4",
+         "textColor4": "b2b0a3",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/90/52/6e/90526e94-89c7-8387-458f-1972f7995d48/1200214495824.jpg/{w}x{h}bb.jpg",
+         "width": 4000
+        },
+        "composerName": "Boo, Emilio De La Rosa Marroquin, Fred Gibson, Mike de la Rosa Marroquin & Milton De La Rosa Marroquin",
+        "discNumber": 1,
+        "durationInMillis": 193638,
+        "genreNames": [
+         "Electronic",
+         "Music",
+         "Dance"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "GBAHS2600518",
+        "name": "Te Estoy Correteando",
+        "playParams": {
+         "id": "6796842545",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/12/39/23/123923ad-4698-50ca-fa17-e511a06c75f2/mzaf_8412193140445378375.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-07-31",
+        "trackNumber": 12,
+        "url": "https://music.apple.com/us/album/te-estoy-correteando/6796842304?i=6796842545"
+       }
+      },
+      {
+       "id": "1847992612",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1847992612",
+       "attributes": {
+        "albumName": "The Boy Who Played the Harp",
+        "artistName": "Dave & Tems",
+        "artwork": {
+         "bgColor": "4e4128",
+         "height": 5000,
+         "textColor1": "fffdca",
+         "textColor2": "f8eeaa",
+         "textColor3": "dbd7a9",
+         "textColor4": "d6cb90",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/49/24/9949241c-e52c-3018-eae8-c686013a7474/25UM1IM68216.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 5000
+        },
+        "composerName": "Dave, Tems, Kyle Evans , Jim Legxacy, Jo Caleb & Jonny Leslie",
+        "discNumber": 1,
+        "durationInMillis": 219744,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBUM72506029",
+        "name": "Raindance",
+        "playParams": {
+         "id": "1847992612",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d6/f4/71/d6f47137-43b6-8dce-4b2c-0827045c68ae/mzaf_15227156188895023873.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-10-24",
+        "trackNumber": 5,
+        "url": "https://music.apple.com/us/album/raindance/1847992481?i=1847992612"
+       }
+      },
+      {
+       "id": "6769553656",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6769553656",
+       "attributes": {
+        "albumName": "Visitor",
+        "artistName": "SIENNA SPIRO",
+        "artwork": {
+         "bgColor": "f58a54",
+         "height": 3000,
+         "textColor1": "060505",
+         "textColor2": "080606",
+         "textColor3": "361f15",
+         "textColor4": "372115",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c6/1e/1b/c61e1b6d-e9dd-40ca-916a-223e1dc5a269/26UMGIM51349.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "SIENNA SPIRO, Omer Fedi & Michael Pollack",
+        "discNumber": 1,
+        "durationInMillis": 173975,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUG12603505",
+        "name": "Great Expectation",
+        "playParams": {
+         "id": "6769553656",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/dd/1a/b1dd1afc-e1a9-2f39-6673-bcddd99bb716/mzaf_13587280435477128711.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-07-02",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/great-expectation/6769553652?i=6769553656"
+       }
+      },
+      {
+       "id": "6810716062",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6810716062",
+       "attributes": {
+        "albumName": "Westside Whimsy",
+        "artistName": "Jhené Aiko",
+        "artwork": {
+         "bgColor": "131721",
+         "height": 3000,
+         "textColor1": "46c8dc",
+         "textColor2": "42c2d1",
+         "textColor3": "3ca5b6",
+         "textColor4": "39a0ae",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/51/9f/5f519f49-44c1-6aeb-f289-5b14c677abb1/26UM1IM17017.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Jhené Aiko, Kendrick Duckworth, Mark Spears, Matthew \"MTech\" Bernard, Ruchaun “Scott Bridgeway” Akers Jr & Jahaan Sweet",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 237251,
+        "genreNames": [
+         "R&B/Soul",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUM72608343",
+        "name": "So Good (feat. Kendrick Lamar)",
+        "playParams": {
+         "id": "6810716062",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/20/78/dd/2078ddf0-de7d-f534-a4fd-476382ae012b/mzaf_13935165721871139669.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-09-11",
+        "trackNumber": 14,
+        "url": "https://music.apple.com/us/album/so-good-feat-kendrick-lamar/6810715695?i=6810716062"
+       }
+      },
+      {
+       "id": "1889992115",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1889992115",
+       "attributes": {
+        "albumName": "you seem pretty sad for a girl so in love",
+        "artistName": "Olivia Rodrigo",
+        "artwork": {
+         "bgColor": "7c939f",
+         "height": 4000,
+         "textColor1": "070605",
+         "textColor2": "141413",
+         "textColor3": "1e2224",
+         "textColor4": "282d2f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 4000
+        },
+        "composerName": "Olivia Rodrigo & Daniel Nigro",
+        "discNumber": 1,
+        "durationInMillis": 209680,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUG12601723",
+        "name": "stupid song",
+        "playParams": {
+         "id": "1889992115",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ab/d6/78/abd678a1-bf4e-7ee9-d0b2-ba8afee10914/mzaf_3280183609788906841.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-06-12",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
+       }
+      },
+      {
+       "id": "1803037506",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1803037506",
+       "attributes": {
+        "albumName": "We Are The People (Reimagined) - EP",
+        "artistName": "Empire Of The Sun",
+        "artwork": {
+         "bgColor": "010000",
+         "height": 3000,
+         "textColor1": "bae1fd",
+         "textColor2": "f8cd7e",
+         "textColor3": "95b4ca",
+         "textColor4": "c6a464",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/66/b1/d6/66b1d63b-7533-701a-61df-6d943cbb718a/24UM1IM34107.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Nick Littlemore, Luke Steele & Jonathan Sloan",
+        "discNumber": 1,
+        "durationInMillis": 272175,
+        "genreNames": [
+         "Alternative",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "AUEI10800041",
+        "name": "We Are The People",
+        "playParams": {
+         "id": "1803037506",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/d0/e9/aed0e9fb-ebf9-7841-d347-097717b25ae6/mzaf_16165902196363185118.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2008-09-20",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/we-are-the-people/1803037504?i=1803037506"
+       }
+      },
+      {
+       "id": "1817609507",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1817609507",
+       "attributes": {
+        "albumName": "The Art of Loving",
+        "artistName": "Olivia Dean",
+        "artwork": {
+         "bgColor": "bebebe",
+         "height": 3000,
+         "textColor1": "0e0e0e",
+         "textColor2": "222222",
+         "textColor3": "313131",
+         "textColor4": "414141",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Olivia Dean, John Ryan, Amy Allen & Max Wolfgang",
+        "discNumber": 1,
+        "durationInMillis": 169000,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBUM72503087",
+        "name": "So Easy (To Fall In Love)",
+        "playParams": {
+         "id": "1817609507",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b3/0a/c0/b30ac06f-1b78-f579-8e72-e2fc9eb3a2c8/mzaf_7319723033619206839.plus.aac.p.m4a"
+         }
+        ],
+        "trackNumber": 5,
+        "url": "https://music.apple.com/us/album/so-easy-to-fall-in-love/1817609404?i=1817609507"
+       }
+      },
+      {
+       "id": "6785859394",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6785859394",
+       "attributes": {
+        "albumName": "Heart Shaped World",
+        "artistName": "Chris Isaak",
+        "artwork": {
+         "bgColor": "212022",
+         "height": 1400,
+         "textColor1": "e4e2e0",
+         "textColor2": "d0cccc",
+         "textColor3": "bdbbba",
+         "textColor4": "ada9aa",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/67/e9/0f/67e90f2d-c229-3572-5f0f-d615dfeaa652/00792755800553_Cover.jpg/{w}x{h}bb.jpg",
+         "width": 1400
+        },
+        "composerName": "Chris Isaak",
+        "discNumber": 1,
+        "durationInMillis": 289067,
+        "genreNames": [
+         "Rock",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USRE19900989",
+        "name": "Wicked Game",
+        "playParams": {
+         "id": "6785859394",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/3c/a0/303ca009-d505-1f07-6289-b46a9eb1b0bf/mzaf_3033174643477317223.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "1989-06-13",
+        "trackNumber": 5,
+        "url": "https://music.apple.com/us/album/wicked-game/6785859382?i=6785859394"
+       }
+      },
+      {
+       "id": "6807197459",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6807197459",
+       "attributes": {
+        "albumName": "Bass Persuades",
+        "artistName": "Miley Cyrus",
+        "artwork": {
+         "bgColor": "f3f3f3",
+         "height": 3000,
+         "textColor1": "161616",
+         "textColor2": "313131",
+         "textColor3": "424242",
+         "textColor4": "585858",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ff/af/51/ffaf51a6-d711-6f92-a5d6-f90e98014f0f/075679564061.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Gregory \"Aldae\" Hein, Kid Harpoon, Michael Pollack & Miley Cyrus",
+        "discNumber": 1,
+        "durationInMillis": 202461,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USAT22604406",
+        "name": "Bass Persuades",
+        "playParams": {
+         "id": "6807197459",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/00/d4/32/00d432e3-a454-b3c9-d905-415d3afcb5f7/mzaf_4705230866933064384.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-09-03",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/bass-persuades/6807197456?i=6807197459"
+       }
+      },
+      {
+       "id": "1226034393",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1226034393",
+       "attributes": {
+        "albumName": "Harry Styles",
+        "artistName": "Harry Styles",
+        "artwork": {
+         "bgColor": "c5948b",
+         "height": 1500,
+         "textColor1": "070607",
+         "textColor2": "20140e",
+         "textColor3": "2d2321",
+         "textColor4": "412d27",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/3d/5e/aa/3d5eaaa3-9a86-c264-5cd5-7fac83f99a59/886446451978.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Harry Styles, Jeff Bhasker, Mitch Rowland, Ryan Nasci, Alex Salibian & Tyler Johnson",
+        "discNumber": 1,
+        "durationInMillis": 340707,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USSM11703595",
+        "name": "Sign of the Times",
+        "playParams": {
+         "id": "1226034393",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bd/58/37/bd5837c2-3b3b-5f32-c292-fc0af38f6ea6/mzaf_10433939766410649853.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2017-04-07",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/sign-of-the-times/1226034336?i=1226034393"
+       }
+      },
+      {
+       "id": "1137966332",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1137966332",
+       "attributes": {
+        "albumName": "The Divine Feminine",
+        "artistName": "Mac Miller",
+        "artwork": {
+         "bgColor": "d8bfbb",
+         "height": 1425,
+         "textColor1": "040404",
+         "textColor2": "232423",
+         "textColor3": "2e2928",
+         "textColor4": "474342",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/cc/4d/33cc4d85-e92a-b171-1b72-4dc882ce2359/093624918844.jpg/{w}x{h}bb.jpg",
+         "width": 1425
+        },
+        "composerName": "Aja Grant, Dacoury Natche, Jeff \"Gitty\" Gitelman, Malcolm McCormick, Sunni Colón, Tyrone Griffin Jr & Vic Wainstein",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 480223,
+        "genreNames": [
+         "Hip-Hop",
+         "Music",
+         "Hip-Hop/Rap"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USWB11601446",
+        "name": "Cinderella (feat. Ty Dolla $ign)",
+        "playParams": {
+         "id": "1137966332",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/22/09/66220922-80bd-7758-f9ab-601dcfae9077/mzaf_17552938916380030049.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2016-09-16",
+        "trackNumber": 5,
+        "url": "https://music.apple.com/us/album/cinderella-feat-ty-dolla-%24ign/1137965822?i=1137966332"
+       }
+      },
+      {
+       "id": "6802923878",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6802923878",
+       "attributes": {
+        "albumName": "DIGIDI DIGIDI - Single",
+        "artistName": "DJ.ILHAM",
+        "artwork": {
+         "bgColor": "4a3592",
+         "height": 1500,
+         "textColor1": "1ecffc",
+         "textColor2": "45c5f8",
+         "textColor3": "27b0e7",
+         "textColor4": "46a8e3",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ec/e2/d7/ece2d765-8e8d-804d-c6e0-1e07e44e677e/199376096400_cover.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "DJ ILHAM",
+        "discNumber": 1,
+        "durationInMillis": 214460,
+        "genreNames": [
+         "Dance",
+         "Music",
+         "Electronic",
+         "Electronica"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "CZA232601053",
+        "name": "DIGIDI DIGIDI",
+        "playParams": {
+         "id": "6802923878",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/4f/c0/a84fc0de-2061-27ab-634b-3370804ebac4/mzaf_1106943040740287777.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-04-18",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/digidi-digidi/6802923876?i=6802923878"
+       }
+      },
+      {
+       "id": "1891779776",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1891779776",
+       "attributes": {
+        "albumName": "WILD - EP",
+        "artistName": "KATSEYE",
+        "artwork": {
+         "bgColor": "dcbbca",
+         "height": 3000,
+         "textColor1": "1f2127",
+         "textColor2": "2e2a30",
+         "textColor3": "454048",
+         "textColor4": "51474f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/28/92/e22892a7-fe88-72cf-ecba-691030dfcf7e/26UMGIM41151.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Omer Fedi, Blake Slatkin, Ed Sheeran & Johnny McDaid",
+        "discNumber": 1,
+        "durationInMillis": 158494,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUM72602757",
+        "name": "Animal",
+        "playParams": {
+         "id": "1891779776",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b5/4c/04/b54c0493-4c52-26e9-e8d5-4c4a2cf87c4e/mzaf_1928036580449864790.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-07-24",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/animal/1891779764?i=1891779776"
+       }
+      },
+      {
+       "id": "1396477176",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1396477176",
+       "attributes": {
+        "albumName": "Mad Love: The Prequel",
+        "artistName": "Sean Paul",
+        "artwork": {
+         "bgColor": "000000",
+         "height": 5000,
+         "textColor1": "c8c7cb",
+         "textColor2": "89d0f4",
+         "textColor3": "a09fa2",
+         "textColor4": "6da6c3",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/30/b8/24/30b824c1-9937-d38a-96e5-f4a660b2d689/18UMGIM35012.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 5000
+        },
+        "composerName": "Andrew Jackson, Emily Warren, Jamie Sanderson, Philip Kembo & Sean Paul Henriques",
+        "discNumber": 1,
+        "durationInMillis": 221176,
+        "genreNames": [
+         "Reggae",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBUM71604557",
+        "name": "No Lie (feat. Dua Lipa)",
+        "playParams": {
+         "id": "1396477176",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/56/ec/1056ec88-62a4-d31f-9e75-14ae2e6fbff4/mzaf_10968663658426759466.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2016-11-18",
+        "trackNumber": 9,
+        "url": "https://music.apple.com/us/album/no-lie-feat-dua-lipa/1396476826?i=1396477176"
+       }
+      },
+      {
+       "id": "525133063",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/525133063",
+       "attributes": {
+        "albumName": "20 Éxitos: Proyecto Uno",
+        "artistName": "Proyecto Uno",
+        "artwork": {
+         "bgColor": "121c13",
+         "height": 1641,
+         "textColor1": "afcaca",
+         "textColor2": "a8c6df",
+         "textColor3": "90a7a5",
+         "textColor4": "8aa4b6",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/01/60/8b/01608b68-0711-5ac5-1e56-c12c052fbf3f/contsched.sioleocx.jpg/{w}x{h}bb.jpg",
+         "width": 1670
+        },
+        "discNumber": 1,
+        "durationInMillis": 302373,
+        "genreNames": [
+         "Música tropical",
+         "Music",
+         "Latin"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "US3Z40407581",
+        "name": "Tiburon",
+        "playParams": {
+         "id": "525133063",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/e7/66/e9e766cd-3197-c674-a2b7-6e8313afb0a2/mzaf_220159375938772780.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "1993-12-10",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/tiburon/525133058?i=525133063"
+       }
+      },
+      {
+       "id": "1743852427",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1743852427",
+       "attributes": {
+        "albumName": "Bird's Eye",
+        "artistName": "Ravyn Lenae",
+        "artwork": {
+         "bgColor": "261c1f",
+         "height": 3000,
+         "textColor1": "dfbf98",
+         "textColor2": "cba887",
+         "textColor3": "ba9e80",
+         "textColor4": "aa8c72",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/07/8c/6c/078c6c94-d38d-0451-d57b-23e957b569f8/075679660893.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Anderson .Paak, Brent Reynolds, Christian Farlow, Craig Balmoris, Dacoury Dahi Natche, Dominic Angelella, Jaelen Irizarry, Julian Nixon, Ravyn Lenae, Sarah Aarons & Spencer Stewart",
+        "discNumber": 1,
+        "durationInMillis": 213467,
+        "genreNames": [
+         "R&B/Soul",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USAT22401137",
+        "name": "Love Me Not",
+        "playParams": {
+         "id": "1743852427",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/56/cd/e456cd7c-d289-553a-9c39-98ca08ca0b4b/mzaf_14810478461288819548.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2024-05-03",
+        "trackNumber": 7,
+        "url": "https://music.apple.com/us/album/love-me-not/1743852410?i=1743852427"
+       }
+      },
+      {
+       "id": "6786993744",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6786993744",
+       "attributes": {
+        "albumName": "Take Me There - Single",
+        "artistName": "DA TI",
+        "artwork": {
+         "bgColor": "1e1e1e",
+         "height": 3000,
+         "textColor1": "f2f2f2",
+         "textColor2": "e6e6e6",
+         "textColor3": "c8c8c8",
+         "textColor4": "bebebe",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/3e/fe/f73efe5f-6422-da7d-fe93-cf4461a8c712/054391212542.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Davit Tsereteli & Sander De Bie",
+        "discNumber": 1,
+        "durationInMillis": 202627,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QZTAU2683746",
+        "name": "Take Me There",
+        "playParams": {
+         "id": "6786993744",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cb/3b/fb/cb3bfb2b-56b8-7273-0bff-70aa04ba26f0/mzaf_14579155536031103846.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-04-03",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/take-me-there/6786993735?i=6786993744"
+       }
+      },
+      {
+       "id": "6796539210",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6796539210",
+       "attributes": {
+        "albumName": "Starrgirl",
+        "artistName": "Ayra Starr",
+        "artwork": {
+         "bgColor": "060402",
+         "height": 3000,
+         "textColor1": "d9b874",
+         "textColor2": "e8af80",
+         "textColor3": "ae945d",
+         "textColor4": "bb8d66",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/01/ac/4c/01ac4c06-014d-a251-7bb6-2c095cc17484/26UMGIM69208.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Gregory \"Aldae\" Hein, Isaiah Tejada, Abby Keen, Stefan Johnson, Jordan Johnson & Oyinkansola Sarah Aderibigbe",
+        "discNumber": 1,
+        "durationInMillis": 158793,
+        "genreNames": [
+         "Afrobeats",
+         "Music",
+         "African"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUG12605163",
+        "name": "Heaven Baby (feat. ZAYN)",
+        "playParams": {
+         "id": "6796539210",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/e1/99/1be1996b-dc23-54ef-21c5-fc5a38370ce7/mzaf_11980394334352084701.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-08-14",
+        "trackNumber": 14,
+        "url": "https://music.apple.com/us/album/heaven-baby-feat-zayn/6796539188?i=6796539210"
+       }
+      },
+      {
+       "id": "1737497080",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1737497080",
+       "attributes": {
+        "albumName": "Good Luck, Babe! - Single",
+        "artistName": "Chappell Roan",
+        "artwork": {
+         "bgColor": "ccb0a0",
+         "height": 3000,
+         "textColor1": "1f120d",
+         "textColor2": "2d110b",
+         "textColor3": "41312a",
+         "textColor4": "4d3129",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/29/a7/c4/29a7c478-351d-25eb-a116-3e68118cdab8/24UMGIM31246.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Kayleigh Rose Amstutz, Daniel Nigro & Justin Tranter",
+        "discNumber": 1,
+        "durationInMillis": 218424,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUG12401967",
+        "name": "Good Luck, Babe!",
+        "playParams": {
+         "id": "1737497080",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/6d/4f/c36d4f23-b87f-046d-7a0e-e3e05d180b2a/mzaf_17235999651335214399.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2024-04-05",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/good-luck-babe/1737497078?i=1737497080"
+       }
+      },
+      {
+       "id": "1836226730",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1836226730",
+       "attributes": {
+        "albumName": "Deadbeat",
+        "artistName": "Tame Impala",
+        "artwork": {
+         "bgColor": "404041",
+         "height": 3000,
+         "textColor1": "fdfdfd",
+         "textColor2": "e4e4e4",
+         "textColor3": "d7d7d7",
+         "textColor4": "c3c3c3",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/80/54/11/80541122-c1c4-50ad-a673-ff79f4cf8aa7/196873555331.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Kevin Parker & Sarah Aarons",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 205309,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Dance"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USQX92504223",
+        "name": "Dracula",
+        "playParams": {
+         "id": "1836226730",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d3/0b/ab/d30babd0-2512-a7e9-0958-ce1f54b9721b/mzaf_9555928508387724845.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-09-26",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/dracula/1836226516?i=1836226730"
+       }
+      },
+      {
+       "id": "6773775282",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6773775282",
+       "attributes": {
+        "albumName": "Oh yeah?",
+        "artistName": "Steve Lacy",
+        "artwork": {
+         "bgColor": "040a3d",
+         "height": 3000,
+         "textColor1": "cac4af",
+         "textColor2": "cfb49f",
+         "textColor3": "a29f98",
+         "textColor4": "a6928c",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1c/b2/46/1cb246db-afae-a599-d377-44a7ea7267fa/196874346976.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Steve Lacy & Matthew Castellanos",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 170585,
+        "genreNames": [
+         "Pop",
+         "Music",
+         "R&B/Soul"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USRC12601059",
+        "name": "oh yeah?",
+        "playParams": {
+         "id": "6773775282",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3d/f4/e2/3df4e2b3-c8ec-5484-fdd1-5fe8a943014d/mzaf_5036834163941053775.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-07-17",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/oh-yeah/6773775032?i=6773775282"
+       }
+      },
+      {
+       "id": "1804419953",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1804419953",
+       "attributes": {
+        "albumName": "You'll Be Alright, Kid (Chapter 1)",
+        "artistName": "Alex Warren",
+        "artwork": {
+         "bgColor": "0f0f0e",
+         "height": 3000,
+         "textColor1": "f1ba9a",
+         "textColor2": "d68b71",
+         "textColor3": "c4987e",
+         "textColor4": "ae725d",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f1/91/6e/f1916ecb-0b21-57da-7d60-cd21ae0ff40b/075679614797.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Adam Yaron, Alex Warren, Cal Shapiro & Mags Duval",
+        "discNumber": 1,
+        "durationInMillis": 186964,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USAT22500463",
+        "name": "Ordinary",
+        "playParams": {
+         "id": "1804419953",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/6a/a8/1e6aa853-c2e5-fa5f-f030-a052a1081d4f/mzaf_8792577861980775119.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2024-09-26",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/ordinary/1804419951?i=1804419953"
+       }
+      },
+      {
+       "id": "6772980850",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6772980850",
+       "attributes": {
+        "albumName": "Базовый минимум (Slow Version) - Single",
+        "artistName": "SABI & MIA BOYKA",
+        "artwork": {
+         "bgColor": "d3b3b6",
+         "height": 3000,
+         "textColor1": "0c0e10",
+         "textColor2": "131215",
+         "textColor3": "332f31",
+         "textColor4": "3a3235",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/f3/bf/eaf3bf83-ed4b-bac7-35de-bf71a051c3ba/0.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Соловьев Иван Григорьевич",
+        "discNumber": 1,
+        "durationInMillis": 168914,
+        "genreNames": [
+         "Pop",
+         "Music",
+         "Rock"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "RUAH62552093",
+        "name": "Базовый минимум (Slow Version)",
+        "playParams": {
+         "id": "6772980850",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/cf/89/e2cf89a3-dbbe-f054-1f9d-a355a18dc7bd/mzaf_9297856588410203358.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-12-18",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D1%83%D0%BC-slow-version/6772980848?i=6772980850"
+       }
+      },
+      {
+       "id": "545389290",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/545389290",
+       "attributes": {
+        "albumName": "The Truth About Love",
+        "artistName": "P!nk",
+        "artwork": {
+         "bgColor": "ede1c6",
+         "height": 1500,
+         "textColor1": "0e0405",
+         "textColor2": "2e2f28",
+         "textColor3": "3a302b",
+         "textColor4": "545348",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/72/d6/ba/72d6ba5d-95bb-7293-0094-39a0b7fc6774/886443562103.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "P!nk, Nate Ruess & Jeff Bhasker",
+        "discNumber": 1,
+        "durationInMillis": 242721,
+        "genreNames": [
+         "Pop",
+         "Music",
+         "Teen Pop",
+         "Electronic",
+         "R&B/Soul",
+         "Contemporary R&B",
+         "Pop/Rock",
+         "Rock",
+         "Dance"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USRC11200786",
+        "name": "Just Give Me a Reason (feat. Nate Ruess)",
+        "playParams": {
+         "id": "545389290",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/26/e6/4826e6b6-3788-f75c-5688-32db211c106a/mzaf_14746398704531487022.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2012-09-14",
+        "trackNumber": 4,
+        "url": "https://music.apple.com/us/album/just-give-me-a-reason-feat-nate-ruess/545389041?i=545389290"
+       }
+      },
+      {
+       "id": "6801696597",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6801696597",
+       "attributes": {
+        "albumName": "STARLIFE",
+        "artistName": "Victony",
+        "artwork": {
+         "bgColor": "613248",
+         "height": 3000,
+         "textColor1": "e7d5e0",
+         "textColor2": "de9cac",
+         "textColor3": "ccb5c1",
+         "textColor4": "c58698",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/23/bb/78/23bb78fc-237f-793b-961b-b8234e5794b4/885288298222.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Anthony Ebuka Victor, IGBINOBA OSAZEE FESTUS, Chidera Ezeani Godfrey & Banmeke Abraham Olusola",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 106909,
+        "genreNames": [
+         "Afrobeats",
+         "Music",
+         "African"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QZWA32202168",
+        "name": "SLICK",
+        "playParams": {
+         "id": "6801696597",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9b/94/69/9b946921-2f05-ea34-ecfb-e6712e98b396/mzaf_7325170880598848743.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-07-08",
+        "trackNumber": 8,
+        "url": "https://music.apple.com/us/album/slick/6801696576?i=6801696597"
+       }
+      },
+      {
+       "id": "429945616",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/429945616",
+       "attributes": {
+        "albumName": "Ladies & Gentlemen",
+        "artistName": "George Michael",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "100a09",
+         "textColor2": "34241d",
+         "textColor3": "403b3a",
+         "textColor4": "5d504a",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/89/46/95/8946959a-e959-f22d-ced2-745feb799454/mzm.upagbaeg.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "George Michael & Andrew Ridgeley",
+        "discNumber": 1,
+        "durationInMillis": 300107,
+        "genreNames": [
+         "Pop",
+         "Music",
+         "Adult Contemporary"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "GBBBM8402006",
+        "name": "Careless Whisper",
+        "playParams": {
+         "id": "429945616",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7c/bb/d8/7cbbd80c-29a1-6142-d0f3-de33e8569a0e/mzaf_12978360432335063808.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "1984-07-24",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/careless-whisper/429945575?i=429945616"
+       }
+      },
+      {
+       "id": "1708289078",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1708289078",
+       "attributes": {
+        "albumName": "Y Qué Fue? - Single",
+        "artistName": "Don Miguelo",
+        "artwork": {
+         "bgColor": "000000",
+         "height": 3000,
+         "textColor1": "dfbba0",
+         "textColor2": "d2a990",
+         "textColor3": "b29580",
+         "textColor4": "a88773",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/88/9d/a6/889da6ac-8275-8194-da2a-cbf53f555e8f/755773116723.png/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Miguel Angel Valerio",
+        "discNumber": 1,
+        "durationInMillis": 163759,
+        "genreNames": [
+         "Urbano latino",
+         "Music",
+         "Latin"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QZHZ62041239",
+        "name": "Y Qué Fue?",
+        "playParams": {
+         "id": "1708289078",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/ea/58/c7ea58d9-4a69-373c-a6bc-cc584d24da47/mzaf_17003783755037898911.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2020-07-29",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/y-qu%C3%A9-fue/1708289077?i=1708289078"
+       }
+      },
+      {
+       "id": "1428239808",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1428239808",
+       "attributes": {
+        "albumName": "Delusions",
+        "artistName": "Infrasomniac",
+        "artwork": {
+         "bgColor": "000000",
+         "height": 3000,
+         "textColor1": "f2f2f2",
+         "textColor2": "e5e5e5",
+         "textColor3": "c1c1c1",
+         "textColor4": "b7b7b7",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/a7/ef/5f/a7ef5fee-f2c1-7d21-64c8-315e13e27dca/artwork.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Infrasomniac",
+        "discNumber": 1,
+        "durationInMillis": 241972,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music",
+         "Blues"
+        ],
+        "hasLyrics": false,
+        "isAppleDigitalMaster": false,
+        "isrc": "QZDA81853276",
+        "name": "Sunny Night",
+        "playParams": {
+         "id": "1428239808",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a5/00/34/a50034e5-8776-06e7-bebc-69fe4c5f4250/mzaf_3025043935593191418.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2018-08-14",
+        "trackNumber": 7,
+        "url": "https://music.apple.com/us/album/sunny-night/1428239172?i=1428239808"
+       }
+      },
+      {
+       "id": "1845118686",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1845118686",
+       "attributes": {
+        "albumName": "FILM NOIR",
+        "artistName": "Faouzia",
+        "artwork": {
+         "bgColor": "e8e8e8",
+         "height": 5000,
+         "textColor1": "010101",
+         "textColor2": "191919",
+         "textColor3": "2f2f2f",
+         "textColor4": "424242",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c5/6d/c3/c56dc3b8-3439-3c7b-f713-424ce83a5e24/193436445610_FINALEDIT.jpg/{w}x{h}bb.jpg",
+         "width": 5000
+        },
+        "composerName": "Faouzia Ouihya & Arthur Besna",
+        "discNumber": 1,
+        "durationInMillis": 219864,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QM24S2504240",
+        "name": "UNETHICAL",
+        "playParams": {
+         "id": "1845118686",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9a/d5/13/9ad513ed-24c3-132a-9c22-bf040427ee3d/mzaf_7743631250326434214.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-08-01",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/unethical/1845118680?i=1845118686"
+       }
+      },
+      {
+       "id": "1320069110",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1320069110",
+       "attributes": {
+        "albumName": "The Age of Consent (Bonus Tracks) [1996 Remaster]",
+        "artistName": "Bronski Beat",
+        "artwork": {
+         "bgColor": "0f0b13",
+         "height": 1407,
+         "textColor1": "ebd796",
+         "textColor2": "dfd840",
+         "textColor3": "bfae7c",
+         "textColor4": "b5af37",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/df/ee/76dfee41-aca3-76c6-e695-c46ec360e090/639842819527.jpg/{w}x{h}bb.jpg",
+         "width": 1403
+        },
+        "composerName": "Bronski Beat, Jimmy Somerville, Larry Steinbachek, Lawrence Cole, Steve Bronski & Steven Bronski",
+        "discNumber": 1,
+        "durationInMillis": 302413,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "GBAAP0200005",
+        "name": "Smalltown Boy",
+        "playParams": {
+         "id": "1320069110",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/df/1f/04/df1f0434-93bd-cff8-5c9c-82bc4c6f0ce2/mzaf_14954033875438018232.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "1984-10-15",
+        "trackNumber": 6,
+        "url": "https://music.apple.com/us/album/smalltown-boy/1320069103?i=1320069110"
+       }
+      },
+      {
+       "id": "6783768916",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6783768916",
+       "attributes": {
+        "albumName": "FREAKED OUT - Single",
+        "artistName": "Fat Papi & prodshushy",
+        "artwork": {
+         "bgColor": "0d1012",
+         "height": 1400,
+         "textColor1": "e9eff3",
+         "textColor2": "dfdfe0",
+         "textColor3": "bdc2c6",
+         "textColor4": "b5b6b7",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/4d/a3/32/4da3326a-903b-9148-a5fe-1c80aa3ac4d8/3560602.jpg/{w}x{h}bb.jpg",
+         "width": 1400
+        },
+        "composerName": "Baban Hussain",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 158118,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QT3EY2629583",
+        "name": "FREAKED OUT",
+        "playParams": {
+         "id": "6783768916",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/bc/50/80bc5098-5a71-24b1-0e9e-10b17dd2089f/mzaf_1549248979541990638.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-06-04",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/freaked-out/6783768914?i=6783768916"
+       }
+      },
+      {
+       "id": "6800467603",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6800467603",
+       "attributes": {
+        "albumName": "Champion Story",
+        "artistName": "Noodah05",
+        "artwork": {
+         "bgColor": "30342d",
+         "height": 1425,
+         "textColor1": "f2e8da",
+         "textColor2": "e6dbbc",
+         "textColor3": "cbc4b8",
+         "textColor4": "c1baa0",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/64/96/916496b0-c932-c493-2cb5-5ab479c1899f/075679561947.jpg/{w}x{h}bb.jpg",
+         "width": 1425
+        },
+        "composerName": "Deangelo Quinterious Greer, Jakob Jerlström, Ludvig Söderberg & Tove Lo",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 153835,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "CH7812680934",
+        "name": "Around Me",
+        "playParams": {
+         "id": "6800467603",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/a9/e7/49a9e7fe-4a00-d9af-d8bf-1cf91075dfa1/mzaf_4365438919343478946.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-08-13",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/around-me/6800467601?i=6800467603"
+       }
+      },
+      {
+       "id": "6792884101",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6792884101",
+       "attributes": {
+        "albumName": "PRIMA",
+        "artistName": "ADÉLA",
+        "artwork": {
+         "bgColor": "f3f3f1",
+         "height": 3000,
+         "textColor1": "2a060f",
+         "textColor2": "38101d",
+         "textColor3": "52363c",
+         "textColor4": "5d3d47",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Adéla Jergova, Blake Slatkin, Billy Walsh, Dylan Brady & Theron Thomas",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 184928,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUM72605978",
+        "name": "Ain't In LA",
+        "playParams": {
+         "id": "6792884101",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a5/1c/db/a51cdb2c-4d28-3aea-feb2-44b7d0f1c05b/mzaf_11945853055580460496.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-07-23",
+        "trackNumber": 11,
+        "url": "https://music.apple.com/us/album/aint-in-la/6792883860?i=6792884101"
+       }
+      },
+      {
+       "id": "1440935229",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440935229",
+       "attributes": {
+        "albumName": "The Blueprint 2: The Gift & the Curse",
+        "artistName": "JAŸ-Z",
+        "artwork": {
+         "bgColor": "fafbfd",
+         "height": 3000,
+         "textColor1": "040505",
+         "textColor2": "2c2d2d",
+         "textColor3": "353636",
+         "textColor4": "555657",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/99/d5/2d/99d52d7f-bc84-ef4d-bc07-a5457143b00b/00857366006999.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Shawn Carter, Kanye West, Prince, Darryl Haper, Ricky Rouse, Tyrone Wrice & 2Pac",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 205560,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USDJ20201108",
+        "name": "03' Bonnie & Clyde (feat. Beyoncé Knowles)",
+        "playParams": {
+         "id": "1440935229",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7a/e3/53/7ae35384-5b1f-54ef-0fa8-86f949ca139f/mzaf_18032699361643717989.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2002-10-10",
+        "trackNumber": 4,
+        "url": "https://music.apple.com/us/album/03-bonnie-clyde-feat-beyonc%C3%A9-knowles/1440935043?i=1440935229"
+       }
+      },
+      {
+       "id": "1109658204",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1109658204",
+       "attributes": {
+        "albumName": "Dizzy Up the Girl",
+        "artistName": "The Goo Goo Dolls",
+        "artwork": {
+         "bgColor": "130b14",
+         "height": 1425,
+         "textColor1": "d1f4f2",
+         "textColor2": "7eceed",
+         "textColor3": "abc5c6",
+         "textColor4": "69a7c1",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2c/13/18/2c131801-00af-58b1-3cc2-13abf4ad5416/093624919162.jpg/{w}x{h}bb.jpg",
+         "width": 1425
+        },
+        "composerName": "John Rzeznik",
+        "discNumber": 1,
+        "durationInMillis": 289559,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USWB11507961",
+        "name": "Iris",
+        "playParams": {
+         "id": "1109658204",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/60/17/35/60173512-3d5c-1d6f-549e-d8ddafa93e07/mzaf_5281658494050788067.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "1998-04-07",
+        "trackNumber": 11,
+        "url": "https://music.apple.com/us/album/iris/1109658139?i=1109658204"
+       }
+      },
+      {
+       "id": "1725877947",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1725877947",
+       "attributes": {
+        "albumName": "eternal sunshine",
+        "artistName": "Ariana Grande",
+        "artwork": {
+         "bgColor": "20170e",
+         "height": 3000,
+         "textColor1": "e6c08e",
+         "textColor2": "daad77",
+         "textColor3": "be9e74",
+         "textColor4": "b48f62",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/fe/a1/34fea184-6d20-3f50-b4ce-5e1501c1c5ab/24UMGIM00198.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Ariana Grande, Max Martin & Ilya Salmanzadeh",
+        "discNumber": 1,
+        "durationInMillis": 164927,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUM72317269",
+        "name": "bye",
+        "playParams": {
+         "id": "1725877947",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/03/27/73/032773f2-c7b4-6eec-abcc-c50660d74846/mzaf_2090113539611251578.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2024-03-08",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/bye/1725877944?i=1725877947"
+       }
+      },
+      {
+       "id": "1871520999",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1871520999",
+       "attributes": {
+        "albumName": "KITSCHKRIEG ZWEI",
+        "artistName": "KITSCHKRIEG, Blumengarten & Shirin David",
+        "artwork": {
+         "bgColor": "a7a5a3",
+         "height": 3000,
+         "textColor1": "0d0c0b",
+         "textColor2": "161615",
+         "textColor3": "2b2b29",
+         "textColor4": "333231",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/95/ba/74/95ba7435-5ec9-0856-1782-caa88558fa70/ticket.bcypgguw.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "KITSCHKRIEG, Shirin David, Lucry, Rayan Djima, Suena, Samuel Eickmann & LAAS",
+        "discNumber": 1,
+        "durationInMillis": 188852,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "DEKF22600057",
+        "name": "Gut Genug (mit Blumengarten & Shirin David)",
+        "playParams": {
+         "id": "1871520999",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/1a/c7/9d1ac7fb-4f41-b49d-566a-dc88ca1be86d/mzaf_11071714867058821724.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-07-25",
+        "trackNumber": 13,
+        "url": "https://music.apple.com/us/album/gut-genug-mit-blumengarten-shirin-david/1871520597?i=1871520999"
+       }
+      },
+      {
+       "id": "1771713676",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1771713676",
+       "attributes": {
+        "albumName": "All My Demons Greeting Me as a Friend",
+        "artistName": "AURORA",
+        "artwork": {
+         "bgColor": "262423",
+         "height": 1400,
+         "textColor1": "dfd3c7",
+         "textColor2": "d0c3b7",
+         "textColor3": "bab0a6",
+         "textColor4": "aea399",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ad/6b/5d/ad6b5d0e-99ef-5657-643c-2367be8cedbd/0044003184138_Cover.jpg/{w}x{h}bb.jpg",
+         "width": 1400
+        },
+        "composerName": "Magnus Skylstad & Aurora Aksnes",
+        "discNumber": 1,
+        "durationInMillis": 248827,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBUM71500527",
+        "name": "Runaway",
+        "playParams": {
+         "id": "1771713676",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d8/18/9a/d8189af5-57f7-b05c-0061-f2c0c94e56b5/mzaf_15170784174804177001.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2015-02-07",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/runaway/1771713667?i=1771713676"
+       }
+      },
+      {
+       "id": "1544491996",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1544491996",
+       "attributes": {
+        "albumName": "21",
+        "artistName": "Adele",
+        "artwork": {
+         "bgColor": "3f4043",
+         "height": 4000,
+         "textColor1": "ebedf4",
+         "textColor2": "dbdbe9",
+         "textColor3": "c9cad1",
+         "textColor4": "bcbcc8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/eb/ca/25/ebca2596-cd1e-b295-91a3-771c868d0a79/191404113868.png/{w}x{h}bb.jpg",
+         "width": 4000
+        },
+        "composerName": "Boris Williams, Lol Tolhurst, Porl Thompson, Roger O'Donnell, Simon Gallup & Robert Smith",
+        "discNumber": 1,
+        "durationInMillis": 316240,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "GBBKS1000352",
+        "name": "Lovesong",
+        "playParams": {
+         "id": "1544491996",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/45/8f/8c458f15-14be-3264-a352-5a2c72ff1f85/mzaf_1129462131250421857.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2011-01-19",
+        "trackNumber": 10,
+        "url": "https://music.apple.com/us/album/lovesong/1544491232?i=1544491996"
+       }
+      },
+      {
+       "id": "6810810195",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6810810195",
+       "attributes": {
+        "albumName": "Bonito, Bonito - EP",
+        "artistName": "Thiago Navarro Music",
+        "artwork": {
+         "bgColor": "001529",
+         "height": 3000,
+         "textColor1": "e2cfb2",
+         "textColor2": "8ebcca",
+         "textColor3": "b5aa96",
+         "textColor4": "729aaa",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/77/47/fc/7747fc1e-8167-5de6-b8e7-cf9b1038aea3/882436183713_cover.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Thiago Navarro Music & Anier Cruz Revilla",
+        "discNumber": 1,
+        "durationInMillis": 205280,
+        "genreNames": [
+         "Pop Latino",
+         "Music",
+         "Latin"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QT6G22653261",
+        "name": "Bonito, Bonito",
+        "playParams": {
+         "id": "6810810195",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3c/20/d8/3c20d86e-b6ed-5ccf-0e51-23965f57d281/mzaf_16567794836623302846.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-08-03",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/bonito-bonito/6810810194?i=6810810195"
+       }
+      },
+      {
+       "id": "6810085647",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6810085647",
+       "attributes": {
+        "albumName": "Roja Nu - Single",
+        "artistName": "Hiva, Haps & PAIX",
+        "artwork": {
+         "bgColor": "291c12",
+         "height": 3000,
+         "textColor1": "fab783",
+         "textColor2": "eea577",
+         "textColor3": "d0986c",
+         "textColor4": "c78a63",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1c/a8/ff/1ca8ff59-e315-69a4-108e-a324cd002ed6/9008798782208_cover.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Luwam Mesfin",
+        "discNumber": 1,
+        "durationInMillis": 182488,
+        "genreNames": [
+         "Old School Rap",
+         "Music",
+         "Hip-Hop/Rap"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "ATR981368680",
+        "name": "Roja Nu",
+        "playParams": {
+         "id": "6810085647",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b5/24/6b/b5246b35-80e9-f103-8a7d-e0950e40c618/mzaf_528639587009287112.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-09-13",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/roja-nu/6810085644?i=6810085647"
+       }
+      },
+      {
+       "id": "1874125269",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1874125269",
+       "attributes": {
+        "albumName": "Dracula (with JENNIE) - Single",
+        "artistName": "Tame Impala",
+        "artwork": {
+         "bgColor": "000000",
+         "height": 3600,
+         "textColor1": "d5e2ef",
+         "textColor2": "9bc3db",
+         "textColor3": "aab4bf",
+         "textColor4": "7c9caf",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/3f/26/af3f2607-c541-a340-b028-7210634cf47b/196874054246.jpg/{w}x{h}bb.jpg",
+         "width": 3600
+        },
+        "composerName": "JENNIE, Kevin Parker, Sarah Aarons & Carly Gibert",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 209721,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Dance"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USQX92600464",
+        "name": "Dracula (with JENNIE)",
+        "playParams": {
+         "id": "1874125269",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2a/43/5e/2a435e79-4a38-30fc-c0a1-465c98487c5b/mzaf_17235703890805792941.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-02-06",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/dracula-with-jennie/1874125260?i=1874125269"
+       }
+      },
+      {
+       "id": "6800167644",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6800167644",
+       "attributes": {
+        "albumName": "Estilo R'S",
+        "artistName": "El De Las R's",
+        "artwork": {
+         "bgColor": "02090c",
+         "height": 3000,
+         "textColor1": "d1c8b6",
+         "textColor2": "cca87c",
+         "textColor3": "a8a194",
+         "textColor4": "a48865",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/05/44/d4054457-2882-b281-d1f6-1fd14214d6be/26UMGIM98418.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Elias De Jesús Ramírez Rosales",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 133565,
+        "genreNames": [
+         "Música Mexicana",
+         "Music",
+         "Latin"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "TCAIJ2444971",
+        "name": "Beretta (De Los Cerros La Escuela)",
+        "playParams": {
+         "id": "6800167644",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c6/8f/93/c68f93ec-cd4d-0d51-dd7e-48897273fd46/mzaf_5264573922625746006.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2024-06-14",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/beretta-de-los-cerros-la-escuela/6800167636?i=6800167644"
+       }
+      },
+      {
+       "id": "6779378648",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6779378648",
+       "attributes": {
+        "albumName": "WTF GOIN - Single",
+        "artistName": "Belly Gang Kushington & 21 Savage",
+        "artwork": {
+         "bgColor": "9c9a9f",
+         "height": 3000,
+         "textColor1": "090b0a",
+         "textColor2": "1b2023",
+         "textColor3": "272728",
+         "textColor4": "35393c",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/14/d5/7b/14d57b74-7680-e414-2424-f03f1173da3a/820233646390.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Carlos Walker, Mario Talley, PopLord, Shéyaa Bin Abraham-Joseph, Teriyakie Smith & Victor Thomas",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 184705,
+        "genreNames": [
+         "Rap",
+         "Music",
+         "Hip-Hop/Rap"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QMBZ92614708",
+        "name": "WTF GOIN",
+        "playParams": {
+         "id": "6779378648",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e8/ba/6b/e8ba6b93-410e-86ab-9e60-fec68da95702/mzaf_13004185619102517044.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-06-19",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/wtf-goin/6779378647?i=6779378648"
+       }
+      },
+      {
+       "id": "1791161219",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1791161219",
+       "attributes": {
+        "albumName": "SABLE, fABLE",
+        "artistName": "Bon Iver",
+        "artwork": {
+         "bgColor": "ef9a83",
+         "height": 3000,
+         "textColor1": "000000",
+         "textColor2": "000000",
+         "textColor3": "2f1e1a",
+         "textColor4": "2f1e1a",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/44/95/21/449521a9-3e07-9a15-02be-d1412884e240/51719.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Justin Vernon, Phil Cook & Trever Hagen",
+        "discNumber": 1,
+        "durationInMillis": 200589,
+        "genreNames": [
+         "Alternative",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "US38Y2446605",
+        "name": "THINGS BEHIND THINGS BEHIND THINGS",
+        "playParams": {
+         "id": "1791161219",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/f1/fd/0df1fdd5-611a-4780-3846-794105d864ad/mzaf_3468836172485116222.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2024-10-18",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/things-behind-things-behind-things/1791161215?i=1791161219"
+       }
+      },
+      {
+       "id": "1440805856",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440805856",
+       "attributes": {
+        "albumName": "Believe",
+        "artistName": "Justin Bieber",
+        "artwork": {
+         "bgColor": "282827",
+         "height": 1500,
+         "textColor1": "ececec",
+         "textColor2": "d5d5d5",
+         "textColor3": "c5c5c5",
+         "textColor4": "b2b2b2",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bd/89/97/bd89971c-fc5a-47dd-5e90-a433d1b9e11f/12UMGIM31898.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Max Martin, Zedd, Savan Kotecha & Onika Maraj",
+        "discNumber": 1,
+        "durationInMillis": 227987,
+        "genreNames": [
+         "Pop",
+         "Music",
+         "Teen Pop",
+         "Dance",
+         "Rock",
+         "Vocal"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USUM71205367",
+        "name": "Beauty and a Beat (feat. Nicki Minaj)",
+        "playParams": {
+         "id": "1440805856",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/1c/89/de1c8933-76c3-ab04-2823-613095558263/mzaf_8803063399809023167.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2012-06-15",
+        "trackNumber": 10,
+        "url": "https://music.apple.com/us/album/beauty-and-a-beat-feat-nicki-minaj/1440804754?i=1440805856"
+       }
+      },
+      {
+       "id": "1440783625",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440783625",
+       "attributes": {
+        "albumName": "Nevermind",
+        "artistName": "Nirvana",
+        "artwork": {
+         "bgColor": "006783",
+         "height": 1500,
+         "textColor1": "68e2f8",
+         "textColor2": "38d6f9",
+         "textColor3": "53cae1",
+         "textColor4": "2dc0e2",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/95/fd/b9/95fdb9b2-6d2b-92a6-97f2-51c1a6d77f1a/00602527874609.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Kurt Cobain, Dave Grohl & Krist Novoselic",
+        "discNumber": 1,
+        "durationInMillis": 301096,
+        "genreNames": [
+         "Rock",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USGF19942501",
+        "name": "Smells Like Teen Spirit",
+        "playParams": {
+         "id": "1440783625",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/49/4e/65494e02-b6d3-26d8-6b0c-9bd98dcf4d5d/mzaf_7665413316386155700.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "1991-09-10",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/smells-like-teen-spirit/1440783617?i=1440783625"
+       }
+      },
+      {
+       "id": "6799128771",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6799128771",
+       "attributes": {
+        "albumName": "Ubaba wam - Single",
+        "artistName": "Beekay Monalayzzar, METT4LIQ-151, UDUBE & Simah Nation",
+        "artwork": {
+         "bgColor": "050c0f",
+         "height": 1400,
+         "textColor1": "f49d7b",
+         "textColor2": "e29878",
+         "textColor3": "c48065",
+         "textColor4": "b67c63",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/37/4c/5f/374c5fcb-a6ac-e674-275f-429d265f1e60/6009553474416_Cover.jpg/{w}x{h}bb.jpg",
+         "width": 1400
+        },
+        "composerName": "Kgopotso Moloto & Bokamoso Lethabile Rooi",
+        "discNumber": 1,
+        "durationInMillis": 345763,
+        "genreNames": [
+         "House",
+         "Music",
+         "Dance"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "ZBBZN2600040",
+        "name": "Ubaba wam",
+        "playParams": {
+         "id": "6799128771",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/25/5c/6e255c39-e0df-008e-a9ee-8584748ca462/mzaf_15980547876194952121.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-08-28",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/ubaba-wam/6799128768?i=6799128771"
+       }
+      },
+      {
+       "id": "6771161133",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6771161133",
+       "attributes": {
+        "albumName": "Baba (feat. Zlatan) - Single",
+        "artistName": "Hotkid",
+        "artwork": {
+         "bgColor": "4e4e4d",
+         "height": 3000,
+         "textColor1": "f3f2f0",
+         "textColor2": "dbdad8",
+         "textColor3": "d2d1cf",
+         "textColor4": "bfbebc",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/02/3a/8d023af0-915e-d949-c6db-290813d131e0/3321233.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Moshood Adeola Adisa & Omoniyi Temidayo Raphael",
+        "discNumber": 1,
+        "durationInMillis": 162913,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QT8BV2675955",
+        "name": "Baba (feat. Zlatan)",
+        "playParams": {
+         "id": "6771161133",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a8/29/d5/a829d55c-cd2b-9b0d-b606-6784f59e7f40/mzaf_14834419748784020134.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-06-17",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/baba-feat-zlatan/6771160881?i=6771161133"
+       }
+      },
+      {
+       "id": "6790569133",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6790569133",
+       "attributes": {
+        "albumName": "Dead Fresh - Single",
+        "artistName": "Lil Baby",
+        "artwork": {
+         "bgColor": "94181f",
+         "height": 3000,
+         "textColor1": "eeece9",
+         "textColor2": "c1d3cc",
+         "textColor3": "dcc2c0",
+         "textColor4": "b8ada9",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Pharrell Williams & Dominique' Jones",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 157020,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUG12600008",
+        "name": "Dead Fresh",
+        "playParams": {
+         "id": "6790569133",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bc/af/cd/bcafcda2-80cb-d6e0-eae2-f7fc0cd5eec1/mzaf_14248251972507839184.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-07-17",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
+       }
+      },
+      {
+       "id": "1806531961",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1806531961",
+       "attributes": {
+        "albumName": "Strange Trails",
+        "artistName": "Lord Huron",
+        "artwork": {
+         "bgColor": "171819",
+         "height": 1400,
+         "textColor1": "c3c9bd",
+         "textColor2": "c9b271",
+         "textColor3": "a0a59c",
+         "textColor4": "a6935f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/55/41/4a/55414a18-861a-79d1-e575-5bf8cf205dbe/886445056839_Cover.jpg/{w}x{h}bb.jpg",
+         "width": 1400
+        },
+        "discNumber": 1,
+        "durationInMillis": 208227,
+        "genreNames": [
+         "Indie Rock",
+         "Music",
+         "Alternative"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "US53Q1200103",
+        "name": "The Night We Met",
+        "playParams": {
+         "id": "1806531961",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/64/b4/f3/64b4f3e5-d4f9-ec10-e6af-b6c26bde9b47/mzaf_8621887946764980860.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2015-02-09",
+        "trackNumber": 14,
+        "url": "https://music.apple.com/us/album/the-night-we-met/1806531135?i=1806531961"
+       }
+      },
+      {
+       "id": "1886079268",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1886079268",
+       "attributes": {
+        "albumName": "Будь моей - Single",
+        "artistName": "Jaman T",
+        "artwork": {
+         "bgColor": "181c21",
+         "height": 3000,
+         "textColor1": "dad7ca",
+         "textColor2": "cfd0c9",
+         "textColor3": "b3b2a8",
+         "textColor4": "aaaca8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/71/5f/14/715f149b-8e5b-caa0-fa5b-303cc7f964d1/0.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Дмитрий Фадеев & Рустам Джанбакиев",
+        "discNumber": 1,
+        "durationInMillis": 101053,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "RUAGV2608100",
+        "name": "Будь моей",
+        "playParams": {
+         "id": "1886079268",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/93/c1/cc/93c1cc9b-8e53-1d8a-530f-5298fd62f020/mzaf_17301386447869961246.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-03-20",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/%D0%B1%D1%83%D0%B4%D1%8C-%D0%BC%D0%BE%D0%B5%D0%B9/1886079267?i=1886079268"
+       }
+      },
+      {
+       "id": "6796088994",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6796088994",
+       "attributes": {
+        "albumName": "Raya (Versions) - EP",
+        "artistName": "Zericxxn",
+        "artwork": {
+         "bgColor": "201011",
+         "height": 1400,
+         "textColor1": "f6c0c1",
+         "textColor2": "f09b97",
+         "textColor3": "cb9d9e",
+         "textColor4": "c67f7c",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/8c/1a/0c8c1a1d-1c3b-da80-77f8-f790cf92b47c/612891165395.jpg/{w}x{h}bb.jpg",
+         "width": 1400
+        },
+        "composerName": "Zeric Zeric",
+        "discNumber": 1,
+        "durationInMillis": 109784,
+        "genreNames": [
+         "Electronic",
+         "Music",
+         "Electronica"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "CA5KR2666385",
+        "name": "Raya (Slowed)",
+        "playParams": {
+         "id": "6796088994",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/66/27/54/662754f5-34a1-57a3-18b5-87f0f4bc2077/mzaf_11758838865963244129.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-07-31",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/raya-slowed/6796088988?i=6796088994"
+       }
+      },
+      {
+       "id": "351996354",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/351996354",
+       "attributes": {
+        "albumName": "Stereo Love - EP",
+        "artistName": "Edward Maya & Vika Jigulina",
+        "artwork": {
+         "bgColor": "090d0e",
+         "height": 600,
+         "textColor1": "fbf6ed",
+         "textColor2": "e4a476",
+         "textColor3": "cac7c0",
+         "textColor4": "b88661",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/4e/4b/01/mzi.npqfzwyn.jpg/{w}x{h}bb.jpg",
+         "width": 600
+        },
+        "composerName": "Ilie Eduard Marian & Victoria Corneva",
+        "discNumber": 1,
+        "durationInMillis": 247810,
+        "genreNames": [
+         "Dance",
+         "Music",
+         "House",
+         "Hip-Hop/Rap",
+         "Rap",
+         "Electronic"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "ROCMA0901578",
+        "name": "Stereo Love",
+        "playParams": {
+         "id": "351996354",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/33/92/63/339263aa-47f1-370a-32a0-76ea4833917f/mzaf_8401201419464099414.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2009-09-17",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/stereo-love/351996342?i=351996354"
+       }
+      },
+      {
+       "id": "1866732797",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1866732797",
+       "attributes": {
+        "albumName": "The Romantic",
+        "artistName": "Bruno Mars",
+        "artwork": {
+         "bgColor": "b1b1b1",
+         "height": 3000,
+         "textColor1": "070707",
+         "textColor2": "1e1e1e",
+         "textColor3": "292929",
+         "textColor4": "3b3b3b",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ed/46/bf/ed46bf4e-7cb9-965a-54f3-03059977fe6c/075679589293.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Bruno Mars, Dernst Emile II, James Fauntleroy & Philip Lawrence",
+        "discNumber": 1,
+        "durationInMillis": 204068,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USAT22600001",
+        "name": "Risk It All",
+        "playParams": {
+         "id": "1866732797",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/fc/d7/61fcd7e8-ea20-2f90-3672-09516cd050e6/mzaf_12696195794831485731.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-02-27",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/risk-it-all/1866732792?i=1866732797"
+       }
+      },
+      {
+       "id": "1792667027",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1792667027",
+       "attributes": {
+        "albumName": "MAYHEM",
+        "artistName": "Lady Gaga & Bruno Mars",
+        "artwork": {
+         "bgColor": "323232",
+         "height": 3000,
+         "textColor1": "f9f9f9",
+         "textColor2": "e3e3e3",
+         "textColor3": "d1d1d1",
+         "textColor4": "c0c0c0",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/be/11/d1/be11d187-1aeb-99f3-01c5-597ed65cdb6a/25UMGIM07433.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Lady Gaga, Bruno Mars, Dernst \"D' Mile\" Emile II, James Fauntleroy & Andrew Watt",
+        "discNumber": 1,
+        "durationInMillis": 251668,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUM72409273",
+        "name": "Die With A Smile",
+        "playParams": {
+         "id": "1792667027",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/52/0d/14/520d14a5-2b67-dd68-97a6-5c25f3fab4fc/mzaf_11286893972904968122.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2024-08-16",
+        "trackNumber": 14,
+        "url": "https://music.apple.com/us/album/die-with-a-smile/1792666546?i=1792667027"
+       }
+      },
+      {
+       "id": "1884898399",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1884898399",
+       "attributes": {
+        "albumName": "LET ME BE - Single",
+        "artistName": "The Second Voice",
+        "artwork": {
+         "bgColor": "030304",
+         "height": 2000,
+         "textColor1": "fd5d41",
+         "textColor2": "ed553d",
+         "textColor3": "cb4b35",
+         "textColor4": "be4532",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0f/68/ba/0f68ba2b-f12c-4a5b-fa4f-b9c378be26a4/825204598296.jpg/{w}x{h}bb.jpg",
+         "width": 2000
+        },
+        "composerName": "Mwape Chishinka",
+        "discNumber": 1,
+        "durationInMillis": 189854,
+        "genreNames": [
+         "Dance",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QZNWW2678435",
+        "name": "LET ME BE",
+        "playParams": {
+         "id": "1884898399",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/cb/4b/1bcb4bd4-0bee-83fc-d775-2cab1e51fc55/mzaf_15069762443416267825.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-01-25",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/let-me-be/1884898393?i=1884898399"
+       }
+      },
+      {
+       "id": "1884730735",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1884730735",
+       "attributes": {
+        "albumName": "Free Your Mind",
+        "artistName": "Prospa & Cloonee",
+        "artwork": {
+         "bgColor": "190202",
+         "height": 3000,
+         "textColor1": "efefef",
+         "textColor2": "c9c9c9",
+         "textColor3": "c4c0c0",
+         "textColor4": "a6a1a1",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/03/50/1e03508a-6c55-9da3-fd4c-2d181919d760/820200597014.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Dave Bissett, Guiorgi Smith, Harvey Blumler, Sam Mack & Victor Simonelli",
+        "discNumber": 1,
+        "durationInMillis": 201700,
+        "genreNames": [
+         "Dance",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QM6MZ2647619",
+        "name": "Free Your Mind",
+        "playParams": {
+         "id": "1884730735",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1f/8c/64/1f8c64ea-a711-12b1-9bfd-a24e909a75c0/mzaf_16510898991127196512.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-03-27",
+        "trackNumber": 4,
+        "url": "https://music.apple.com/us/album/free-your-mind/1884730177?i=1884730735"
+       }
+      },
+      {
+       "id": "6805176803",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6805176803",
+       "attributes": {
+        "albumName": "Oh No - Single",
+        "artistName": "Rema",
+        "artwork": {
+         "bgColor": "1f2020",
+         "height": 3000,
+         "textColor1": "ecd463",
+         "textColor2": "e3d385",
+         "textColor3": "c3b056",
+         "textColor4": "bcaf71",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7a/70/db/7a70dba9-1df6-e379-e6fa-19feda48d7a1/26UM1IM04727.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Michael Ovie Hunter & Tarik Johnston",
+        "discNumber": 1,
+        "durationInMillis": 195286,
+        "genreNames": [
+         "Afrobeats",
+         "Music",
+         "African"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "NGUM72600095",
+        "name": "Oh No",
+        "playParams": {
+         "id": "6805176803",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/12/87/72/12877291-d5e0-4f1b-94ce-081197cd5d79/mzaf_1425010020632461659.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-09-11",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/oh-no/6805176799?i=6805176803"
+       }
+      },
+      {
+       "id": "1889992113",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1889992113",
+       "attributes": {
+        "albumName": "you seem pretty sad for a girl so in love",
+        "artistName": "Olivia Rodrigo",
+        "artwork": {
+         "bgColor": "7c939f",
+         "height": 4000,
+         "textColor1": "070605",
+         "textColor2": "141413",
+         "textColor3": "1e2224",
+         "textColor4": "282d2f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 4000
+        },
+        "composerName": "Olivia Rodrigo, Daniel Nigro & Amy Allen",
+        "discNumber": 1,
+        "durationInMillis": 224999,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUG12601721",
+        "name": "drop dead",
+        "playParams": {
+         "id": "1889992113",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/57/ad/8957adf6-1862-4e4e-bcb5-810d6cf79cc4/mzaf_7752581374620577831.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-04-16",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/drop-dead/1889992111?i=1889992113"
+       }
+      },
+      {
+       "id": "828259403",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/828259403",
+       "attributes": {
+        "albumName": "Hurry Up, We're Dreaming",
+        "artistName": "M83",
+        "artwork": {
+         "bgColor": "24151a",
+         "height": 1425,
+         "textColor1": "dbc4d8",
+         "textColor2": "d6bfc4",
+         "textColor3": "b7a1b2",
+         "textColor4": "b39da2",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cb/7b/a9/cb7ba903-b5f1-cc21-90db-7a81b7aa0997/724596951057.jpg/{w}x{h}bb.jpg",
+         "width": 1425
+        },
+        "composerName": "M83",
+        "discNumber": 2,
+        "durationInMillis": 247027,
+        "genreNames": [
+         "Electronic",
+         "Music",
+         "Rock",
+         "Jazz",
+         "Big Band"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "GB55H1100022",
+        "name": "Outro",
+        "playParams": {
+         "id": "828259403",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8e/30/e3/8e30e38d-acfc-d458-7645-6438d4481ae7/mzaf_12891893961916074490.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2011-10-18",
+        "trackNumber": 11,
+        "url": "https://music.apple.com/us/album/outro/828259375?i=828259403"
+       }
+      },
+      {
+       "id": "1833328840",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1833328840",
+       "attributes": {
+        "albumName": "The Life of a Showgirl",
+        "artistName": "Taylor Swift",
+        "artwork": {
+         "bgColor": "4c592e",
+         "height": 3000,
+         "textColor1": "c7ebd0",
+         "textColor2": "acdcc4",
+         "textColor3": "aeceb0",
+         "textColor4": "98c2a6",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/46/e0/2d46e0bc-8ab9-85dd-4b56-ee6951351034/25UM1IM19577.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Taylor Swift, Max Martin & Shellback",
+        "discNumber": 1,
+        "durationInMillis": 226074,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUG12506436",
+        "name": "The Fate of Ophelia",
+        "playParams": {
+         "id": "1833328840",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4b/07/28/4b07285f-b50c-7aff-cb40-2d732256b703/mzaf_16739866530441939982.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-10-03",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/the-fate-of-ophelia/1833328839?i=1833328840"
+       }
+      },
+      {
+       "id": "6803095967",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6803095967",
+       "attributes": {
+        "albumName": "Была, не была - Single",
+        "artistName": "Jakone & Kiliana",
+        "artwork": {
+         "bgColor": "0a0805",
+         "height": 3000,
+         "textColor1": "d5bca3",
+         "textColor2": "c9aa8e",
+         "textColor3": "ac9884",
+         "textColor4": "a38a73",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/26/13/7d/26137da4-5826-bf7a-8e5a-501a6d93c321/0.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Байталов Арам, Лиана Геворкян & Алексей Поляков",
+        "discNumber": 1,
+        "durationInMillis": 167077,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "RUAGV2628513",
+        "name": "Была, не была",
+        "playParams": {
+         "id": "6803095967",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/d1/dd/82d1dd1a-2cb2-5330-7a72-c12550177e35/mzaf_15088854701949632185.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-08-21",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/%D0%B1%D1%8B%D0%BB%D0%B0-%D0%BD%D0%B5-%D0%B1%D1%8B%D0%BB%D0%B0/6803095966?i=6803095967"
+       }
+      },
+      {
+       "id": "1440754487",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1440754487",
+       "attributes": {
+        "albumName": "Making Mirrors",
+        "artistName": "Gotye",
+        "artwork": {
+         "bgColor": "f5eada",
+         "height": 1100,
+         "textColor1": "2a2a2a",
+         "textColor2": "382e2c",
+         "textColor3": "52504d",
+         "textColor4": "5e544f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/b3/8a/98/b38a9867-2a9c-de2f-2d80-c624fb2200ec/11UMGIM19347.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 1100
+        },
+        "composerName": "Wally De Backer",
+        "discNumber": 1,
+        "durationInMillis": 244973,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Jazz",
+         "Bop",
+         "Rock",
+         "Adult Alternative",
+         "Electronic",
+         "Electronica"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "AUZS21100040",
+        "name": "Somebody That I Used to Know (feat. Kimbra)",
+        "playParams": {
+         "id": "1440754487",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/63/85/4a6385ef-b80a-5e40-0bf2-245fa5b3dc52/mzaf_1146936378720252898.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2011-07-05",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/somebody-that-i-used-to-know-feat-kimbra/1440754000?i=1440754487"
+       }
+      },
+      {
+       "id": "1474669074",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1474669074",
+       "attributes": {
+        "albumName": "Norman F*****g Rockwell!",
+        "artistName": "Lana Del Rey",
+        "artwork": {
+         "bgColor": "7e9da6",
+         "height": 3000,
+         "textColor1": "0d0706",
+         "textColor2": "170e0b",
+         "textColor3": "242526",
+         "textColor4": "2b2a2a",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c6/5f/b9/c65fb9eb-da2f-89a9-b640-2fff1fc3a660/19UMGIM61350.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Lana Del Rey & Jack Antonoff",
+        "discNumber": 1,
+        "durationInMillis": 300683,
+        "genreNames": [
+         "Alternative",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBUM71903147",
+        "name": "Cinnamon Girl",
+        "playParams": {
+         "id": "1474669074",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/80/61/6d/80616d56-8057-743f-b1d5-40c6926b1ad0/mzaf_15310435543583230596.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2019-08-30",
+        "trackNumber": 7,
+        "url": "https://music.apple.com/us/album/cinnamon-girl/1474669063?i=1474669074"
+       }
+      },
+      {
+       "id": "1846225056",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1846225056",
+       "attributes": {
+        "albumName": "BIANCA (Extended)",
+        "artistName": "BIA",
+        "artwork": {
+         "bgColor": "c0cbd6",
+         "height": 3000,
+         "textColor1": "170905",
+         "textColor2": "46281a",
+         "textColor3": "39302f",
+         "textColor4": "5e4940",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/06/5f/b8/065fb811-5ffd-e834-ae5f-a2e0ba5c55d0/196873712307.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Bianca Landrau, Joel Malka, Simon Jonasson, Thomas Lee Brown, Anton Karl Edwin Goeransson, Isabella Anna Maria Sjostrand, Courtlin Jabrae Edwards & Carlton Mays Jr.",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 168533,
+        "genreNames": [
+         "Hip-Hop/Rap",
+         "Music",
+         "Rap"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "USSM12500842",
+        "name": "WE ON GO",
+        "playParams": {
+         "id": "1846225056",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a2/53/b1/a253b197-d633-d687-1ece-df47ada7bfcb/mzaf_15162681059020211282.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-04-04",
+        "trackNumber": 17,
+        "url": "https://music.apple.com/us/album/we-on-go/1846224824?i=1846225056"
+       }
+      },
+      {
+       "id": "1570153637",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1570153637",
+       "attributes": {
+        "albumName": "La Vida Viene y Va",
+        "artistName": "David Tavaré",
+        "artwork": {
+         "bgColor": "b5e0f9",
+         "height": 3000,
+         "textColor1": "0e0c11",
+         "textColor2": "11151a",
+         "textColor3": "2f3740",
+         "textColor4": "323d47",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/36/ab/9b/36ab9b64-0f30-ca2e-dcaa-e0962d3d530f/8436576210864_cover.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Ambrogio Crotti",
+        "discNumber": 1,
+        "durationInMillis": 225602,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "ES03A0800022",
+        "name": "Call Me Baby (If You Don’t Know My Name) [feat. Ruth]",
+        "playParams": {
+         "id": "1570153637",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/b4/7c/9ab47c27-e6fa-cce1-58d3-9ac1a339fc5f/mzaf_14181927773561101363.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2008-01-01",
+        "trackNumber": 14,
+        "url": "https://music.apple.com/us/album/call-me-baby-if-you-dont-know-my-name-feat-ruth/1570153604?i=1570153637"
+       }
+      },
+      {
+       "id": "6796864748",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6796864748",
+       "attributes": {
+        "albumName": "NO ME ARREPIENTO DE SENTIR TANTO",
+        "artistName": "KAROL G & Bruno Mars",
+        "artwork": {
+         "bgColor": "bfdae6",
+         "height": 3000,
+         "textColor1": "030d12",
+         "textColor2": "0e2831",
+         "textColor3": "29363c",
+         "textColor4": "324c55",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Bruno Mars, Carolina Giraldo Navarro, Isabel LaRosa, Sasha Alex Sloan & Thomas LaRosa",
+        "discNumber": 1,
+        "durationInMillis": 220600,
+        "genreNames": [
+         "Pop",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USUG12607936",
+        "name": "Still",
+        "playParams": {
+         "id": "6796864748",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/97/67/589767c4-1ffb-41b6-115d-0cbd09972ae5/mzaf_6049250282744841909.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-08-04",
+        "trackNumber": 6,
+        "url": "https://music.apple.com/us/album/still/6796864741?i=6796864748"
+       }
+      },
+      {
+       "id": "6806462915",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/6806462915",
+       "attributes": {
+        "albumName": "La Cheyenne (Remix) - Single",
+        "artistName": "El De Las R's & Yng Lvcas",
+        "artwork": {
+         "bgColor": "161c23",
+         "height": 3000,
+         "textColor1": "ccd4cc",
+         "textColor2": "becbc7",
+         "textColor3": "a8afaa",
+         "textColor4": "9ca8a6",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/8e/2f/208e2f45-64ba-1061-fdcf-f4940fd08971/26UM1IM11456.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Elias De Jesús Ramírez Rosales",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 158274,
+        "genreNames": [
+         "Música Mexicana",
+         "Music",
+         "Latin"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "QMDA62680465",
+        "name": "La Cheyenne (Remix)",
+        "playParams": {
+         "id": "6806462915",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/8b/b4/b48bb410-2cfe-de15-19d7-effb80057df3/mzaf_467249384792406944.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2026-08-14",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/la-cheyenne-remix/6806462604?i=6806462915"
+       }
+      },
+      {
+       "id": "1877141224",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1877141224",
+       "attributes": {
+        "albumName": "Magnetic / Addicted To Your Love - Single",
+        "artistName": "The Bausa",
+        "artwork": {
+         "bgColor": "ecebed",
+         "height": 3000,
+         "textColor1": "0c0c08",
+         "textColor2": "121311",
+         "textColor3": "383836",
+         "textColor4": "3e3e3d",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/f3/8d/9ef38d20-68be-39bf-f1b9-7df49a4ba110/196874116135.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Sebastian Coucheron Teigen, Edvard Bræin Groth, Fredrik von Krogh & philip Bergenstjerna",
+        "discNumber": 1,
+        "durationInMillis": 181385,
+        "genreNames": [
+         "Dance",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "DEE862600182",
+        "name": "Magnetic",
+        "playParams": {
+         "id": "1877141224",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0e/f7/2a/0ef72a1f-15c3-899e-38ed-bc2c28f8cbb6/mzaf_15779976494493637314.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-07-25",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/magnetic/1877141223?i=1877141224"
+       }
+      },
+      {
+       "id": "1526194192",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1526194192",
+       "attributes": {
+        "albumName": "Hot Fuss",
+        "artistName": "The Killers",
+        "artwork": {
+         "bgColor": "99bee1",
+         "height": 3000,
+         "textColor1": "04080e",
+         "textColor2": "06090f",
+         "textColor3": "212d38",
+         "textColor4": "232d39",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/07/1a/5a/071a5aee-6e42-060c-35b9-6a6e45b9ea59/06UMGIM10441.rgb.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Brandon Flowers & Dave Keuning",
+        "discNumber": 1,
+        "durationInMillis": 222973,
+        "genreNames": [
+         "Rock",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "USIR20400274",
+        "name": "Mr. Brightside",
+        "playParams": {
+         "id": "1526194192",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5b/17/4e/5b174e80-1047-7214-1077-d822ba1f9520/mzaf_5975692497663881329.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2003-09-29",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/mr-brightside/1526194184?i=1526194192"
+       }
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

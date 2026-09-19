@@ -1,0 +1,381 @@
+{
+ "properties": {},
+ "tracks": [
+  {
+   "layout": "5",
+   "type": "MUSIC",
+   "key": "824573155",
+   "title": "Tin Tốt Tin Xấu",
+   "subtitle": "Luu Chi Vy",
+   "share": {
+    "subject": "Tin Tốt Tin Xấu - Luu Chi Vy",
+    "text": "Tin Tốt Tin Xấu by Luu Chi Vy",
+    "href": "https://www.shazam.com/track/824573155/tin-t%E1%BB%91t-tin-x%E1%BA%A5u",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/37/13/b0371331-d1a0-cce4-b932-5aae0396f62a/cover.jpg/400x400cc.jpg",
+    "twitter": "I used @Shazam to discover Tin Tốt Tin Xấu by Luu Chi Vy.",
+    "html": "https://www.shazam.com/snippets/email-share/824573155?lang=en-US&country=US",
+    "snapchat": "https://www.shazam.com/partner/sc/track/824573155"
+   },
+   "images": {
+    "background": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/37/13/b0371331-d1a0-cce4-b932-5aae0396f62a/cover.jpg/400x400cc.jpg",
+    "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/37/13/b0371331-d1a0-cce4-b932-5aae0396f62a/cover.jpg/400x400cc.jpg",
+    "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/37/13/b0371331-d1a0-cce4-b932-5aae0396f62a/cover.jpg/400x400cc.jpg"
+   },
+   "hub": {
+    "type": "APPLEMUSIC",
+    "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+    "explicit": false,
+    "displayname": "APPLE MUSIC",
+    "options": [
+     {
+      "caption": "OPEN",
+      "actions": [
+       {
+        "name": "hub:applemusic:subscribe",
+        "type": "applemusicopen",
+        "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+       },
+       {
+        "name": "hub:applemusic:subscribe",
+        "type": "uri",
+        "uri": "https://music.apple.com/subscribe?mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+       }
+      ],
+      "beacondata": {
+       "type": "open",
+       "providername": "applemusic"
+      },
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+      "type": "open",
+      "listcaption": "Open in Apple Music",
+      "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+      "colouroverflowimage": false,
+      "providername": "applemusic"
+     }
+    ]
+   },
+   "artists": [
+    {
+     "alias": "luu-chi-vy",
+     "id": "42",
+     "adamid": "1196343575"
+    }
+   ],
+   "url": "https://www.shazam.com/track/824573155/tin-t%E1%BB%91t-tin-x%E1%BA%A5u",
+   "highlightsurls": {},
+   "properties": {}
+  },
+  {
+   "layout": "5",
+   "type": "MUSIC",
+   "key": "40471850",
+   "title": "Nuvole Bianche",
+   "subtitle": "Ludovico Einaudi",
+   "share": {
+    "subject": "Nuvole Bianche - Ludovico Einaudi",
+    "text": "Nuvole Bianche by Ludovico Einaudi",
+    "href": "https://www.shazam.com/track/40471850/nuvole-bianche",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/0e/6b/e40e6b4b-a7d2-74bf-2729-8c4b8aa27d50/20UMGIM59836.rgb.jpg/400x400cc.jpg",
+    "twitter": "I used @Shazam to discover Nuvole Bianche by Ludovico Einaudi.",
+    "html": "https://www.shazam.com/snippets/email-share/40471850?lang=en-US&country=US",
+    "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/e9/3a/ee/e93aeef9-6e3f-7e07-7f08-fdd64030657c/86c6a910-cb9a-439b-939b-f104fd8439a3_ami-identity-a9e75c957b79d0d497177623b45e6057-2024-10-04T11-09-11.272Z_cropped.png/800x800cc.jpg",
+    "snapchat": "https://www.shazam.com/partner/sc/track/40471850"
+   },
+   "images": {
+    "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/e9/3a/ee/e93aeef9-6e3f-7e07-7f08-fdd64030657c/86c6a910-cb9a-439b-939b-f104fd8439a3_ami-identity-a9e75c957b79d0d497177623b45e6057-2024-10-04T11-09-11.272Z_cropped.png/800x800cc.jpg",
+    "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/0e/6b/e40e6b4b-a7d2-74bf-2729-8c4b8aa27d50/20UMGIM59836.rgb.jpg/400x400cc.jpg",
+    "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/e4/0e/6b/e40e6b4b-a7d2-74bf-2729-8c4b8aa27d50/20UMGIM59836.rgb.jpg/400x400cc.jpg",
+    "joecolor": "b:0b0b0cp:b9c5ces:5ec1d5t:96a0a7q:4d9dad"
+   },
+   "hub": {
+    "type": "APPLEMUSIC",
+    "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+    "actions": [
+     {
+      "name": "apple",
+      "type": "applemusicplay",
+      "id": "1526310071"
+     },
+     {
+      "name": "apple",
+      "type": "uri",
+      "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/f6/47/2cf647cb-602c-c45a-f1ee-a8fc86a692d3/mzaf_8796077358196783019.plus.aac.ep.m4a"
+     }
+    ],
+    "explicit": false,
+    "displayname": "APPLE MUSIC",
+    "options": [
+     {
+      "caption": "OPEN",
+      "actions": [
+       {
+        "name": "hub:applemusic:deeplink",
+        "type": "applemusicopen",
+        "uri": "https://music.apple.com/us/album/nuvole-bianche/1526309504?i=1526310071&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+       },
+       {
+        "name": "hub:applemusic:deeplink",
+        "type": "uri",
+        "uri": "https://music.apple.com/us/album/nuvole-bianche/1526309504?i=1526310071&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+       }
+      ],
+      "beacondata": {
+       "type": "open",
+       "providername": "applemusic"
+      },
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+      "type": "open",
+      "listcaption": "Open in Apple Music",
+      "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+      "colouroverflowimage": false,
+      "providername": "applemusic"
+     }
+    ]
+   },
+   "artists": [
+    {
+     "alias": "ludovico-einaudi",
+     "id": "42",
+     "adamid": "7420827"
+    }
+   ],
+   "url": "https://www.shazam.com/track/40471850/nuvole-bianche",
+   "highlightsurls": {},
+   "properties": {}
+  },
+  {
+   "layout": "5",
+   "type": "MUSIC",
+   "key": "327980555",
+   "title": "River Flows in You",
+   "subtitle": "Javi Lobe",
+   "share": {
+    "subject": "River Flows in You - Javi Lobe",
+    "text": "River Flows in You by Javi Lobe",
+    "href": "https://www.shazam.com/track/327980555/river-flows-in-you",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/c2/af/b9/c2afb9e0-aa5c-cf4d-f9b1-bfd3a9e24bde/Wmxuy.png/400x400cc.jpg",
+    "twitter": "I used @Shazam to discover River Flows in You by Javi Lobe.",
+    "html": "https://www.shazam.com/snippets/email-share/327980555?lang=en-US&country=US",
+    "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/3d/bc/c4/3dbcc47a-8a01-1c8a-508e-d08185a7033a/file_cropped.png/800x800cc.jpg",
+    "snapchat": "https://www.shazam.com/partner/sc/track/327980555"
+   },
+   "images": {
+    "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/3d/bc/c4/3dbcc47a-8a01-1c8a-508e-d08185a7033a/file_cropped.png/800x800cc.jpg",
+    "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/c2/af/b9/c2afb9e0-aa5c-cf4d-f9b1-bfd3a9e24bde/Wmxuy.png/400x400cc.jpg",
+    "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/c2/af/b9/c2afb9e0-aa5c-cf4d-f9b1-bfd3a9e24bde/Wmxuy.png/400x400cc.jpg",
+    "joecolor": "b:848997p:050506s:161616t:1e1f23q:2c2d30"
+   },
+   "hub": {
+    "type": "APPLEMUSIC",
+    "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+    "actions": [
+     {
+      "name": "apple",
+      "type": "applemusicplay",
+      "id": "1146026765"
+     },
+     {
+      "name": "apple",
+      "type": "uri",
+      "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b8/91/d7/b891d7d1-36f2-54ac-b676-1ba413c4eda3/mzaf_10892654502637504411.plus.aac.ep.m4a"
+     }
+    ],
+    "explicit": false,
+    "displayname": "APPLE MUSIC",
+    "options": [
+     {
+      "caption": "OPEN",
+      "actions": [
+       {
+        "name": "hub:applemusic:deeplink",
+        "type": "applemusicopen",
+        "uri": "https://music.apple.com/us/album/river-flows-in-you/1146026738?i=1146026765&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+       },
+       {
+        "name": "hub:applemusic:deeplink",
+        "type": "uri",
+        "uri": "https://music.apple.com/us/album/river-flows-in-you/1146026738?i=1146026765&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+       }
+      ],
+      "beacondata": {
+       "type": "open",
+       "providername": "applemusic"
+      },
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+      "type": "open",
+      "listcaption": "Open in Apple Music",
+      "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+      "colouroverflowimage": false,
+      "providername": "applemusic"
+     }
+    ]
+   },
+   "artists": [
+    {
+     "alias": "javi-lobe",
+     "id": "42",
+     "adamid": "1125677544"
+    }
+   ],
+   "url": "https://www.shazam.com/track/327980555/river-flows-in-you",
+   "highlightsurls": {},
+   "properties": {}
+  },
+  {
+   "layout": "5",
+   "type": "MUSIC",
+   "key": "596297605",
+   "title": "Homenaje a los Caídos.",
+   "subtitle": "La República Hardcore Fraternity",
+   "share": {
+    "subject": "Homenaje a los Caídos. - La República Hardcore Fraternity",
+    "text": "Homenaje a los Caídos. by La República Hardcore Fraternity",
+    "href": "https://www.shazam.com/track/596297605/homenaje-a-los-ca%C3%ADdos",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/8a/a8/f68aa8df-9567-446d-571d-14c829c8687e/611851289102.jpg/400x400cc.jpg",
+    "twitter": "I used @Shazam to discover Homenaje a los Caídos. by La República Hardcore Fraternity.",
+    "html": "https://www.shazam.com/snippets/email-share/596297605?lang=en-US&country=US",
+    "snapchat": "https://www.shazam.com/partner/sc/track/596297605"
+   },
+   "images": {
+    "background": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/8a/a8/f68aa8df-9567-446d-571d-14c829c8687e/611851289102.jpg/400x400cc.jpg",
+    "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/8a/a8/f68aa8df-9567-446d-571d-14c829c8687e/611851289102.jpg/400x400cc.jpg",
+    "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f6/8a/a8/f68aa8df-9567-446d-571d-14c829c8687e/611851289102.jpg/400x400cc.jpg",
+    "joecolor": "b:0b0b0bp:ffffffs:dfc9a1t:cececeq:b4a383"
+   },
+   "hub": {
+    "type": "APPLEMUSIC",
+    "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+    "actions": [
+     {
+      "name": "apple",
+      "type": "applemusicplay",
+      "id": "1599063932"
+     },
+     {
+      "name": "apple",
+      "type": "uri",
+      "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/06/02/b7/0602b70a-e53e-e0df-5ff0-fab4e7d42c26/mzaf_12601178830112555316.plus.aac.ep.m4a"
+     }
+    ],
+    "explicit": false,
+    "displayname": "APPLE MUSIC",
+    "options": [
+     {
+      "caption": "OPEN",
+      "actions": [
+       {
+        "name": "hub:applemusic:deeplink",
+        "type": "applemusicopen",
+        "uri": "https://music.apple.com/us/album/homenaje-a-los-ca%C3%ADdos/1599063475?i=1599063932&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+       },
+       {
+        "name": "hub:applemusic:deeplink",
+        "type": "uri",
+        "uri": "https://music.apple.com/us/album/homenaje-a-los-ca%C3%ADdos/1599063475?i=1599063932&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+       }
+      ],
+      "beacondata": {
+       "type": "open",
+       "providername": "applemusic"
+      },
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+      "type": "open",
+      "listcaption": "Open in Apple Music",
+      "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+      "colouroverflowimage": false,
+      "providername": "applemusic"
+     }
+    ]
+   },
+   "artists": [
+    {
+     "alias": "la-rep%C3%BAblica-hardcore-fraternity",
+     "id": "42",
+     "adamid": "1599063481"
+    }
+   ],
+   "url": "https://www.shazam.com/track/596297605/homenaje-a-los-ca%C3%ADdos",
+   "highlightsurls": {},
+   "properties": {}
+  },
+  {
+   "layout": "5",
+   "type": "MUSIC",
+   "key": "6027614",
+   "title": "Comptine d'un autre été, l'après-midi",
+   "subtitle": "Yann Tiersen",
+   "share": {
+    "subject": "Comptine d'un autre été, l'après-midi - Yann Tiersen",
+    "text": "Comptine d'un autre été, l'après-midi by Yann Tiersen",
+    "href": "https://www.shazam.com/track/6027614/comptine-dun-autre-%C3%A9t%C3%A9-lapr%C3%A8s-midi",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/df/d9/ffdfd915-749b-85d1-d63b-158d9c197927/5099909117358.jpg/400x400cc.jpg",
+    "twitter": "I used @Shazam to discover Comptine d'un autre été, l'après-midi by Yann Tiersen.",
+    "html": "https://www.shazam.com/snippets/email-share/6027614?lang=en-US&country=US",
+    "avatar": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/0a/45/37/0a453703-c059-3823-79a0-81a07431a825/ami-identity-e99eff435703b20ba58e26cc0e715b8c-2024-12-04T09-14-10.129Z_cropped.png/800x800cc.jpg",
+    "snapchat": "https://www.shazam.com/partner/sc/track/6027614"
+   },
+   "images": {
+    "background": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/0a/45/37/0a453703-c059-3823-79a0-81a07431a825/ami-identity-e99eff435703b20ba58e26cc0e715b8c-2024-12-04T09-14-10.129Z_cropped.png/800x800cc.jpg",
+    "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/df/d9/ffdfd915-749b-85d1-d63b-158d9c197927/5099909117358.jpg/400x400cc.jpg",
+    "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ff/df/d9/ffdfd915-749b-85d1-d63b-158d9c197927/5099909117358.jpg/400x400cc.jpg",
+    "joecolor": "b:0d1f0cp:e8daads:d3a31et:bcb48cq:ac891a"
+   },
+   "hub": {
+    "type": "APPLEMUSIC",
+    "image": "https://images.shazam.com/static/icons/hub/web/v5/applemusic.png",
+    "actions": [
+     {
+      "name": "apple",
+      "type": "applemusicplay",
+      "id": "1575400467"
+     },
+     {
+      "name": "apple",
+      "type": "uri",
+      "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/62/54/5e/62545ee7-29dc-5b25-345a-976d2be8ad6e/mzaf_13593239243179866678.plus.aac.p.m4a"
+     }
+    ],
+    "explicit": false,
+    "displayname": "APPLE MUSIC",
+    "options": [
+     {
+      "caption": "OPEN",
+      "actions": [
+       {
+        "name": "hub:applemusic:deeplink",
+        "type": "applemusicopen",
+        "uri": "https://music.apple.com/us/album/comptine-dun-autre-%C3%A9t%C3%A9-lapr%C3%A8s-midi/1575400412?i=1575400467&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+       },
+       {
+        "name": "hub:applemusic:deeplink",
+        "type": "uri",
+        "uri": "https://music.apple.com/us/album/comptine-dun-autre-%C3%A9t%C3%A9-lapr%C3%A8s-midi/1575400412?i=1575400467&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_web&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_web"
+       }
+      ],
+      "beacondata": {
+       "type": "open",
+       "providername": "applemusic"
+      },
+      "image": "https://images.shazam.com/static/icons/hub/web/v5/overflow-open-option.png",
+      "type": "open",
+      "listcaption": "Open in Apple Music",
+      "overflowimage": "https://images.shazam.com/static/icons/hub/web/v5/applemusic-overflow.png",
+      "colouroverflowimage": false,
+      "providername": "applemusic"
+     }
+    ]
+   },
+   "artists": [
+    {
+     "alias": "yann-tiersen",
+     "id": "42",
+     "adamid": "16401316"
+    }
+   ],
+   "url": "https://www.shazam.com/track/6027614/comptine-dun-autre-%C3%A9t%C3%A9-lapr%C3%A8s-midi",
+   "highlightsurls": {},
+   "properties": {}
+  }
+ ],
+ "next": "https://cdn.shazam.com/shazam/v3/en-US/US/web/-/tracks/track-similarities-id-40333609?pageSize=5&startFrom=5"
+}

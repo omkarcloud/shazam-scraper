@@ -1,0 +1,6 @@
+bottle
+cheroot
+curl_cffi
+marshmallow
+numpy
+pytest

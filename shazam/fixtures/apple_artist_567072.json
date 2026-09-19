@@ -1,0 +1,3171 @@
+{
+ "data": [
+  {
+   "id": "567072",
+   "type": "artists",
+   "href": "/v1/catalog/us/artists/567072",
+   "attributes": {
+    "artwork": {
+     "bgColor": "000000",
+     "height": 3000,
+     "textColor1": "cda561",
+     "textColor2": "d38d4f",
+     "textColor3": "a4844e",
+     "textColor4": "a9703f",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/4b/5d/b2/4b5db26b-da7d-af1d-50a4-b3cfc133d773/ami-identity-633ffe096a09d49a5897b472da31d004-2025-09-11T17-35-59.719Z_cropped.png/{w}x{h}bb.jpg",
+     "width": 3000
+    },
+    "editorialNotes": {
+     "name": "Gorillaz",
+     "short": "Laconic trip-hop beats and sizzling electronics from Albarn and co.",
+     "standard": "Laconic trip-hop beats skate beneath ex-Blur frontman Damon Albarn’s distinctive Brit vocals on the animated foursome’s debut album. Nods to hip-hop futurism on “New Genius (Brother)” and dub swagger on “Slow Country” are fused together by Kid Koala’s skittering scratching and Dan \"The Automator\" Nakamura’s sizzling electronics."
+    },
+    "genreNames": [
+     "Alternative"
+    ],
+    "name": "Gorillaz",
+    "url": "https://music.apple.com/us/artist/gorillaz/567072"
+   },
+   "relationships": {
+    "albums": {
+     "href": "/v1/catalog/us/artists/567072/albums",
+     "next": "/v1/catalog/us/artists/567072/albums?offset=25",
+     "data": [
+      {
+       "id": "850571319",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/850571319"
+      },
+      {
+       "id": "1217911994",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1217911994"
+      },
+      {
+       "id": "859841880",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/859841880"
+      },
+      {
+       "id": "850576570",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/850576570"
+      },
+      {
+       "id": "1641561652",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1641561652"
+      },
+      {
+       "id": "1387814084",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1387814084"
+      },
+      {
+       "id": "1837237742",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1837237742"
+      },
+      {
+       "id": "850569437",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/850569437"
+      },
+      {
+       "id": "1530812327",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1530812327"
+      },
+      {
+       "id": "1673502694",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1673502694"
+      },
+      {
+       "id": "1247590076",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1247590076"
+      },
+      {
+       "id": "850583573",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/850583573"
+      },
+      {
+       "id": "1653675571",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1653675571"
+      },
+      {
+       "id": "850585388",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/850585388"
+      },
+      {
+       "id": "1300105773",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1300105773"
+      },
+      {
+       "id": "1580441749",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1580441749"
+      },
+      {
+       "id": "700025929",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/700025929"
+      },
+      {
+       "id": "884147414",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/884147414"
+      },
+      {
+       "id": "726389588",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/726389588"
+      },
+      {
+       "id": "1318802242",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1318802242"
+      },
+      {
+       "id": "699724514",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/699724514"
+      },
+      {
+       "id": "1511203452",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1511203452"
+      },
+      {
+       "id": "693778034",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/693778034"
+      },
+      {
+       "id": "1222735817",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1222735817"
+      },
+      {
+       "id": "1226535984",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1226535984"
+      }
+     ]
+    }
+   },
+   "views": {
+    "full-albums": {
+     "href": "/v1/catalog/us/artists/567072/view/full-albums",
+     "attributes": {
+      "title": "Albums"
+     },
+     "data": [
+      {
+       "id": "1837237742",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1837237742",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "8a7c54",
+         "height": 3000,
+         "textColor1": "030202",
+         "textColor2": "020302",
+         "textColor3": "1e1a12",
+         "textColor4": "1d1b13",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "contentRating": "explicit",
+        "copyright": "℗ 2026 Kong",
+        "editorialNotes": {
+         "short": "“We had a great adventure”: How loss and India inspired a new era for Gorillaz.",
+         "standard": "The ninth Gorillaz album arrived a few weeks short of their debut’s 25th anniversary. In that intervening quarter of a century, lives have been lived. <i>The Mountain</i> is a record that, like Damon Albarn’s 2021 solo album <i>The Nearer the Fountain, More Pure the Stream Flows</i>, explores loss and transformation, themes you become more sensitive to the older you get. While there aren’t huge signs of wear and tear on the faces of the animations that front Gorillaz, Albarn and Jamie Hewlett, the band’s core creative duo, are well into their fifties and, in the summer of 2024, both lost their fathers while working on <i>The Mountain</i>. “It contains grief,” Albarn tells Apple Music Radio’s Matt Wilkinson. “It’s personal, but it’s supposed to be for everyone. You know: May contain grief-stricken lyrics.”\n\nPart of Albarn’s grieving process was to scatter his father’s ashes in Varanasi on the banks of the Ganges in northern India. Hewlett had also spent a good deal of time in the country during 2022 and 2023, helping look after his mother-in-law who had suffered a stroke in the Rajasthan capital, Jaipur. Confronting mortality in a different land, they both found inspiration for the record. “Visually, it’s mind-blowing what’s going on,” says Hewlett. “There’s hundreds of years of history still evident on the street. There’ll be a guy galloping down the street on a white horse dressed in a costume from 500 years ago. Or there’s a funeral pyre or there’s a wedding ceremony. And then you’re in traffic in a tuk-tuk and there’s every car ever made and cows and horses and mules and dogs and then an elephant. If you’re an artist or a musician or anybody creative and you go to India and it doesn’t fry your mind, then clearly you’re not a creative person. It’s all there. Everything is right in front of you. And you come back full. Your mind’s just full of stuff.” \n\nThe influence is most immediately felt in the sound of an album that was partly recorded in a number of locations across India. As ever, the music draws from, and mutates, multiple genres and, here, it’s regularly infused with the instrumentation and rhythms of Indian classical musicians including Anoushka Shankar, Ajay Prasanna, Amaan Ali Bangash, and Ayaan Ali Bangash. It was also the local attitudes towards death—a vibrant contrast to the solemnity of grief in the UK—that impacted the pair. “What’s interesting is: Why is that?” says Albarn. “It’s not because we don’t have the capacity to open our minds to the ideas that you find in abundance in places like India. But it’s not the only place that has an interesting relationship with death. Go to Mexico. You go to Ghana—[going] anywhere where there’s some kind of color and joy is a good way to counterbalance all the grimness. And we seem to pile the grimness on. So not only is it a crematorium, but it’s a grey sky and it’s cold.”\n\nOn <i>The Mountain</i>, death inspires warm expressions of love: “The Sweet Prince” places Albarn at his father’s bedside “looking out across the void” during his final hours and celebrating his life and character as he waves him on his “patterned path into the next life.” And there’s hope about transference as Bollywood legend Asha Bhosle sings of a journey to the next life on “The Shadowy Light” amid bubbling synth-pop buoyed by Super Furry Animals’ Gruff Rhys declaring, “I shed, I shed my skin/The end is the beginning.”\n\nDuring “The Hardest Thing,” Albarn is at his most elegiac. So often on Gorillaz records, his voice is warped and muddied, like thoughts spilling from an answer-machine recording—is it Albarn himself or the animated 2D calling? On this song though, his vocal is untouched and vulnerable as he absorbs the shattering pain of loss with the line “The hardest thing is to say goodbye to someone you love.” Yet on the next song, “Orange County,” that very refrain becomes part of something more optimistic and spry, decorated by a chipper whistle and Shankar’s sitar. “It’s the same song,” says Albarn. “It’s slightly like if you’re in one room, you feel something in you. You go into another one and it’s got the right lighting and it smells right. It’s a different room, although it may be exactly the same space. They’re different sides of a coin, my philosophical coin.”\n\nThat subject matter also encouraged Gorillaz to return to unused recordings they’d made with collaborators who have since passed away. “We put in collages of, photographs of, and memories of other people we’ve had the privilege to know and work with over the years,” says Albarn. Afrobeat legend Tony Allen gently says, “Oya, e dide erori” (Yoruba for “Oh, wake up my dear”) on “The Hardest Thing.” Mark E. Smith comes bowling and bellowing through the celestial calm of “Delirium,” and this life dovetails with the next on “The Moon Cave,” which carries the voice of Bobby Womack and also features The Roots’ Black Thought swapping bars with the late Dave Jolicoeur of De La Soul. “They were very good friends for a long time,” says Hewlett. “They came in and [Black Thought] had a conversation with his friend, who’s somewhere else.”\n\nAs personal as <i>The Mountain</i> feels during these moments, it’s also a record with an eye on today’s wider world. On the doomy dub of “The God of Lying,” IDLES’ Joe Talbot recommends questioning everything, Sparks appear as autocratic rulers on “The Happy Dictator” and the Johnny Marr-assisted “The Plastic Guru” contemplates how belief and truth can be manipulated. It’s all part of an album where Gorillaz sound revitalized—as curious, adventurous, thoughtful, and cohesive as they’ve ever been. The end is a beginning. “We had a great adventure,” says Hewlett. “It reminded us that in order to make something really good, you have to go somewhere you’ve never been or have an experience you’ve never had, not just be in the studio in LA or London or wherever. India was the place this time. It gave us a lot.”",
+         "tagline": "New Album and Interview"
+        },
+        "genreNames": [
+         "Alternative",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isSingle": false,
+        "name": "The Mountain",
+        "playParams": {
+         "id": "1837237742",
+         "kind": "album"
+        },
+        "recordLabel": "Kong",
+        "releaseDate": "2026-02-27",
+        "trackCount": 15,
+        "upc": "199538459005",
+        "url": "https://music.apple.com/us/album/the-mountain/1837237742"
+       }
+      },
+      {
+       "id": "1673502694",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1673502694",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "000000",
+         "height": 4000,
+         "textColor1": "e8cbcb",
+         "textColor2": "ddb8b6",
+         "textColor3": "baa2a2",
+         "textColor4": "b19392",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/61/45/59/61455969-fe99-89f2-10ab-ea114e1ed5bd/5054197567001.jpg/{w}x{h}bb.jpg",
+         "width": 4000
+        },
+        "contentRating": "explicit",
+        "copyright": "℗ 2023 Parlophone Records Limited.",
+        "editorialNotes": {
+         "short": "“Working with Damon really awakened a creative part of my brain.”",
+         "standard": "As the headquarters of a producer/songwriter who’s won Grammys for his work with Adele, Beck, Foo Fighters, and more, Greg Kurstin’s LA studio is well appointed. “It’s a museum of ’80s synths and weird instruments,” Kurstin tells Apple Music. “Everything’s patched in and ready to go.” Damon Albarn discovered as much when he arrived during a trip to meet prospective producers for the eighth Gorillaz album. Tired and, by his own admission, uncertain about recruiting a “pop” producer, Albarn quietly explored the equipment, occasionally unfurling melodies on the piano which Kurstin would join in with on his Mellotron—two musicians feeling each other out, seeking moments of creative accord. After two or three hours, Kurstin felt happy enough, but Albarn’s manager was concerned. “She goes, ‘Damon just likes to float around. He’s not going to tell you to start doing something, you should just start recording,’” says Kurstin. “That gave me a kick to get down to business.” He opened up the input and added drums while Albarn built a synth part. Before the day was done, they had “Silent Running.” “Damon seemed energized,” says Kurstin. “He was excited about how the song progressed from the demo. I was thrilled too. He gave me a big hug and that was it: We were off and running.” \n\nDiscovering a mutual love for The Clash, The Specials, De La Soul, and ’80s synth-pop, the pair took just 11 days during early 2022 to craft an album from Albarn’s iPad demos (give or take Bad Bunny collaboration “Tormenta,” which had already been recorded with long-standing Gorillaz producer Remi Kabaka Jr.). They valued spontaneity over preplanning and discussion, forging hydraulic disco-funk (the Thundercat-starring “Cracker Island”) and yearning synth-pop (“Oil” with Stevie Nicks), plus—in the short space of “Skinny Ape”—folk, electro, and punk. As with so much of Albarn’s best music, it’s all anchored to absorbing wistfulness. “I gravitate towards the melancholy, even in a fun song,” says Kurstin. “And Damon really brings that in his ideas. When I first heard Gorillaz, I was thinking, ‘Oh, he gets me and all the music that I love.’ I always felt that connection. It’s what you look for—your people.” Here, Kurstin talks us through several of the songs they created together.\n\n<b>“Cracker Island” (feat. Thundercat)</b>\n“Bringing in Thundercat was a really fun flavor to bring to the album. This wild, sort of uptempo disco song. I had just been working with Thundercat and we had become friends. I texted him and he said, ‘Yes, definitely, I’ll do it.’ It was very fun to watch him work on it and to hear him write his melody parts. He sang a lot of what Damon sang and then added his own thing and the harmonies. It’s always fun to witness him play, because he’s absolutely amazing on the bass.”\n\n<b>“Oil” (feat. Stevie Nicks)</b>\n“That contrast of hearing Stevie’s voice over a Gorillaz track is amazing. I think my wife, who’s also my manager, had come up with the idea. We’d have these conversations with Damon: Who could we bring in to this project? Who does he know? Who do I know? I had been working with Stevie and become really good friends with her. Damon was very excited, he couldn’t even believe that was a possibility. I think Stevie was just very moved by it. She loved the lyrics and she took it very seriously, really wanted to do the best job. Stevie’s just so cool. She’s always listening to new music, she’s in touch with everything that’s happening and just so brilliant as a person. I love her dearly.”\n\n<b>“Silent Running” (feat. Adeleye Omotayo)</b>\n“‘Silent Running’ really was the North Star for me, might’ve been for Damon, too. It just started the whole process for us: ‘Here’s the bar, this is what we can do, and let’s try to see if we can even beat it.’ I think we knocked out ‘Silent Running’ in two or three hours. That was the fun part about it, just this whirlwind of throwing things against the wall and then recording them—and I’m kind of mixing as I’m going as well. By the end of the day, it sounded like the finished product did.”\n\n<b>“New Gold” (feat. Bootie Brown & Tame Impala)</b>\n“Kevin Parker’s just great. I was really excited to be involved with something that he was involved with. Damon had started this with Kevin and was a bit stuck, mostly because it was in an odd time signature, this kind of 6/4. It’s a little bit of a twisted and lopsided groove. It was sort of put off forever and maybe nothing was going to happen with it. It needed Damon to get in there and get excited about it. I think he liked how it was started, but finishing it was just too overwhelming. I thought, ‘OK, let me just try to piece this together in the form of a song that is very clear.’ That sort of started the ball rolling again. Damon heard it and then he worked on it a bit and evened out the time signature.”\n\n<b>“Baby Queen”</b>\n“Only Damon could come up with such a wild concept for a song. [In Bangkok in 1997, Albarn met a crown princess who crowd-surfed at a Blur gig; while writing songs for <i>Cracker Island</i>, he dreamed about meeting her as she is today.] When I heard the demo, it was just brilliant. I loved it. As a producer, I was just trying to bring in this kind of dreamy feel to the track. It has a floating quality, and that’s something I was leaning into, trying to put a soundtrack to that dream.”\n\n<b>“Skinny Ape”</b>\n“There’s something mad and crazy about ‘Skinny Ape,’ how it took shape. I felt on the edge of my seat, out of control. I didn’t know what was happening and how it was going to evolve. It was a lot of happy accidents, like throwing the weirdest, wildest sound at the track and then muting four other things and then all of a sudden, ‘Wow, that’s a cool texture.’ Playing drums in that sort of double-time punk rock section was really fun, and Damon was excited watching me play that part. That feeling of being out of control when I’m working is exciting because it’s very unpredictable and brings out things of myself I never would have imagined I would’ve done.”\n\n<b>“Possession Island” (feat. Beck)</b>\n“I feel like the best of me when I work with Beck, and I feel the same with Damon. I feel pushed by their presence and their body of work, searching into places that I never looked before—deep, dark corners, sonically. What can I do that’s different than I might do with most people? It’s very easy to fall into comfort zones and what’s easy when you’re making music. Working with Damon really awakened some creative part of my brain that was sleeping a little bit. I need to work with these people to keep these things going. Damon had been playing that piano part during his shows [<i>The Nearer the Fountain, More Pure the Stream Flows</i> tour]. That melody was something he would play every time he’d sit down. I started playing the nylon string guitar, and then it became a little bit more of a flamenco influence, and even a mariachi sound with the Mellotron trumpet. I love hearing Damon and Beck singing and interacting with each other that way, these Walker Brothers-sounding harmonies.”",
+         "tagline": "New Album + Interview"
+        },
+        "genreNames": [
+         "Alternative",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isSingle": false,
+        "name": "Cracker Island (Deluxe)",
+        "playParams": {
+         "id": "1673502694",
+         "kind": "album"
+        },
+        "recordLabel": "Parlophone UK",
+        "releaseDate": "2023-02-27",
+        "trackCount": 15,
+        "upc": "5054197567001",
+        "url": "https://music.apple.com/us/album/cracker-island-deluxe/1673502694"
+       }
+      },
+      {
+       "id": "1530812327",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1530812327",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "2fa390",
+         "height": 4000,
+         "textColor1": "210a08",
+         "textColor2": "340906",
+         "textColor3": "242923",
+         "textColor4": "332822",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/01/d6/6e/01d66e09-0bcc-c560-469b-f6f3af6124b6/190295143152.jpg/{w}x{h}bb.jpg",
+         "width": 4000
+        },
+        "contentRating": "explicit",
+        "copyright": "Under exclusive licence to Parlophone Records Limited., ℗ 2020 Gorillaz Partnership",
+        "editorialNotes": {
+         "short": "“The essence of Gorillaz is the same as always. It’s still weird, still wonderful.”",
+         "standard": "Gorillaz began making their seventh studio album with the specific intention of not making an album. Instead, the Song Machine project was conceived as a series of monthly stand-alone singles that would be created in the moment, without the constraints or concepts that come with shaping an album. “That’s the definition of contemporary, isn’t it?” Remi Kabaka Jr.—producer, drummer, percussionist, and Gorillaz’s third member alongside Damon Albarn, and Jamie Hewlett—tells Apple Music. “It’s more interesting working in this episodic format because it’s easier to respond to a moment than trying to remember your response to the moment. You are a bulletin—a responder in the moment, not a reporter of the moment.”<br />\nSongs were forged in intensive bursts, as quickly as ideas and collaborators could be brought together. The series launched with “Momentary Bliss,” a linkup with the insurrectionary voices of slowthai and Slaves, in January 2020 before lockdown changed the cadence of releases to every few weeks. Nevertheless, work continued across all available forms of communication and the music kept coming. “I don’t know if [lockdown] changed the process of making songs, I think it changed the subject matter,” says Kabaka. “You like an artist, you play them a track whether it’s online or IRL, if they like it, you’ll work together. Technology is just a music delivery system; it hasn’t radically changed the creative process for Gorillaz. If you can get in touch with someone and you have something to write about, then boom! You just go from there.” The list of collaborators is as rich and as stellar as it’s ever been on a Gorillaz project, with Elton John, The Cure’s Robert Smith, Georgia, 6LACK, and Malian singer-songwriter Fatoumata Diawara all drawn into the band’s orbit. “Song Machine is a universe of sound, and I think there is more university of sound than there ever was,” says Kabaka. “In a way, Song Machine as a whole has become more cellular.”<br />\nGorillaz’s magic is to fuse those various cells together into a new, cohesive whole. Collaborators were chosen for the way they could inspire or evolve a song as much as how they might fit ideas that were already brewing. “The music can loudly choose the artist, <i>or</i> the artists can choose the idea you hadn’t actually thought of,” he says. “You have to have multiple ideas and options; you can’t be scared of losing an idea. That’s part of being agile and in the moment—you have to go in with as little preconception as possible, and as much possibility as you can. You have to respond to the needs of the artist—they’re the ones with the master plan. Surprise is why we invited them. You have to hope they can surprise you.” The results are still unmistakably Gorillaz: off-kilter pop that’s playful, melancholy, worldly, and tethered to sharp melodies. <br />\nIt eventually became clear that there was a very good album to be pieced together from these free-standing songs. And it’s one that reflects the turbulence and trauma of 2020. On “The Valley of the Pagans,” Beck sends strutting dispatches from a “land of the permanent sun/Where the flowers are melted and the future is fun.” ScHoolboy Q bounds across the spongy funk of “Pac-Man,” asking, “How can I trust truth?” And, with customary edginess, The Cure’s Robert Smith alludes to our “surgical glove world” in the title track—a song that manages to be both a call to the dance floor and the sound of humanity locked in an ominously downward spiral. But there’s plenty of optimism and positive energy too, running from the yearning trilingual pop of “Désolé” to the certain assertion that “We could do so much better than this” on “Momentary Bliss.” “Strange isn’t bad, it’s just weird,” says Kabaka. “We’re intelligent enough to recognize that mutation changes how the world develops, and change is good.” In the 20 years between this album and Gorillaz’s first EP, <i>Tomorrow Comes Today</i>, the world has mutated in unimaginable ways. Gorillaz, though, remain a vibrant and inventive bulletin of their times. “The essence [of Gorillaz] is the same as it’s always been,” says Kabaka. “It’s still weird and it’s still wonderful. But maybe we have changed.”"
+        },
+        "genreNames": [
+         "Alternative",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isSingle": false,
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "playParams": {
+         "id": "1530812327",
+         "kind": "album"
+        },
+        "recordLabel": "Parlophone UK",
+        "releaseDate": "2020-10-23",
+        "trackCount": 17,
+        "upc": "190295143152",
+        "url": "https://music.apple.com/us/album/song-machine-season-one-strange-timez-deluxe/1530812327"
+       }
+      },
+      {
+       "id": "1387814084",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1387814084",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "37f1e9",
+         "height": 4000,
+         "textColor1": "040b0b",
+         "textColor2": "351421",
+         "textColor3": "0e3937",
+         "textColor4": "354049",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/a2/c0/c8a2c0cc-28e9-c0c6-f425-f6aaf13191f4/190295620660.jpg/{w}x{h}bb.jpg",
+         "width": 4000
+        },
+        "contentRating": "explicit",
+        "copyright": "℗ 2018 Parlophone Records Limited, a Warner Music Group Company",
+        "editorialNotes": {
+         "short": "Another triumph for Damon Albarn’s mournful heart and creative spirit.",
+         "standard": "In February 2018, Gorillaz won the BRIT Award for Best British Group, bestowed on the back of 2017’s <i>Humanz</i>. As Damon Albarn made a drunken, Brexit-bashing acceptance speech, he’d already consigned that album to history. By then, the restlessly inventive songwriter had almost finished this follow-up, intent on having new material for festival season. Binding hip-hop, synth-pop, folk, techno, and funk together with lovely melodies, these songs are immediate enough to reach far corners of main-stage fields. But, conceived by Albarn in lonely hotel rooms while Gorillaz toured the U.S., they contemplate the state of the world with absorbing melancholy. The result is adventurous yet intimate—proof that beyond the cartoons and collaborators (George Benson, Snoop Dogg, and Jamie Principle here), one man’s mournful heart and insatiable creative spirit drives Gorillaz."
+        },
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Hip-Hop/Rap",
+         "Rap",
+         "Rock",
+         "Alternative Rap",
+         "Underground Rap",
+         "Electronic",
+         "Adult Alternative"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isSingle": false,
+        "name": "The Now Now",
+        "playParams": {
+         "id": "1387814084",
+         "kind": "album"
+        },
+        "recordLabel": "Parlophone UK",
+        "releaseDate": "2018-06-29",
+        "trackCount": 11,
+        "upc": "190295620660",
+        "url": "https://music.apple.com/us/album/the-now-now/1387814084"
+       }
+      },
+      {
+       "id": "1217911994",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1217911994",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "12120d",
+         "height": 4000,
+         "textColor1": "ded0a6",
+         "textColor2": "dab181",
+         "textColor3": "b5aa87",
+         "textColor4": "b2916a",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/{w}x{h}bb.jpg",
+         "width": 4000
+        },
+        "contentRating": "explicit",
+        "copyright": "℗ 2017 Parlophone Records Limited, a Warner Music Group Company",
+        "editorialNotes": {
+         "short": "A dark and dazzling white-knuckle joyride.",
+         "standard": "Uncertain times and an unruly squad of new collaborators set the table for the most dazzling Gorillaz album yet. It’s a white-knuckle joyride that sees Damon Albarn and Jamie Hewlett’s virtual band dart down fresh electronic avenues—tracks are darker, lyrics explicitly politicized and the collaborators more inspired. Arming “Let Me Out” with Mavis Staples and Pusha T provides an electrifying highlight, Savages’ Jehnny Beth lends a fluorescent rallying cry to “We Got the Power”, while Benjamin Clementine is a legitimately haunting presence on the hymnal “Hallelujah Money”."
+        },
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Rock",
+         "Hip-Hop/Rap",
+         "Alternative Rap",
+         "Rap",
+         "Adult Alternative",
+         "Underground Rap",
+         "Electronic"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isSingle": false,
+        "name": "Humanz (Deluxe)",
+        "playParams": {
+         "id": "1217911994",
+         "kind": "album"
+        },
+        "recordLabel": "Parlophone UK",
+        "releaseDate": "2017-04-28",
+        "trackCount": 26,
+        "upc": "190295824822",
+        "url": "https://music.apple.com/us/album/humanz-deluxe/1217911994"
+       }
+      },
+      {
+       "id": "850585388",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/850585388",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "3a0c0c",
+         "height": 1500,
+         "textColor1": "e1b6a5",
+         "textColor2": "dd9c8a",
+         "textColor3": "bf9486",
+         "textColor4": "bc7f71",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/4b/aa/d4/4baad4eb-dba2-6190-9bd7-7d415ad518ad/825646291007.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "copyright": "℗ 2014 Parlophone Records Limited, a Warner Music Group company.",
+        "editorialNotes": {
+         "name": "Gorillaz",
+         "short": "A musician’s life on tour becomes a funkified odyssey.",
+         "standard": "Life on tour becomes a funkified odyssey—recorded on an iPad. <i>The Fall</i> moves with the hypnotic rhythm of the road, squelchy beats and loops veering wide of the yellow line. Over hazy layers of synths and guitar, Damon Albarn's wearied croons swerve between staring-out-the-window reflection and stir-crazy delirium."
+        },
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop",
+         "Hip-Hop/Rap",
+         "Underground Rap",
+         "Rock",
+         "Adult Alternative",
+         "Rap",
+         "Alternative Rap"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isSingle": false,
+        "name": "The Fall",
+        "playParams": {
+         "id": "850585388",
+         "kind": "album"
+        },
+        "recordLabel": "Parlophone UK",
+        "releaseDate": "2010-12-25",
+        "trackCount": 15,
+        "upc": "825646291007",
+        "url": "https://music.apple.com/us/album/the-fall/850585388"
+       }
+      },
+      {
+       "id": "859841880",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/859841880",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "192a30",
+         "height": 1500,
+         "textColor1": "d0d2d6",
+         "textColor2": "c4d2cd",
+         "textColor3": "abb1b5",
+         "textColor4": "a1b1ae",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/69/1f/7e691f10-3cc1-67ec-5dc3-df3d8df68fa7/5099962829359.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "copyright": "℗ 2010 Parlophone Records Ltd, a Warner Music Group Company",
+        "editorialNotes": {
+         "short": "Hewlett and Albarn marshal a starry, high-concept opera.",
+         "standard": "With its sultry, throbbing bassline, genre-defying melodic turns and surprising guests, “Stylo” arguably represents Gorillaz' entire sonic approach in microcosm. But while this hypnotic blast of future-soul—propelled by guest vocals from Mos Def and Bobby Womack—is an undoubted high point, it’s by no means the only rich pleasure on this epic, dizzyingly collaborative third album. Inspired by experimentation with opera and bolstered by more fantasy cameos (including Lou Reed), it’s the virtual band’s boldest statement yet."
+        },
+        "genreNames": [
+         "Pop",
+         "Music",
+         "Hip-Hop/Rap",
+         "Alternative Rap",
+         "Underground Rap",
+         "Rock",
+         "Adult Alternative",
+         "Rap"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isSingle": false,
+        "name": "Plastic Beach (Deluxe Version)",
+        "playParams": {
+         "id": "859841880",
+         "kind": "album"
+        },
+        "recordLabel": "Parlophone UK",
+        "releaseDate": "2010-03-03",
+        "trackCount": 19,
+        "upc": "5099962829359",
+        "url": "https://music.apple.com/us/album/plastic-beach-deluxe-version/859841880"
+       }
+      },
+      {
+       "id": "850571319",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/850571319",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "c9cccf",
+         "height": 1425,
+         "textColor1": "00070c",
+         "textColor2": "161d21",
+         "textColor3": "282e33",
+         "textColor4": "3a4044",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/{w}x{h}bb.jpg",
+         "width": 1425
+        },
+        "copyright": "℗ 2014 Parlophone Records Limited, a Warner Music Group company.",
+        "editorialNotes": {
+         "name": "Demon Days",
+         "short": "A-list guests and King Kong-sized hits: Gorillaz get serious.",
+         "standard": "If Gorillaz began life as a playful comment on artificiality in music (and a way for Damon Albarn to escape the shadow of Britpop) then <i>Demon Days</i> is their coming of age. Laden with A-grade guests—ranging from Roots Manuva to Dennis Hopper—and expansive in its scope, this second record delivers everything from off-kilter hip hop (“Dirty Harry” and De La Soul feature “Feel Good Inc.”) to neo-rave bangers (Shaun Ryder assist “Dare”) without putting a foot wrong."
+        },
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isSingle": false,
+        "name": "Demon Days",
+        "playParams": {
+         "id": "850571319",
+         "kind": "album"
+        },
+        "recordLabel": "Parlophone UK",
+        "releaseDate": "2005-05-11",
+        "trackCount": 15,
+        "upc": "825646291045",
+        "url": "https://music.apple.com/us/album/demon-days/850571319"
+       }
+      },
+      {
+       "id": "699724514",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/699724514",
+       "attributes": {
+        "artistName": "Gorillaz & Space Monkeyz",
+        "artwork": {
+         "bgColor": "1a2940",
+         "height": 1490,
+         "textColor1": "71aef8",
+         "textColor2": "83ade3",
+         "textColor3": "6093d3",
+         "textColor4": "6e93c2",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/4b/6e/c8/4b6ec8f1-db4c-9c7e-fea5-fc4e4d70a3dd/dj.urytwimk.jpg/{w}x{h}bb.jpg",
+         "width": 1490
+        },
+        "copyright": "℗ 2002 Parlophone Records Ltd, a Warner Music Group Company",
+        "genreNames": [
+         "Rap",
+         "Music",
+         "Hip-Hop/Rap",
+         "Rock",
+         "Adult Alternative",
+         "Reggae",
+         "Dub",
+         "Alternative Rap"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isSingle": false,
+        "name": "Laika Come Home",
+        "playParams": {
+         "id": "699724514",
+         "kind": "album"
+        },
+        "recordLabel": "Parlophone UK",
+        "releaseDate": "2002-07-01",
+        "trackCount": 12,
+        "upc": "0724353998257",
+        "url": "https://music.apple.com/us/album/laika-come-home/699724514"
+       }
+      },
+      {
+       "id": "850576570",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/850576570",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "contentRating": "explicit",
+        "copyright": "℗ 2014 Parlophone Records Limited, a Warner Music Group company.",
+        "editorialNotes": {
+         "short": "Toon in, turn on: Gorillaz reset pop’s possibilities on their 2001 debut.",
+         "standard": "The traditional origin story says Damon Albarn and Jamie Hewlett conceived Gorillaz as a comment on the soullessness and artifice of pop at the turn of the millennium. However, the concept of a virtual band had another appeal for Blur frontman Albarn: It allowed him to disappear. Even as Blur’s increasingly intrepid music distanced them from the creeping conservatism of Britpop during the late ’90s, Albarn had creative urges that couldn’t be satisfied within one of Britain’s biggest guitar bands. Retreating behind comic-book creator Hewlett’s animations gave him a new freedom to experiment. After all, who was a more convincing front for otherworldly adventures in dub, trip-hop, punk, rap Westerns, and bolero sounds? A man inexorably tied to Britpop with Union Jack bunting? Or Noodle, 2D, Russel, and Murdoc, a motley gang of vaguely apocalyptic animations?<br />\nAlbarn originally planned to be an anonymous part of the project, but that was a futile notion by the time this debut album arrived in March 2001. There’s no mistaking the careworn voice carried by rolling hip-hop beats on opener “Re-Hash.” Other Albarn identifiers run through the record—the sharpness of melody, the air of melancholy that hangs around even the brightest moments—but he calls on collaborators to help frame them in new, divergent ways. Co-producer Dan the Automator injects an astral glimmer and rib-shaking bottom end throughout, assisted by Jamaican bass legend Junior Dan, who leads bittersweet dub odysseys “Starshine” and “Slow Country.” Listen closely and you’ll hear Tom Tom Club adding finger snaps and backing vocals to the wonky euphoria of “19-2000,” before Buena Vista Social Club’s Ibrahim Ferrer brings stately elegance and wisdom to proceedings on “Latin Simone (Que Pasa Contigo).”<br />\nRarely had Albarn achieved such a fine balance of adventure and directness. Gorillaz was dismissed as “music for 12-year-olds” by Albarn’s old adversary Noel Gallagher, but that wasn’t the insult he thought it was. Albarn wanted Gorillaz to be for everyone—a mainstream catalyst for exploring all corners of music. The album’s reach was certainly broad—selling seven million copies worldwide—and its impact is still audible. By scuffing away genre boundaries while they helicoptered collaborators in and out, Gorillaz anticipated the pop of today. But the greatest testament to the strength of Albarn and Hewlett’s vision arrives when you play 2017 single “We Got the Power” and realize which Britpop legend is singing backing vocals. It took nearly two decades, but even Noel Gallagher came round in the end."
+        },
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop",
+         "Hip-Hop/Rap",
+         "Alternative Rap",
+         "Rock",
+         "Adult Alternative",
+         "Underground Rap",
+         "Rap"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": true,
+        "isSingle": false,
+        "name": "Gorillaz",
+        "playParams": {
+         "id": "850576570",
+         "kind": "album"
+        },
+        "recordLabel": "Parlophone UK",
+        "releaseDate": "2001-03-26",
+        "trackCount": 17,
+        "upc": "825646290703",
+        "url": "https://music.apple.com/us/album/gorillaz/850576570"
+       }
+      }
+     ]
+    },
+    "latest-release": {
+     "href": "/v1/catalog/us/artists/567072/view/latest-release",
+     "attributes": {
+      "title": "Latest Release"
+     },
+     "data": [
+      {
+       "id": "1837237742",
+       "type": "albums",
+       "href": "/v1/catalog/us/albums/1837237742",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "8a7c54",
+         "height": 3000,
+         "textColor1": "030202",
+         "textColor2": "020302",
+         "textColor3": "1e1a12",
+         "textColor4": "1d1b13",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "contentRating": "explicit",
+        "copyright": "℗ 2026 Kong",
+        "editorialNotes": {
+         "short": "“We had a great adventure”: How loss and India inspired a new era for Gorillaz.",
+         "standard": "The ninth Gorillaz album arrived a few weeks short of their debut’s 25th anniversary. In that intervening quarter of a century, lives have been lived. <i>The Mountain</i> is a record that, like Damon Albarn’s 2021 solo album <i>The Nearer the Fountain, More Pure the Stream Flows</i>, explores loss and transformation, themes you become more sensitive to the older you get. While there aren’t huge signs of wear and tear on the faces of the animations that front Gorillaz, Albarn and Jamie Hewlett, the band’s core creative duo, are well into their fifties and, in the summer of 2024, both lost their fathers while working on <i>The Mountain</i>. “It contains grief,” Albarn tells Apple Music Radio’s Matt Wilkinson. “It’s personal, but it’s supposed to be for everyone. You know: May contain grief-stricken lyrics.”\n\nPart of Albarn’s grieving process was to scatter his father’s ashes in Varanasi on the banks of the Ganges in northern India. Hewlett had also spent a good deal of time in the country during 2022 and 2023, helping look after his mother-in-law who had suffered a stroke in the Rajasthan capital, Jaipur. Confronting mortality in a different land, they both found inspiration for the record. “Visually, it’s mind-blowing what’s going on,” says Hewlett. “There’s hundreds of years of history still evident on the street. There’ll be a guy galloping down the street on a white horse dressed in a costume from 500 years ago. Or there’s a funeral pyre or there’s a wedding ceremony. And then you’re in traffic in a tuk-tuk and there’s every car ever made and cows and horses and mules and dogs and then an elephant. If you’re an artist or a musician or anybody creative and you go to India and it doesn’t fry your mind, then clearly you’re not a creative person. It’s all there. Everything is right in front of you. And you come back full. Your mind’s just full of stuff.” \n\nThe influence is most immediately felt in the sound of an album that was partly recorded in a number of locations across India. As ever, the music draws from, and mutates, multiple genres and, here, it’s regularly infused with the instrumentation and rhythms of Indian classical musicians including Anoushka Shankar, Ajay Prasanna, Amaan Ali Bangash, and Ayaan Ali Bangash. It was also the local attitudes towards death—a vibrant contrast to the solemnity of grief in the UK—that impacted the pair. “What’s interesting is: Why is that?” says Albarn. “It’s not because we don’t have the capacity to open our minds to the ideas that you find in abundance in places like India. But it’s not the only place that has an interesting relationship with death. Go to Mexico. You go to Ghana—[going] anywhere where there’s some kind of color and joy is a good way to counterbalance all the grimness. And we seem to pile the grimness on. So not only is it a crematorium, but it’s a grey sky and it’s cold.”\n\nOn <i>The Mountain</i>, death inspires warm expressions of love: “The Sweet Prince” places Albarn at his father’s bedside “looking out across the void” during his final hours and celebrating his life and character as he waves him on his “patterned path into the next life.” And there’s hope about transference as Bollywood legend Asha Bhosle sings of a journey to the next life on “The Shadowy Light” amid bubbling synth-pop buoyed by Super Furry Animals’ Gruff Rhys declaring, “I shed, I shed my skin/The end is the beginning.”\n\nDuring “The Hardest Thing,” Albarn is at his most elegiac. So often on Gorillaz records, his voice is warped and muddied, like thoughts spilling from an answer-machine recording—is it Albarn himself or the animated 2D calling? On this song though, his vocal is untouched and vulnerable as he absorbs the shattering pain of loss with the line “The hardest thing is to say goodbye to someone you love.” Yet on the next song, “Orange County,” that very refrain becomes part of something more optimistic and spry, decorated by a chipper whistle and Shankar’s sitar. “It’s the same song,” says Albarn. “It’s slightly like if you’re in one room, you feel something in you. You go into another one and it’s got the right lighting and it smells right. It’s a different room, although it may be exactly the same space. They’re different sides of a coin, my philosophical coin.”\n\nThat subject matter also encouraged Gorillaz to return to unused recordings they’d made with collaborators who have since passed away. “We put in collages of, photographs of, and memories of other people we’ve had the privilege to know and work with over the years,” says Albarn. Afrobeat legend Tony Allen gently says, “Oya, e dide erori” (Yoruba for “Oh, wake up my dear”) on “The Hardest Thing.” Mark E. Smith comes bowling and bellowing through the celestial calm of “Delirium,” and this life dovetails with the next on “The Moon Cave,” which carries the voice of Bobby Womack and also features The Roots’ Black Thought swapping bars with the late Dave Jolicoeur of De La Soul. “They were very good friends for a long time,” says Hewlett. “They came in and [Black Thought] had a conversation with his friend, who’s somewhere else.”\n\nAs personal as <i>The Mountain</i> feels during these moments, it’s also a record with an eye on today’s wider world. On the doomy dub of “The God of Lying,” IDLES’ Joe Talbot recommends questioning everything, Sparks appear as autocratic rulers on “The Happy Dictator” and the Johnny Marr-assisted “The Plastic Guru” contemplates how belief and truth can be manipulated. It’s all part of an album where Gorillaz sound revitalized—as curious, adventurous, thoughtful, and cohesive as they’ve ever been. The end is a beginning. “We had a great adventure,” says Hewlett. “It reminded us that in order to make something really good, you have to go somewhere you’ve never been or have an experience you’ve never had, not just be in the studio in LA or London or wherever. India was the place this time. It gave us a lot.”",
+         "tagline": "New Album and Interview"
+        },
+        "genreNames": [
+         "Alternative",
+         "Music"
+        ],
+        "isCompilation": false,
+        "isComplete": true,
+        "isMasteredForItunes": false,
+        "isSingle": false,
+        "name": "The Mountain",
+        "playParams": {
+         "id": "1837237742",
+         "kind": "album"
+        },
+        "recordLabel": "Kong",
+        "releaseDate": "2026-02-27",
+        "trackCount": 15,
+        "upc": "199538459005",
+        "url": "https://music.apple.com/us/album/the-mountain/1837237742"
+       }
+      }
+     ]
+    },
+    "similar-artists": {
+     "href": "/v1/catalog/us/artists/567072/view/similar-artists",
+     "next": "/v1/catalog/us/artists/567072/view/similar-artists?offset=10",
+     "attributes": {
+      "title": "Similar Artists"
+     },
+     "data": [
+      {
+       "id": "528564",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/528564",
+       "attributes": {
+        "artwork": {
+         "bgColor": "ebebeb",
+         "height": 3840,
+         "textColor1": "131313",
+         "textColor2": "292929",
+         "textColor3": "3e3e3e",
+         "textColor4": "505050",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features126/v4/6a/84/db/6a84dbaf-d8a3-5c40-8b48-663abc3add2f/mza_17497871262244788397.png/{w}x{h}bb.jpg",
+         "width": 3840
+        },
+        "genreNames": [
+         "Rock"
+        ],
+        "name": "Blur",
+        "url": "https://music.apple.com/us/artist/blur/528564"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/528564/albums",
+         "next": "/v1/catalog/us/artists/528564/albums?offset=25",
+         "data": [
+          {
+           "id": "726416050",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/726416050"
+          },
+          {
+           "id": "699665183",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/699665183"
+          },
+          {
+           "id": "966943210",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/966943210"
+          },
+          {
+           "id": "867694889",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/867694889"
+          },
+          {
+           "id": "1688023177",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1688023177"
+          },
+          {
+           "id": "726407617",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/726407617"
+          },
+          {
+           "id": "699616785",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/699616785"
+          },
+          {
+           "id": "731972294",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/731972294"
+          },
+          {
+           "id": "1273700626",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1273700626"
+          },
+          {
+           "id": "699808759",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/699808759"
+          },
+          {
+           "id": "699689006",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/699689006"
+          },
+          {
+           "id": "1688020024",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1688020024"
+          },
+          {
+           "id": "699610409",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/699610409"
+          },
+          {
+           "id": "699606030",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/699606030"
+          },
+          {
+           "id": "726424272",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/726424272"
+          },
+          {
+           "id": "876802539",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/876802539"
+          },
+          {
+           "id": "699606046",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/699606046"
+          },
+          {
+           "id": "699605281",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/699605281"
+          },
+          {
+           "id": "726421886",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/726421886"
+          },
+          {
+           "id": "787069899",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/787069899"
+          },
+          {
+           "id": "699832440",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/699832440"
+          },
+          {
+           "id": "699913664",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/699913664"
+          },
+          {
+           "id": "1749489342",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1749489342"
+          },
+          {
+           "id": "731956275",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/731956275"
+          },
+          {
+           "id": "680650011",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/680650011"
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "420368335",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/420368335",
+       "attributes": {
+        "artwork": {
+         "bgColor": "0090d9",
+         "height": 2400,
+         "textColor1": "160904",
+         "textColor2": "1a1411",
+         "textColor3": "11242f",
+         "textColor4": "152d39",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/67/28/88/672888f9-ed18-c353-8873-eabd049ae370/ami-identity-5220889b0ae102bdc4b0b3549da4382c-2025-07-21T02-00-38.393Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 2400
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "name": "Tyler, The Creator",
+        "url": "https://music.apple.com/us/artist/tyler-the-creator/420368335"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/420368335/albums",
+         "next": "/v1/catalog/us/artists/420368335/albums?offset=25",
+         "data": [
+          {
+           "id": "1463409338",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1463409338"
+          },
+          {
+           "id": "1254572564",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1254572564"
+          },
+          {
+           "id": "1776500452",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1776500452"
+          },
+          {
+           "id": "1573484415",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1573484415"
+          },
+          {
+           "id": "1225119790",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1225119790"
+          },
+          {
+           "id": "1547500459",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1547500459"
+          },
+          {
+           "id": "1444322705",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1444322705"
+          },
+          {
+           "id": "1437344492",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1437344492"
+          },
+          {
+           "id": "1827715784",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1827715784"
+          },
+          {
+           "id": "1496259436",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1496259436"
+          },
+          {
+           "id": "1626347712",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1626347712"
+          },
+          {
+           "id": "1363319333",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1363319333"
+          },
+          {
+           "id": "600946351",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/600946351"
+          },
+          {
+           "id": "1679454273",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1679454273"
+          },
+          {
+           "id": "983056044",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/983056044"
+          },
+          {
+           "id": "433409557",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/433409557"
+          },
+          {
+           "id": "1572330842",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1572330842"
+          },
+          {
+           "id": "1441586573",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1441586573"
+          },
+          {
+           "id": "1496261480",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1496261480"
+          },
+          {
+           "id": "1393188690",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1393188690"
+          },
+          {
+           "id": "1775074027",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1775074027"
+          },
+          {
+           "id": "1436540631",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1436540631"
+          },
+          {
+           "id": "1584238310",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1584238310"
+          },
+          {
+           "id": "6781040566",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/6781040566"
+          },
+          {
+           "id": "1466671228",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1466671228"
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "251553551",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/251553551",
+       "attributes": {
+        "artwork": {
+         "bgColor": "000000",
+         "height": 3584,
+         "textColor1": "d7d7d7",
+         "textColor2": "c4c4c4",
+         "textColor3": "acacac",
+         "textColor4": "9c9c9c",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/6e/4a/ec/6e4aecaf-fe51-3ae6-964c-5137c2760848/15ba91a6-e8ff-4b76-b4d5-b0ccb080f1ae_ami-identity-287448828306e13cd69dd81d043e2759-2023-10-31T13-19-36.297Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 3584
+        },
+        "genreNames": [
+         "Alternative"
+        ],
+        "name": "MGMT",
+        "url": "https://music.apple.com/us/artist/mgmt/251553551"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/251553551/albums",
+         "next": "/v1/catalog/us/artists/251553551/albums?offset=25",
+         "data": [
+          {
+           "id": "1445167292",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1445167292"
+          },
+          {
+           "id": "1334814526",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1334814526"
+          },
+          {
+           "id": "273519664",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/273519664"
+          },
+          {
+           "id": "363353526",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/363353526"
+          },
+          {
+           "id": "1382388910",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1382388910"
+          },
+          {
+           "id": "1490336497",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1490336497"
+          },
+          {
+           "id": "1711646500",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1711646500"
+          },
+          {
+           "id": "284741732",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/284741732"
+          },
+          {
+           "id": "1846932201",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1846932201"
+          },
+          {
+           "id": "680639260",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/680639260"
+          },
+          {
+           "id": "1502290588",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1502290588"
+          },
+          {
+           "id": "364168526",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/364168526"
+          },
+          {
+           "id": "286785642",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/286785642"
+          },
+          {
+           "id": "1436747266",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1436747266"
+          },
+          {
+           "id": "1650884365",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1650884365"
+          },
+          {
+           "id": "292955611",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/292955611"
+          },
+          {
+           "id": "264720008",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/264720008"
+          },
+          {
+           "id": "1214577279",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1214577279"
+          },
+          {
+           "id": "361302521",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/361302521"
+          },
+          {
+           "id": "423309035",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/423309035"
+          },
+          {
+           "id": "283083400",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/283083400"
+          },
+          {
+           "id": "1408915510",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1408915510"
+          },
+          {
+           "id": "1396033515",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1396033515"
+          },
+          {
+           "id": "1667393598",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1667393598"
+          },
+          {
+           "id": "1436540963",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1436540963"
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "5468295",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/5468295",
+       "attributes": {
+        "artwork": {
+         "bgColor": "1d1b1a",
+         "height": 2909,
+         "textColor1": "e9e9e9",
+         "textColor2": "cccccd",
+         "textColor3": "c0c0c0",
+         "textColor4": "a9a8a9",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/29/9e/38/299e3866-673a-4d36-376f-9274a0e45793/ami-identity-7b9f369855a542ba1bc836cd2766ca01-2025-09-01T10-34-14.349Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 2909
+        },
+        "genreNames": [
+         "Dance"
+        ],
+        "name": "Daft Punk",
+        "url": "https://music.apple.com/us/artist/daft-punk/5468295"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/5468295/albums",
+         "next": "/v1/catalog/us/artists/5468295/albums?offset=25",
+         "data": [
+          {
+           "id": "697194953",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/697194953"
+          },
+          {
+           "id": "617154241",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/617154241"
+          },
+          {
+           "id": "717067737",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/717067737"
+          },
+          {
+           "id": "1543824814",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1543824814"
+          },
+          {
+           "id": "1440617583",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1440617583"
+          },
+          {
+           "id": "693748807",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/693748807"
+          },
+          {
+           "id": "696884422",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/696884422"
+          },
+          {
+           "id": "1444884461",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1444884461"
+          },
+          {
+           "id": "1673536063",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1673536063"
+          },
+          {
+           "id": "1440617977",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1440617977"
+          },
+          {
+           "id": "1609438391",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1609438391"
+          },
+          {
+           "id": "1708115055",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1708115055"
+          },
+          {
+           "id": "742967894",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/742967894"
+          },
+          {
+           "id": "664332737",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/664332737"
+          },
+          {
+           "id": "697286234",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/697286234"
+          },
+          {
+           "id": "703078650",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/703078650"
+          },
+          {
+           "id": "1682520510",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1682520510"
+          },
+          {
+           "id": "693611597",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/693611597"
+          },
+          {
+           "id": "696669068",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/696669068"
+          },
+          {
+           "id": "900206202",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/900206202"
+          },
+          {
+           "id": "696513723",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/696513723"
+          },
+          {
+           "id": "699810627",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/699810627"
+          },
+          {
+           "id": "1444860459",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1444860459"
+          },
+          {
+           "id": "696783048",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/696783048"
+          },
+          {
+           "id": "697401639",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/697401639"
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "466842536",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/466842536",
+       "attributes": {
+        "artwork": {
+         "bgColor": "675c27",
+         "height": 2950,
+         "textColor1": "ecedf1",
+         "textColor2": "e2e4d5",
+         "textColor3": "d1d0c8",
+         "textColor4": "cac9b2",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/cc/55/ab/cc55ab9b-f104-dc4a-c88f-1d6b62dcd8bd/fe082955-958c-4e14-b718-abf044bf8b44_ami-identity-7a871f163393eccb4db28a0d105243c2-2024-07-01T22-19-15.066Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 2950
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "name": "Childish Gambino",
+        "url": "https://music.apple.com/us/artist/childish-gambino/466842536"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/466842536/albums",
+         "next": "/v1/catalog/us/artists/466842536/albums?offset=25",
+         "data": [
+          {
+           "id": "1379045975",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1379045975"
+          },
+          {
+           "id": "1410353823",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1410353823"
+          },
+          {
+           "id": "1771709429",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1771709429"
+          },
+          {
+           "id": "1771719334",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1771719334"
+          },
+          {
+           "id": "1771713810",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1771713810"
+          },
+          {
+           "id": "1771723600",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1771723600"
+          },
+          {
+           "id": "1757678472",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1757678472"
+          },
+          {
+           "id": "1754041211",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1754041211"
+          },
+          {
+           "id": "1379065454",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1379065454"
+          },
+          {
+           "id": "1745756757",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1745756757"
+          },
+          {
+           "id": "1334324193",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1334324193"
+          },
+          {
+           "id": "1771706541",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1771706541"
+          },
+          {
+           "id": "1771708818",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1771708818"
+          },
+          {
+           "id": "1756556474",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1756556474"
+          },
+          {
+           "id": "1800046703",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1800046703"
+          },
+          {
+           "id": "1771705741",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1771705741"
+          },
+          {
+           "id": "1677375786",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1677375786"
+          },
+          {
+           "id": "943517915",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/943517915"
+          },
+          {
+           "id": "1771705793",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1771705793"
+          },
+          {
+           "id": "6780521576",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/6780521576"
+          },
+          {
+           "id": "1637995402",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1637995402"
+          },
+          {
+           "id": "1713242458",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1713242458"
+          },
+          {
+           "id": "1771694099",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1771694099"
+          },
+          {
+           "id": "1771703948",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1771703948"
+          },
+          {
+           "id": "1771692570",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1771692570"
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "42105591",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/42105591",
+       "attributes": {
+        "artwork": {
+         "bgColor": "97928c",
+         "height": 597,
+         "textColor1": "060404",
+         "textColor2": "050504",
+         "textColor3": "23201f",
+         "textColor4": "22211f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/5b/5d/bc/5b5dbc9d-40a2-b788-366f-a4bb1b248159/pr_source.png/{w}x{h}bb.jpg",
+         "width": 596
+        },
+        "genreNames": [
+         "Alternative"
+        ],
+        "name": "Damon Albarn",
+        "url": "https://music.apple.com/us/artist/damon-albarn/42105591"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/42105591/albums",
+         "data": [
+          {
+           "id": "797058027",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/797058027"
+          },
+          {
+           "id": "1571944035",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1571944035"
+          },
+          {
+           "id": "1667695391",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1667695391"
+          },
+          {
+           "id": "796955158",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/796955158"
+          },
+          {
+           "id": "862514861",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/862514861"
+          },
+          {
+           "id": "1710780119",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1710780119"
+          },
+          {
+           "id": "1776620547",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1776620547"
+          },
+          {
+           "id": "1651250431",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1651250431"
+          },
+          {
+           "id": "850579835",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/850579835"
+          },
+          {
+           "id": "1875297124",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1875297124"
+          },
+          {
+           "id": "1654637674",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1654637674"
+          },
+          {
+           "id": "1352282219",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1352282219"
+          },
+          {
+           "id": "1780641867",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1780641867"
+          },
+          {
+           "id": "1799378020",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1799378020"
+          },
+          {
+           "id": "1690185619",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1690185619"
+          },
+          {
+           "id": "1573249239",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1573249239"
+          },
+          {
+           "id": "1616196337",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1616196337"
+          },
+          {
+           "id": "1579517977",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1579517977"
+          },
+          {
+           "id": "1579430772",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1579430772"
+          },
+          {
+           "id": "1581573335",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1581573335"
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "657515",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/657515",
+       "attributes": {
+        "artwork": {
+         "bgColor": "131313",
+         "height": 1050,
+         "textColor1": "eba140",
+         "textColor2": "e29438",
+         "textColor3": "c08437",
+         "textColor4": "b87a31",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/8a/49/84/8a498443-718e-40c0-404e-d1380c2352b7/ami-identity-531db02daa273271c643ba631a46b9d5-2026-09-07T07-12-12.872Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 1050
+        },
+        "genreNames": [
+         "Alternative"
+        ],
+        "name": "Radiohead",
+        "url": "https://music.apple.com/us/artist/radiohead/657515"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/657515/albums",
+         "next": "/v1/catalog/us/artists/657515/albums?offset=25",
+         "data": [
+          {
+           "id": "1097861387",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1097861387"
+          },
+          {
+           "id": "1109714933",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1109714933"
+          },
+          {
+           "id": "1111577743",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1111577743"
+          },
+          {
+           "id": "1097862870",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1097862870"
+          },
+          {
+           "id": "1097862703",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1097862703"
+          },
+          {
+           "id": "1097864180",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1097864180"
+          },
+          {
+           "id": "1239489060",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1239489060"
+          },
+          {
+           "id": "1097863576",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1097863576"
+          },
+          {
+           "id": "1109714965",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1109714965"
+          },
+          {
+           "id": "1097862062",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1097862062"
+          },
+          {
+           "id": "1160370310",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1160370310"
+          },
+          {
+           "id": "1113546075",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1113546075"
+          },
+          {
+           "id": "1581785974",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1581785974"
+          },
+          {
+           "id": "1446881820",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1446881820"
+          },
+          {
+           "id": "1110448315",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1110448315"
+          },
+          {
+           "id": "1111495817",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1111495817"
+          },
+          {
+           "id": "1828175826",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1828175826"
+          },
+          {
+           "id": "1114686637",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1114686637"
+          },
+          {
+           "id": "1497196714",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1497196714"
+          },
+          {
+           "id": "1097873905",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1097873905"
+          },
+          {
+           "id": "1112408006",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1112408006"
+          },
+          {
+           "id": "1112407235",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1112407235"
+          },
+          {
+           "id": "1112419253",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1112419253"
+          },
+          {
+           "id": "1167367262",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1167367262"
+          },
+          {
+           "id": "1112425223",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1112425223"
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "62820413",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/62820413",
+       "attributes": {
+        "artwork": {
+         "bgColor": "7d4834",
+         "height": 2400,
+         "textColor1": "f1ecea",
+         "textColor2": "f8d39d",
+         "textColor3": "dacbc6",
+         "textColor4": "dfb788",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/d9/a6/06/d9a60642-3a9a-c289-326d-9af3928c4784/pr_source.png/{w}x{h}bb.jpg",
+         "width": 2400
+        },
+        "genreNames": [
+         "Alternative"
+        ],
+        "name": "Arctic Monkeys",
+        "url": "https://music.apple.com/us/artist/arctic-monkeys/62820413"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/62820413/albums",
+         "next": "/v1/catalog/us/artists/62820413/albums?offset=25",
+         "data": [
+          {
+           "id": "663097964",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/663097964"
+          },
+          {
+           "id": "111153953",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/111153953"
+          },
+          {
+           "id": "251499221",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/251499221"
+          },
+          {
+           "id": "1367926252",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1367926252"
+          },
+          {
+           "id": "1639369016",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1639369016"
+          },
+          {
+           "id": "429803439",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/429803439"
+          },
+          {
+           "id": "429768043",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/429768043"
+          },
+          {
+           "id": "775998173",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/775998173"
+          },
+          {
+           "id": "330283015",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/330283015"
+          },
+          {
+           "id": "135977804",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/135977804"
+          },
+          {
+           "id": "1870337567",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1870337567"
+          },
+          {
+           "id": "690852310",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/690852310"
+          },
+          {
+           "id": "262575508",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/262575508"
+          },
+          {
+           "id": "1536004517",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1536004517"
+          },
+          {
+           "id": "178359939",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/178359939"
+          },
+          {
+           "id": "675833115",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/675833115"
+          },
+          {
+           "id": "1438627248",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1438627248"
+          },
+          {
+           "id": "360684926",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/360684926"
+          },
+          {
+           "id": "761426936",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/761426936"
+          },
+          {
+           "id": "518819622",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/518819622"
+          },
+          {
+           "id": "337591398",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/337591398"
+          },
+          {
+           "id": "325177254",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/325177254"
+          },
+          {
+           "id": "308734607",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/308734607"
+          },
+          {
+           "id": "251054049",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/251054049"
+          },
+          {
+           "id": "489952097",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/489952097"
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "368183298",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/368183298",
+       "attributes": {
+        "artwork": {
+         "bgColor": "bcbcbc",
+         "height": 3840,
+         "textColor1": "151515",
+         "textColor2": "272727",
+         "textColor3": "363636",
+         "textColor4": "454545",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/3b/c5/74/3bc5742b-0f79-62ed-b2b0-1b91498ed680/mza_5135978652874976668.png/{w}x{h}bb.jpg",
+         "width": 3840
+        },
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "name": "Kendrick Lamar",
+        "url": "https://music.apple.com/us/artist/kendrick-lamar/368183298"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/368183298/albums",
+         "next": "/v1/catalog/us/artists/368183298/albums?offset=25",
+         "data": [
+          {
+           "id": "1744776162",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1744776162"
+          },
+          {
+           "id": "1781270319",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1781270319"
+          },
+          {
+           "id": "1440907513",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1440907513"
+          },
+          {
+           "id": "1440906927",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1440906927"
+          },
+          {
+           "id": "1440818890",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1440818890"
+          },
+          {
+           "id": "1744024729",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1744024729"
+          },
+          {
+           "id": "1623854804",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1623854804"
+          },
+          {
+           "id": "1440881047",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1440881047"
+          },
+          {
+           "id": "1581180940",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1581180940"
+          },
+          {
+           "id": "1440828886",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1440828886"
+          },
+          {
+           "id": "1440844834",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1440844834"
+          },
+          {
+           "id": "1626195790",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1626195790"
+          },
+          {
+           "id": "1744776349",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1744776349"
+          },
+          {
+           "id": "1440871877",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1440871877"
+          },
+          {
+           "id": "1690887530",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1690887530"
+          },
+          {
+           "id": "1623071775",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1623071775"
+          },
+          {
+           "id": "1688801938",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1688801938"
+          },
+          {
+           "id": "1239615756",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1239615756"
+          },
+          {
+           "id": "1445291873",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1445291873"
+          },
+          {
+           "id": "710748382",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/710748382"
+          },
+          {
+           "id": "1475039105",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1475039105"
+          },
+          {
+           "id": "1702904570",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1702904570"
+          },
+          {
+           "id": "1471264092",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1471264092"
+          },
+          {
+           "id": "1781316864",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1781316864"
+          },
+          {
+           "id": "1445302862",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1445302862"
+          }
+         ]
+        }
+       }
+      },
+      {
+       "id": "1065981054",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/1065981054",
+       "attributes": {
+        "artwork": {
+         "bgColor": "061d37",
+         "height": 1181,
+         "textColor1": "ede9e0",
+         "textColor2": "99c3ed",
+         "textColor3": "bfc0be",
+         "textColor4": "7ca2c8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/e1/f3/6a/e1f36a60-9897-162d-3697-7501eeafbc3b/a1d41336-49bd-4212-8787-57547ca3f87e_ami-identity-ef10a72d4764d04743b17fa13520b756-2024-04-08T15-24-54.609Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 1181
+        },
+        "genreNames": [
+         "Alternative"
+        ],
+        "name": "Billie Eilish",
+        "url": "https://music.apple.com/us/artist/billie-eilish/1065981054"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/1065981054/albums",
+         "next": "/v1/catalog/us/artists/1065981054/albums?offset=25",
+         "data": [
+          {
+           "id": "1369379667",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1369379667"
+          },
+          {
+           "id": "1487502456",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1487502456"
+          },
+          {
+           "id": "1739659134",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1739659134"
+          },
+          {
+           "id": "1440898929",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1440898929"
+          },
+          {
+           "id": "1450695723",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1450695723"
+          },
+          {
+           "id": "1696819852",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1696819852"
+          },
+          {
+           "id": "1564530719",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1564530719"
+          },
+          {
+           "id": "1362273458",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1362273458"
+          },
+          {
+           "id": "1498647640",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1498647640"
+          },
+          {
+           "id": "1539499185",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1539499185"
+          },
+          {
+           "id": "1525322225",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1525322225"
+          },
+          {
+           "id": "1442107599",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1442107599"
+          },
+          {
+           "id": "1444889914",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1444889914"
+          },
+          {
+           "id": "1472563379",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1472563379"
+          },
+          {
+           "id": "1760420560",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1760420560"
+          },
+          {
+           "id": "1444861647",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1444861647"
+          },
+          {
+           "id": "1635388716",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1635388716"
+          },
+          {
+           "id": "1448440122",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1448440122"
+          },
+          {
+           "id": "1584261635",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1584261635"
+          },
+          {
+           "id": "1445287007",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1445287007"
+          },
+          {
+           "id": "1549917101",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1549917101"
+          },
+          {
+           "id": "1687201037",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1687201037"
+          },
+          {
+           "id": "1747660993",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1747660993"
+          },
+          {
+           "id": "1444890649",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1444890649"
+          },
+          {
+           "id": "1564530526",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1564530526"
+          }
+         ]
+        }
+       }
+      }
+     ]
+    },
+    "top-music-videos": {
+     "href": "/v1/catalog/us/artists/567072/view/top-music-videos",
+     "next": "/v1/catalog/us/artists/567072/view/top-music-videos?offset=10",
+     "attributes": {
+      "title": "Top Videos"
+     },
+     "data": [
+      {
+       "id": "1075687584",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1075687584",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "0e1217",
+         "height": 480,
+         "textColor1": "bddaf1",
+         "textColor2": "c8d3d6",
+         "textColor3": "9ab2c5",
+         "textColor4": "a3acb0",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video/v4/0f/55/a8/0f55a8b3-7aee-ebea-a898-701411cf0153/GB0400001240.sca1.jpg/{w}x{h}mv.jpg",
+         "width": 640
+        },
+        "durationInMillis": 267007,
+        "genreNames": [
+         "Pop"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "GB0400001240",
+        "name": "Clint Eastwood",
+        "playParams": {
+         "id": "1075687584",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "f8f8f8",
+           "height": 480,
+           "textColor1": "03050e",
+           "textColor2": "28251d",
+           "textColor3": "34353d",
+           "textColor4": "524f49",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/ca/d2/09/cad209e7-ca23-8fb8-c4af-adf6d1976245/Job9d14216c-81fb-48e2-8161-a08b9376ea9e-100057239-PreviewImage_preview_image_43000_video_sdr-Time1526957906693.png/{w}x{h}bb.jpg",
+           "width": 640
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1075687584&id=53446920&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/37/6f/30/376f30c5-3c31-3674-53ab-39bebf708a73/mzvf_8435194272596979093.640x480.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2001-03-05",
+        "url": "https://music.apple.com/us/music-video/clint-eastwood/1075687584"
+       }
+      },
+      {
+       "id": "859844952",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/859844952",
+       "attributes": {
+        "albumName": "Plastic Beach (Deluxe Version)",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "height": 276,
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video2/v4/5e/da/e3/5edae337-11d1-c06f-b26b-637d0381aa3c/GB0400900183.sca1.jpg/{w}x{h}mv.jpg",
+         "width": 640
+        },
+        "discNumber": 2,
+        "durationInMillis": 302760,
+        "genreNames": [
+         "Pop"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "GB0400900183",
+        "name": "Stylo (feat. Mos Def and Bobby Womack)",
+        "playParams": {
+         "id": "859844952",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "120b0e",
+           "height": 820,
+           "textColor1": "e6e6e5",
+           "textColor2": "d0ac8d",
+           "textColor3": "bcbaba",
+           "textColor4": "aa8c73",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/e0/4c/20/e04c2047-6c8a-57b9-4ae4-72ba387b387e/Jobcfe583ec-8beb-473b-8163-407ae311f94d-99881371-PreviewImage_preview_image_43000_video_sdr-Time1526003562083.png/{w}x{h}bb.jpg",
+           "width": 1920
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=859844952&id=53010883&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video128/v4/0c/c5/85/0cc585c6-1e12-2eae-f854-8ed90649b0aa/mzvf_8695909898550237333.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2010-03-01",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/music-video/stylo-feat-mos-def-and-bobby-womack/859844952"
+       }
+      },
+      {
+       "id": "1075394545",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1075394545",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "f5f6fa",
+         "height": 480,
+         "textColor1": "18181c",
+         "textColor2": "262528",
+         "textColor3": "444449",
+         "textColor4": "4f4f52",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video/v4/c2/0d/75/c20d7569-784b-fd6f-7b13-7ce7a588b4c0/GB0400500048.sca1.jpg/{w}x{h}mv.jpg",
+         "width": 640
+        },
+        "durationInMillis": 226537,
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "GB0400500048",
+        "name": "Feel Good Inc. (Animatic)",
+        "playParams": {
+         "id": "1075394545",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "f8f8fa",
+           "height": 480,
+           "textColor1": "252429",
+           "textColor2": "303033",
+           "textColor3": "4f4e53",
+           "textColor4": "58585b",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video128/v4/6b/fb/8b/6bfb8bb9-15ef-aff9-3103-670bd3d94f18/Job9fb33549-7109-47a3-8558-ccb5514d170b-99564454-PreviewImage_preview_image_43000_video_sdr-Time1524511503836.png/{w}x{h}bb.jpg",
+           "width": 640
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1075394545&id=52237478&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video118/v4/dd/be/ee/ddbeee45-c0e3-1cf5-cf1a-0f26bb8b25d3/mzvf_6866582607898967701.640x480.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2005-05-09",
+        "url": "https://music.apple.com/us/music-video/feel-good-inc-animatic/1075394545"
+       }
+      },
+      {
+       "id": "1075688367",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1075688367",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "000606",
+         "height": 360,
+         "textColor1": "f6995a",
+         "textColor2": "cfa362",
+         "textColor3": "c57b49",
+         "textColor4": "a6834f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video69/v4/30/12/63/3012631f-4e75-8f67-74d7-3f3efbf516bb/GB0400500078.sca1.jpg/{w}x{h}mv.jpg",
+         "width": 640
+        },
+        "durationInMillis": 289128,
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "GB0400500078",
+        "name": "Dare (feat. Shaun Ryder)",
+        "playParams": {
+         "id": "1075688367",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "081421",
+           "height": 360,
+           "textColor1": "43bedf",
+           "textColor2": "2abbdb",
+           "textColor3": "379cb9",
+           "textColor4": "239ab6",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/46/48/8c/46488cb6-ba95-75c3-a03a-3f79a84da43f/Job2ead2a74-4f7d-4ce9-a0fe-252187a3d6e9-100057139-PreviewImage_preview_image_43000_video_sdr-Time1526957238119.png/{w}x{h}bb.jpg",
+           "width": 640
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1075688367&id=53446857&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/a6/02/c7/a602c7d3-6703-5191-0a41-a029e777bd36/mzvf_5846438690145461652.640x360.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2005-07-17",
+        "url": "https://music.apple.com/us/music-video/dare-feat-shaun-ryder/1075688367"
+       }
+      },
+      {
+       "id": "1075685726",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1075685726",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "fbfbfd",
+         "height": 360,
+         "textColor1": "000000",
+         "textColor2": "4e0004",
+         "textColor3": "323233",
+         "textColor4": "713236",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video49/v4/41/f1/5e/41f15e12-319b-578b-f4f9-068df8ede929/GB0400100200.sca1.jpg/{w}x{h}mv.jpg",
+         "width": 640
+        },
+        "durationInMillis": 235688,
+        "genreNames": [
+         "Pop"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "GB0400100200",
+        "name": "19-2000",
+        "playParams": {
+         "id": "1075685726",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "efe9cc",
+           "height": 360,
+           "textColor1": "0b1b1d",
+           "textColor2": "2d2d24",
+           "textColor3": "394440",
+           "textColor4": "545245",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/76/12/e2/7612e282-06ef-af46-bdd0-9b54debad7a4/Jobff9e391e-3edb-4b95-b276-238123dcf9df-99769754-PreviewImage_preview_image_43000_video_sdr-Time1525422840389.png/{w}x{h}bb.jpg",
+           "width": 640
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1075685726&id=52747452&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video128/v4/b0/98/2b/b0982bb0-6014-05a9-9f03-8fdf94456e58/mzvf_8556440919637840270.640x360.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2001-06-25",
+        "url": "https://music.apple.com/us/music-video/19-2000/1075685726"
+       }
+      },
+      {
+       "id": "1075705305",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1075705305",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "af8368",
+         "height": 360,
+         "textColor1": "170803",
+         "textColor2": "24180f",
+         "textColor3": "362117",
+         "textColor4": "402e21",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video49/v4/8c/6b/71/8c6b71aa-f90e-9a79-aa56-ee944d3c1da6/GB0400500368.sca1.jpg/{w}x{h}mv.jpg",
+         "width": 640
+        },
+        "durationInMillis": 294653,
+        "genreNames": [
+         "Hip-Hop/Rap"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "GB0400500368",
+        "name": "Dirty Harry",
+        "playParams": {
+         "id": "1075705305",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "6aa8e1",
+           "height": 360,
+           "textColor1": "120c06",
+           "textColor2": "3f1121",
+           "textColor3": "232b32",
+           "textColor4": "482f48",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/4f/e3/a2/4fe3a2aa-9751-2d28-b8a9-7e12b8b3dc4a/Jobc851440d-c661-4801-bdd3-ad6169325f9c-100057127-PreviewImage_preview_image_43000_video_sdr-Time1526956288282.png/{w}x{h}bb.jpg",
+           "width": 640
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1075705305&id=53446480&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video115/v4/97/c9/42/97c94248-0920-1ef1-d977-0208a2a7aad5/mzvf_6124544746873719696.640x360.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2005-10-25",
+        "url": "https://music.apple.com/us/music-video/dirty-harry/1075705305"
+       }
+      },
+      {
+       "id": "717397550",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/717397550",
+       "attributes": {
+        "albumName": "On Melancholy Hill - EP",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "height": 360,
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video/08/e8/75/mzi.hymraorb.jpg/{w}x{h}mv.jpg",
+         "width": 640
+        },
+        "discNumber": 2,
+        "durationInMillis": 261000,
+        "genreNames": [
+         "Pop"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "GB0401000136",
+        "name": "On Melancholy Hill",
+        "playParams": {
+         "id": "717397550",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "301517",
+           "height": 360,
+           "textColor1": "ddaca9",
+           "textColor2": "fa8248",
+           "textColor3": "ba8e8b",
+           "textColor4": "d16c3e",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/20/93/c1/2093c16d-3ea3-7d47-61eb-4456bcd84534/Jobeb2fdcb7-2cc4-4e52-951d-296ffb1ba3fa-99485580-PreviewImage_preview_image_45000_video_sdr-Time1523912313800.png/{w}x{h}bb.jpg",
+           "width": 640
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=717397550&id=52035010&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video128/v4/0d/c9/60/0dc96009-c81d-0052-d946-c4dcc86119d4/mzvf_1109440911128727073.640x360.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2010-06-14",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/music-video/on-melancholy-hill/717397550"
+       }
+      },
+      {
+       "id": "1636582600",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1636582600",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "070a0e",
+         "height": 272,
+         "textColor1": "d3c59a",
+         "textColor2": "e2ae7f",
+         "textColor3": "aa9f7e",
+         "textColor4": "b68d69",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/6a/86/d6/6a86d6dc-7174-f15c-a741-060fa43a3696/GB0402200179.sca1.jpg/{w}x{h}mv.jpg",
+         "width": 640
+        },
+        "durationInMillis": 217600,
+        "genreNames": [
+         "Alternative"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "GB0402200179",
+        "name": "Cracker Island (feat. Thundercat)",
+        "playParams": {
+         "id": "1636582600",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "161433",
+           "height": 816,
+           "textColor1": "f7a807",
+           "textColor2": "d5953b",
+           "textColor3": "ca8a10",
+           "textColor4": "af7b39",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video112/v4/26/ef/82/26ef8282-c6bc-70e1-ff55-4a0a75eef664/Job5a8d3701-454d-4739-a780-cde81462ebc7-134472731-PreviewImage_preview_image_43000_video_sdr-Time1658884166399.png/{w}x{h}bb.jpg",
+           "width": 1920
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1636582600&id=478440813&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video122/v4/f0/c6/18/f0c618e7-1e12-3cda-85dd-9ce5c4e38c1b/mzvf_4804756825041040685.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2022-07-28",
+        "url": "https://music.apple.com/us/music-video/cracker-island-feat-thundercat/1636582600"
+       }
+      },
+      {
+       "id": "1221010483",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1221010483",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "151320",
+         "height": 360,
+         "textColor1": "e5e026",
+         "textColor2": "ceb235",
+         "textColor3": "bbb724",
+         "textColor4": "a99231",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video51/v4/19/9e/8c/199e8cd1-e221-82c5-0512-a736107ca5e1/GB0401700484.sca1.jpg/{w}x{h}mv.jpg",
+         "width": 640
+        },
+        "durationInMillis": 367913,
+        "genreNames": [
+         "Alternative"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "GB0401700484",
+        "name": "Saturnz Barz (Spirit House)",
+        "playParams": {
+         "id": "1221010483",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "1d1a1c",
+           "height": 1080,
+           "textColor1": "a8d7e6",
+           "textColor2": "acccdc",
+           "textColor3": "8cb1be",
+           "textColor4": "8fa8b5",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/17/78/a9/1778a931-c9a4-b8b7-ce52-6da7920d37f3/Job2aec7492-684d-4489-8b6c-5e125262a911-100134030-PreviewImage_preview_image_43000_video_sdr-Time1527453935966.png/{w}x{h}bb.jpg",
+           "width": 1920
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1221010483&id=53645924&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video125/v4/7b/a0/51/7ba05101-c24b-452b-8f15-dbc32c6a966f/mzvf_8409018945351996583.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2017-03-23",
+        "url": "https://music.apple.com/us/music-video/saturnz-barz-spirit-house/1221010483"
+       }
+      },
+      {
+       "id": "1436492558",
+       "type": "music-videos",
+       "href": "/v1/catalog/us/music-videos/1436492558",
+       "attributes": {
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "10190e",
+         "height": 360,
+         "textColor1": "faf8fb",
+         "textColor2": "fdf7eb",
+         "textColor3": "cccccc",
+         "textColor4": "cdcabe",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/af/08/42/af084217-0034-8505-7e65-b5198ec2f2a1/GB0401800107.sca1.jpg/{w}x{h}mv.jpg",
+         "width": 640
+        },
+        "contentRating": "explicit",
+        "durationInMillis": 174847,
+        "genreNames": [
+         "Alternative"
+        ],
+        "has4K": false,
+        "hasHDR": false,
+        "isrc": "GB0401800107",
+        "name": "Tranz",
+        "playParams": {
+         "id": "1436492558",
+         "kind": "musicVideo"
+        },
+        "previews": [
+         {
+          "artwork": {
+           "bgColor": "010001",
+           "height": 1080,
+           "textColor1": "fedad3",
+           "textColor2": "f7ae9a",
+           "textColor3": "cbaea9",
+           "textColor4": "c68b7c",
+           "url": "https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/60/1d/5b/601d5b8c-02c5-4d2b-2d34-81118c0c96bf/Job70f5201f-523f-4eaa-8056-f8b0173c76ae-101126153-PreviewImage_preview_image_43000_video_sdr-Time1537234135927.png/{w}x{h}bb.jpg",
+           "width": 1920
+          },
+          "hlsUrl": "https://play-edge.itunes.apple.com/WebObjects/MZPlayLocal.woa/hls/playlist.m3u8?cc=US&a=1436492558&id=55892665&aec=HD&l=en",
+          "url": "https://video-ssl.itunes.apple.com/itunes-assets/Video128/v4/fe/76/33/fe763305-640c-52ad-05de-128924965381/mzvf_5932932131831157884.720w.h264lc.U.p.m4v"
+         }
+        ],
+        "releaseDate": "2018-09-15",
+        "url": "https://music.apple.com/us/music-video/tranz/1436492558"
+       }
+      }
+     ]
+    },
+    "top-songs": {
+     "href": "/v1/catalog/us/artists/567072/view/top-songs",
+     "next": "/v1/catalog/us/artists/567072/view/top-songs?offset=10",
+     "attributes": {
+      "title": "Top Songs"
+     },
+     "data": [
+      {
+       "id": "850571371",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850571371",
+       "attributes": {
+        "albumName": "Demon Days",
+        "artistName": "Gorillaz & De La Soul",
+        "artwork": {
+         "bgColor": "c9cccf",
+         "height": 1425,
+         "textColor1": "00070c",
+         "textColor2": "161d21",
+         "textColor3": "282e33",
+         "textColor4": "3a4044",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/{w}x{h}bb.jpg",
+         "width": 1425
+        },
+        "composerName": "David Jolicoeur, Brian Burton, Damon Albarn & Jamie Hewlett",
+        "discNumber": 1,
+        "durationInMillis": 221173,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400422",
+        "name": "Feel Good Inc. (feat. David Jolicoeur, Kelvin Mercer & Vincent Mason)",
+        "playParams": {
+         "id": "850571371",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9a/a7/90/9aa790e3-651e-9674-26ac-14aba4d3b8d1/mzaf_10454527198707970464.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2005-05-09",
+        "trackNumber": 6,
+        "url": "https://music.apple.com/us/album/feel-good-inc-feat-david-jolicoeur-kelvin-mercer-vincent/850571319?i=850571371"
+       }
+      },
+      {
+       "id": "850571388",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850571388",
+       "attributes": {
+        "albumName": "Demon Days",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "c9cccf",
+         "height": 1425,
+         "textColor1": "00070c",
+         "textColor2": "161d21",
+         "textColor3": "282e33",
+         "textColor4": "3a4044",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/1c/0f/81/1c0f818a-e458-dd84-6f1b-ccbdf5fe14d6/825646291045.jpg/{w}x{h}bb.jpg",
+         "width": 1425
+        },
+        "composerName": "Damon Albarn, Jamie Hewlett & Brian Burton",
+        "discNumber": 1,
+        "durationInMillis": 244307,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400428",
+        "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
+        "playParams": {
+         "id": "850571388",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e3/d5/99/e3d599a6-15c9-113d-65a1-f637c22de0e0/mzaf_11995878542823587618.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2005-05-11",
+        "trackNumber": 12,
+        "url": "https://music.apple.com/us/album/dare-feat-shaun-ryder-roses-gabor/850571319?i=850571388"
+       }
+      },
+      {
+       "id": "850576665",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576665",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn & Teren Jones",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 342560,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400468",
+        "name": "Clint Eastwood",
+        "playParams": {
+         "id": "850576665",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/53/06/61530647-9a86-b309-d46e-eb4661c5ec32/mzaf_4757516976440204736.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-05",
+        "trackNumber": 5,
+        "url": "https://music.apple.com/us/album/clint-eastwood/850576570?i=850576665"
+       }
+      },
+      {
+       "id": "1217912253",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1217912253",
+       "attributes": {
+        "albumName": "Humanz (Deluxe)",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "12120d",
+         "height": 4000,
+         "textColor1": "ded0a6",
+         "textColor2": "dab181",
+         "textColor3": "b5aa87",
+         "textColor4": "b2916a",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ad/f6/74/adf6743c-1aa7-c254-a503-b4d343be2d03/190295824822.jpg/{w}x{h}bb.jpg",
+         "width": 4000
+        },
+        "composerName": "Damon Albarn & Kali Uchis",
+        "discNumber": 1,
+        "durationInMillis": 209560,
+        "genreNames": [
+         "Alternative",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1700879",
+        "name": "She's My Collar (feat. Kali Uchis)",
+        "playParams": {
+         "id": "1217912253",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/49/e5/7949e5a5-14c4-2d8f-981e-f3640d511d42/mzaf_8609887615687365181.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2017-04-28",
+        "trackNumber": 17,
+        "url": "https://music.apple.com/us/album/shes-my-collar-feat-kali-uchis/1217911994?i=1217912253"
+       }
+      },
+      {
+       "id": "850569466",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850569466",
+       "attributes": {
+        "albumName": "Plastic Beach",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "013569",
+         "height": 1418,
+         "textColor1": "d7e0dd",
+         "textColor2": "c3d6df",
+         "textColor3": "acbec6",
+         "textColor4": "9cb6c8",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/b8/f9/b9/b8f9b9f8-a609-bde2-0302-349436ffc508/825646291038.jpg/{w}x{h}bb.jpg",
+         "width": 1418
+        },
+        "composerName": "Damon Albarn",
+        "discNumber": 1,
+        "durationInMillis": 200173,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Hip-Hop/Rap",
+         "Alternative Rap",
+         "Rock",
+         "Adult Alternative",
+         "Underground Rap",
+         "Rap",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400435",
+        "name": "Rhinestone Eyes",
+        "playParams": {
+         "id": "850569466",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/65/1a/a6651a37-68b2-8a03-9897-36f198c817ca/mzaf_2234845319721050972.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2010-03-03",
+        "trackNumber": 4,
+        "url": "https://music.apple.com/us/album/rhinestone-eyes/850569437?i=850569466"
+       }
+      },
+      {
+       "id": "850576709",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576709",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn",
+        "discNumber": 1,
+        "durationInMillis": 207853,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400474",
+        "name": "19-2000",
+        "playParams": {
+         "id": "850576709",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/33/13/ee3313d1-bb7a-4384-9f27-a86270448e21/mzaf_12410614931071144796.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 11,
+        "url": "https://music.apple.com/us/album/19-2000/850576570?i=850576709"
+       }
+      },
+      {
+       "id": "859844939",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/859844939",
+       "attributes": {
+        "albumName": "Plastic Beach (Deluxe Version)",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "192a30",
+         "height": 1500,
+         "textColor1": "d0d2d6",
+         "textColor2": "c4d2cd",
+         "textColor3": "abb1b5",
+         "textColor4": "a1b1ae",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/69/1f/7e691f10-3cc1-67ec-5dc3-df3d8df68fa7/5099962829359.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn",
+        "discNumber": 1,
+        "durationInMillis": 233867,
+        "genreNames": [
+         "Pop",
+         "Music",
+         "Hip-Hop/Rap",
+         "Alternative Rap",
+         "Underground Rap",
+         "Rock",
+         "Adult Alternative",
+         "Rap"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "GBAYE1000010",
+        "name": "On Melancholy Hill",
+        "playParams": {
+         "id": "859844939",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0b/c6/25/0bc6251e-e7fa-3a65-2a47-384a5f395530/mzaf_6231439827454836939.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2010-03-03",
+        "trackNumber": 10,
+        "url": "https://music.apple.com/us/album/on-melancholy-hill/859841880?i=859844939"
+       }
+      },
+      {
+       "id": "859844934",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/859844934",
+       "attributes": {
+        "albumName": "Plastic Beach (Deluxe Version)",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "192a30",
+         "height": 1500,
+         "textColor1": "d0d2d6",
+         "textColor2": "c4d2cd",
+         "textColor3": "abb1b5",
+         "textColor4": "a1b1ae",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/69/1f/7e691f10-3cc1-67ec-5dc3-df3d8df68fa7/5099962829359.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn & Mos Def",
+        "discNumber": 1,
+        "durationInMillis": 270520,
+        "genreNames": [
+         "Pop",
+         "Music",
+         "Hip-Hop/Rap",
+         "Alternative Rap",
+         "Underground Rap",
+         "Rock",
+         "Adult Alternative",
+         "Rap"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "GBAYE0903021",
+        "name": "Stylo (feat. Mos Def and Bobby Womack)",
+        "playParams": {
+         "id": "859844934",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/69/f2/03/69f203ec-ba49-1d72-d5c4-aafce64c98b0/mzaf_1964726862271808502.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2010-01-26",
+        "trackNumber": 5,
+        "url": "https://music.apple.com/us/album/stylo-feat-mos-def-and-bobby-womack/859841880?i=859844934"
+       }
+      },
+      {
+       "id": "859844936",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/859844936",
+       "attributes": {
+        "albumName": "Plastic Beach (Deluxe Version)",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "192a30",
+         "height": 1500,
+         "textColor1": "d0d2d6",
+         "textColor2": "c4d2cd",
+         "textColor3": "abb1b5",
+         "textColor4": "a1b1ae",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/69/1f/7e691f10-3cc1-67ec-5dc3-df3d8df68fa7/5099962829359.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn, Erik Bodin, Fredrick Wallin, Hakan Wirenstrand, Jamie Hewlett & Yukimi Nagano",
+        "discNumber": 1,
+        "durationInMillis": 283573,
+        "genreNames": [
+         "Pop",
+         "Music",
+         "Hip-Hop/Rap",
+         "Alternative Rap",
+         "Underground Rap",
+         "Rock",
+         "Adult Alternative",
+         "Rap"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "GBAYE1000007",
+        "name": "Empire Ants (feat. Little Dragon)",
+        "playParams": {
+         "id": "859844936",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d4/85/0a/d4850aca-9aa5-23e9-b8a7-b1b35de8875a/mzaf_18227983270868467976.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2010-03-03",
+        "trackNumber": 7,
+        "url": "https://music.apple.com/us/album/empire-ants-feat-little-dragon/859841880?i=859844936"
+       }
+      },
+      {
+       "id": "1837237767",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/1837237767",
+       "attributes": {
+        "albumName": "The Mountain",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "8a7c54",
+         "height": 3000,
+         "textColor1": "030202",
+         "textColor2": "020302",
+         "textColor3": "1e1a12",
+         "textColor4": "1d1b13",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/86/b5/3f/86b53fc7-cc73-c735-17fb-549fc459edca/199538459005.jpg/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "composerName": "Damon Albarn, Ronald Mael & Russell Mael",
+        "discNumber": 1,
+        "durationInMillis": 284776,
+        "genreNames": [
+         "Alternative",
+         "Music"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": false,
+        "isrc": "QMDA72543804",
+        "name": "The Happy Dictator (feat. Sparks)",
+        "playParams": {
+         "id": "1837237767",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/11/6e/d4/116ed475-b7ec-d740-f9ee-b9107b7c1252/mzaf_4737547681153266904.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2025-09-11",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/the-happy-dictator-feat-sparks/1837237742?i=1837237767"
+       }
+      }
+     ]
+    }
+   },
+   "meta": {
+    "views": {
+     "order": [
+      "latest-release",
+      "top-songs",
+      "full-albums",
+      "top-music-videos",
+      "similar-artists"
+     ]
+    }
+   }
+  }
+ ]
+}

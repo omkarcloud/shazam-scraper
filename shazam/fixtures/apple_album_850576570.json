@@ -1,0 +1,963 @@
+{
+ "data": [
+  {
+   "id": "850576570",
+   "type": "albums",
+   "href": "/v1/catalog/us/albums/850576570",
+   "attributes": {
+    "artistName": "Gorillaz",
+    "artwork": {
+     "bgColor": "ffffff",
+     "height": 1500,
+     "textColor1": "131b10",
+     "textColor2": "192818",
+     "textColor3": "424940",
+     "textColor4": "475346",
+     "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+     "width": 1500
+    },
+    "contentRating": "explicit",
+    "copyright": "℗ 2014 Parlophone Records Limited, a Warner Music Group company.",
+    "editorialNotes": {
+     "short": "Toon in, turn on: Gorillaz reset pop’s possibilities on their 2001 debut.",
+     "standard": "The traditional origin story says Damon Albarn and Jamie Hewlett conceived Gorillaz as a comment on the soullessness and artifice of pop at the turn of the millennium. However, the concept of a virtual band had another appeal for Blur frontman Albarn: It allowed him to disappear. Even as Blur’s increasingly intrepid music distanced them from the creeping conservatism of Britpop during the late ’90s, Albarn had creative urges that couldn’t be satisfied within one of Britain’s biggest guitar bands. Retreating behind comic-book creator Hewlett’s animations gave him a new freedom to experiment. After all, who was a more convincing front for otherworldly adventures in dub, trip-hop, punk, rap Westerns, and bolero sounds? A man inexorably tied to Britpop with Union Jack bunting? Or Noodle, 2D, Russel, and Murdoc, a motley gang of vaguely apocalyptic animations?<br />\nAlbarn originally planned to be an anonymous part of the project, but that was a futile notion by the time this debut album arrived in March 2001. There’s no mistaking the careworn voice carried by rolling hip-hop beats on opener “Re-Hash.” Other Albarn identifiers run through the record—the sharpness of melody, the air of melancholy that hangs around even the brightest moments—but he calls on collaborators to help frame them in new, divergent ways. Co-producer Dan the Automator injects an astral glimmer and rib-shaking bottom end throughout, assisted by Jamaican bass legend Junior Dan, who leads bittersweet dub odysseys “Starshine” and “Slow Country.” Listen closely and you’ll hear Tom Tom Club adding finger snaps and backing vocals to the wonky euphoria of “19-2000,” before Buena Vista Social Club’s Ibrahim Ferrer brings stately elegance and wisdom to proceedings on “Latin Simone (Que Pasa Contigo).”<br />\nRarely had Albarn achieved such a fine balance of adventure and directness. Gorillaz was dismissed as “music for 12-year-olds” by Albarn’s old adversary Noel Gallagher, but that wasn’t the insult he thought it was. Albarn wanted Gorillaz to be for everyone—a mainstream catalyst for exploring all corners of music. The album’s reach was certainly broad—selling seven million copies worldwide—and its impact is still audible. By scuffing away genre boundaries while they helicoptered collaborators in and out, Gorillaz anticipated the pop of today. But the greatest testament to the strength of Albarn and Hewlett’s vision arrives when you play 2017 single “We Got the Power” and realize which Britpop legend is singing backing vocals. It took nearly two decades, but even Noel Gallagher came round in the end."
+    },
+    "genreNames": [
+     "Alternative",
+     "Music",
+     "Pop",
+     "Hip-Hop/Rap",
+     "Alternative Rap",
+     "Rock",
+     "Adult Alternative",
+     "Underground Rap",
+     "Rap"
+    ],
+    "isCompilation": false,
+    "isComplete": true,
+    "isMasteredForItunes": true,
+    "isSingle": false,
+    "name": "Gorillaz",
+    "playParams": {
+     "id": "850576570",
+     "kind": "album"
+    },
+    "recordLabel": "Parlophone UK",
+    "releaseDate": "2001-03-26",
+    "trackCount": 17,
+    "upc": "825646290703",
+    "url": "https://music.apple.com/us/album/gorillaz/850576570"
+   },
+   "relationships": {
+    "artists": {
+     "href": "/v1/catalog/us/albums/850576570/artists",
+     "data": [
+      {
+       "id": "567072",
+       "type": "artists",
+       "href": "/v1/catalog/us/artists/567072",
+       "attributes": {
+        "artwork": {
+         "bgColor": "000000",
+         "height": 3000,
+         "textColor1": "cda561",
+         "textColor2": "d38d4f",
+         "textColor3": "a4844e",
+         "textColor4": "a9703f",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/4b/5d/b2/4b5db26b-da7d-af1d-50a4-b3cfc133d773/ami-identity-633ffe096a09d49a5897b472da31d004-2025-09-11T17-35-59.719Z_cropped.png/{w}x{h}bb.jpg",
+         "width": 3000
+        },
+        "editorialNotes": {
+         "name": "Gorillaz",
+         "short": "Laconic trip-hop beats and sizzling electronics from Albarn and co.",
+         "standard": "Laconic trip-hop beats skate beneath ex-Blur frontman Damon Albarn’s distinctive Brit vocals on the animated foursome’s debut album. Nods to hip-hop futurism on “New Genius (Brother)” and dub swagger on “Slow Country” are fused together by Kid Koala’s skittering scratching and Dan \"The Automator\" Nakamura’s sizzling electronics."
+        },
+        "genreNames": [
+         "Alternative"
+        ],
+        "name": "Gorillaz",
+        "url": "https://music.apple.com/us/artist/gorillaz/567072"
+       },
+       "relationships": {
+        "albums": {
+         "href": "/v1/catalog/us/artists/567072/albums",
+         "next": "/v1/catalog/us/artists/567072/albums?offset=25",
+         "data": [
+          {
+           "id": "850571319",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/850571319"
+          },
+          {
+           "id": "1217911994",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1217911994"
+          },
+          {
+           "id": "859841880",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/859841880"
+          },
+          {
+           "id": "850576570",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/850576570"
+          },
+          {
+           "id": "1641561652",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1641561652"
+          },
+          {
+           "id": "1387814084",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1387814084"
+          },
+          {
+           "id": "1837237742",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1837237742"
+          },
+          {
+           "id": "850569437",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/850569437"
+          },
+          {
+           "id": "1530812327",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1530812327"
+          },
+          {
+           "id": "1673502694",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1673502694"
+          },
+          {
+           "id": "1247590076",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1247590076"
+          },
+          {
+           "id": "850583573",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/850583573"
+          },
+          {
+           "id": "1653675571",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1653675571"
+          },
+          {
+           "id": "850585388",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/850585388"
+          },
+          {
+           "id": "1300105773",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1300105773"
+          },
+          {
+           "id": "1580441749",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1580441749"
+          },
+          {
+           "id": "700025929",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/700025929"
+          },
+          {
+           "id": "884147414",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/884147414"
+          },
+          {
+           "id": "726389588",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/726389588"
+          },
+          {
+           "id": "1318802242",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1318802242"
+          },
+          {
+           "id": "699724514",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/699724514"
+          },
+          {
+           "id": "1511203452",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1511203452"
+          },
+          {
+           "id": "693778034",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/693778034"
+          },
+          {
+           "id": "1222735817",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1222735817"
+          },
+          {
+           "id": "1226535984",
+           "type": "albums",
+           "href": "/v1/catalog/us/albums/1226535984"
+          }
+         ]
+        }
+       }
+      }
+     ]
+    },
+    "record-labels": {
+     "href": "/v1/catalog/us/albums/850576570/record-labels",
+     "data": []
+    },
+    "tracks": {
+     "href": "/v1/catalog/us/albums/850576570/tracks",
+     "data": [
+      {
+       "id": "850576655",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576655",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn",
+        "discNumber": 1,
+        "durationInMillis": 220000,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400464",
+        "name": "Re-Hash",
+        "playParams": {
+         "id": "850576655",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/79/9f/51/799f514a-bcfd-177c-95da-06cec2116340/mzaf_11898783183254377876.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 1,
+        "url": "https://music.apple.com/us/album/re-hash/850576570?i=850576655"
+       }
+      },
+      {
+       "id": "850576657",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576657",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn",
+        "discNumber": 1,
+        "durationInMillis": 162080,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400465",
+        "name": "5/4",
+        "playParams": {
+         "id": "850576657",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a9/28/9b/a9289baf-f158-085c-23ac-21fbbc47ea1c/mzaf_14305796433391086999.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 2,
+        "url": "https://music.apple.com/us/album/5-4/850576570?i=850576657"
+       }
+      },
+      {
+       "id": "850576658",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576658",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn & Jamie Hewlett",
+        "discNumber": 1,
+        "durationInMillis": 193600,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400466",
+        "name": "Tomorrow Comes Today",
+        "playParams": {
+         "id": "850576658",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3c/e1/6f/3ce16fe4-3e28-e92a-77dd-1c7e3162b3f8/mzaf_8164803939893887730.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 3,
+        "url": "https://music.apple.com/us/album/tomorrow-comes-today/850576570?i=850576658"
+       }
+      },
+      {
+       "id": "850576661",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576661",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn",
+        "discNumber": 1,
+        "durationInMillis": 239987,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400467",
+        "name": "New Genius (Brother)",
+        "playParams": {
+         "id": "850576661",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/0c/12/e20c124d-a521-50ef-a190-e80ce6d16072/mzaf_6167235249424246230.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 4,
+        "url": "https://music.apple.com/us/album/new-genius-brother/850576570?i=850576661"
+       }
+      },
+      {
+       "id": "850576665",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576665",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn & Teren Jones",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 342560,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400468",
+        "name": "Clint Eastwood",
+        "playParams": {
+         "id": "850576665",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/53/06/61530647-9a86-b309-d46e-eb4661c5ec32/mzaf_4757516976440204736.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-05",
+        "trackNumber": 5,
+        "url": "https://music.apple.com/us/album/clint-eastwood/850576570?i=850576665"
+       }
+      },
+      {
+       "id": "850576666",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576666",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn & Teren Jones",
+        "discNumber": 1,
+        "durationInMillis": 272907,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400469",
+        "name": "Man Research (Clapper)",
+        "playParams": {
+         "id": "850576666",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fe/6d/8c/fe6d8ccb-715e-103b-874a-d3c6743f006f/mzaf_10463769051482271496.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 6,
+        "url": "https://music.apple.com/us/album/man-research-clapper/850576570?i=850576666"
+       }
+      },
+      {
+       "id": "850576667",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576667",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn",
+        "discNumber": 1,
+        "durationInMillis": 98533,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400470",
+        "name": "Punk",
+        "playParams": {
+         "id": "850576667",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/87/d5/d4/87d5d427-a166-4be5-a613-8a7d6aee7177/mzaf_6015053636869700314.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 7,
+        "url": "https://music.apple.com/us/album/punk/850576570?i=850576667"
+       }
+      },
+      {
+       "id": "850576676",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576676",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn",
+        "discNumber": 1,
+        "durationInMillis": 282973,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400471",
+        "name": "Sound Check (Gravity)",
+        "playParams": {
+         "id": "850576676",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/69/9e/0b699ef3-8c1d-5eb5-4630-d57c76caf3e0/mzaf_14270252606957027333.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 8,
+        "url": "https://music.apple.com/us/album/sound-check-gravity/850576570?i=850576676"
+       }
+      },
+      {
+       "id": "850576692",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576692",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn",
+        "discNumber": 1,
+        "durationInMillis": 286933,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400472",
+        "name": "Double Bass",
+        "playParams": {
+         "id": "850576692",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cf/bd/39/cfbd3945-2d82-63d6-e117-62eaef23926c/mzaf_75598421324669549.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 9,
+        "url": "https://music.apple.com/us/album/double-bass/850576570?i=850576692"
+       }
+      },
+      {
+       "id": "850576694",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576694",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn, Dan Nakamura, John Dankworth & Teren Jones",
+        "contentRating": "explicit",
+        "discNumber": 1,
+        "durationInMillis": 249200,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400473",
+        "name": "Rock the House",
+        "playParams": {
+         "id": "850576694",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fb/1f/40/fb1f40e9-bb0d-a1fe-4167-1842a63de120/mzaf_320556740070432172.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 10,
+        "url": "https://music.apple.com/us/album/rock-the-house/850576570?i=850576694"
+       }
+      },
+      {
+       "id": "850576709",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576709",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn",
+        "discNumber": 1,
+        "durationInMillis": 207853,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400474",
+        "name": "19-2000",
+        "playParams": {
+         "id": "850576709",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/33/13/ee3313d1-bb7a-4384-9f27-a86270448e21/mzaf_12410614931071144796.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 11,
+        "url": "https://music.apple.com/us/album/19-2000/850576570?i=850576709"
+       }
+      },
+      {
+       "id": "850576710",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576710",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn, Ibrahim Ferrer & Lazaro Villa",
+        "discNumber": 1,
+        "durationInMillis": 218867,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400475",
+        "name": "Latin Simone (Que Pasa Contigo)",
+        "playParams": {
+         "id": "850576710",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/7e/7f/c07e7ffe-0ff1-1ab5-cf26-dd317b72d53c/mzaf_6894512985195779766.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 12,
+        "url": "https://music.apple.com/us/album/latin-simone-que-pasa-contigo/850576570?i=850576710"
+       }
+      },
+      {
+       "id": "850576711",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576711",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn",
+        "discNumber": 1,
+        "durationInMillis": 213533,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400476",
+        "name": "Starshine",
+        "playParams": {
+         "id": "850576711",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/09/50/3d/09503d6a-4d9f-d19e-a1c2-57bcba250e7e/mzaf_11853016339393177105.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 13,
+        "url": "https://music.apple.com/us/album/starshine/850576570?i=850576711"
+       }
+      },
+      {
+       "id": "850576712",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576712",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn & Jamie Hewlett",
+        "discNumber": 1,
+        "durationInMillis": 217507,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400477",
+        "name": "Slow Country",
+        "playParams": {
+         "id": "850576712",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/59/96/d6/5996d655-9a5f-1ed5-cc0d-c2c0d8a97f8c/mzaf_8768576651189482169.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 14,
+        "url": "https://music.apple.com/us/album/slow-country/850576570?i=850576712"
+       }
+      },
+      {
+       "id": "850576762",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576762",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn & John Harrison",
+        "discNumber": 1,
+        "durationInMillis": 241533,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400478",
+        "name": "M1 A1",
+        "playParams": {
+         "id": "850576762",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/be/2c/b9/be2cb9d4-b714-2046-2b2c-bdca250466b4/mzaf_6902579918949427340.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 15,
+        "url": "https://music.apple.com/us/album/m1-a1/850576570?i=850576762"
+       }
+      },
+      {
+       "id": "850576763",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576763",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn & Teren Jones",
+        "contentRating": "clean",
+        "discNumber": 1,
+        "durationInMillis": 221187,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400479",
+        "name": "Clint Eastwood (Ed Case / Sweetie Irie Refix)",
+        "playParams": {
+         "id": "850576763",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/58/50/bc/5850bccc-b73f-f299-43d6-036da768b62c/mzaf_5837960104957576290.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 16,
+        "url": "https://music.apple.com/us/album/clint-eastwood-ed-case-sweetie-irie-refix/850576570?i=850576763"
+       }
+      },
+      {
+       "id": "850576766",
+       "type": "songs",
+       "href": "/v1/catalog/us/songs/850576766",
+       "attributes": {
+        "albumName": "Gorillaz",
+        "artistName": "Gorillaz",
+        "artwork": {
+         "bgColor": "ffffff",
+         "height": 1500,
+         "textColor1": "131b10",
+         "textColor2": "192818",
+         "textColor3": "424940",
+         "textColor4": "475346",
+         "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/5b/8d/47/5b8d47da-71ea-93ab-dffc-733f11332659/825646290703.jpg/{w}x{h}bb.jpg",
+         "width": 1500
+        },
+        "composerName": "Damon Albarn",
+        "discNumber": 1,
+        "durationInMillis": 209387,
+        "genreNames": [
+         "Alternative",
+         "Music",
+         "Pop"
+        ],
+        "hasLyrics": true,
+        "isAppleDigitalMaster": true,
+        "isrc": "GBAYE1400480",
+        "name": "19-2000 (Soulchild Remix)",
+        "playParams": {
+         "id": "850576766",
+         "kind": "song"
+        },
+        "previews": [
+         {
+          "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/43/99/ca/4399ca12-29a9-87ae-bfe1-44f86a4bebf0/mzaf_9035602009400322410.plus.aac.p.m4a"
+         }
+        ],
+        "releaseDate": "2001-03-26",
+        "trackNumber": 17,
+        "url": "https://music.apple.com/us/album/19-2000-soulchild-remix/850576570?i=850576766"
+       }
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

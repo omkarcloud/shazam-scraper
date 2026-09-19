@@ -1,0 +1,6197 @@
+{
+ "10": [
+  "$",
+  "$Lff",
+  null,
+  {
+   "filters": {
+    "artist": "$undefined",
+    "date": "$undefined",
+    "location": {
+     "country": "IN",
+     "label": {
+      "restName": "india",
+      "name": "India",
+      "shortName": "India"
+     }
+    },
+    "resetFilters": false,
+    "genres": []
+   },
+   "events": [
+    {
+     "id": "4159f761-6cf2-44de-89fa-28ebdca31126",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/4159f761-6cf2-44de-89fa-28ebdca31126?l=en-us",
+     "attributes": {
+      "name": "A. R. Rahman Concert",
+      "time": {
+       "startTime": "2026-09-19T13:00:00Z",
+       "endTime": "2026-09-19T17:00:00Z",
+       "announcementTime": "2026-08-21T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "6:30 PM",
+       "fulldatetime": "Sep 19, 2026, 6:30 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108805414?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/4159f761-6cf2-44de-89fa-28ebdca31126",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108805414?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108805414?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108805414?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "3249567",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10340511",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "3249567",
+      "attributes": {
+       "name": "A.R. Rahman",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/33/2b/3d/332b3de7-6f79-bf87-072d-794c1176d9f8/mza_8008578196274844399.png/{w}x{h}bb.jpg",
+        "width": 3840,
+        "height": 3840,
+        "textColor1": "dadee0",
+        "textColor2": "cdccbd",
+        "textColor3": "afb4b7",
+        "textColor4": "a5a69b",
+        "bgColor": "031014",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/a-r-rahman/3249567"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1264",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10340511",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10340511?l=en-us",
+      "attributes": {
+       "name": "National Centre for Performing Arts (NCPA), Mumbai",
+       "address": {
+        "formattedAddressLine": [
+         "NCPA Marg, Nariman Point",
+         "400021",
+         "Mumbai",
+         "MH",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "NCPA Marg, Nariman Point",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "MH",
+         "city": "Mumbai",
+         "postCode": "400021"
+        }
+       },
+       "geo": {
+        "lat": 18.9251857,
+        "lng": 72.8197362
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=18.9251857&lng=72.8197362&token=e33bab6575e4f826b0bdb9cd1ebe37a9"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "579e06d8-51d7-446f-8a23-4d05b71b6eca",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/579e06d8-51d7-446f-8a23-4d05b71b6eca?l=en-us",
+     "attributes": {
+      "name": "Chet Faker Concert",
+      "time": {
+       "startTime": "2026-09-19T12:30:00Z",
+       "endTime": "2026-09-19T16:30:00Z",
+       "announcementTime": "2026-08-06T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "6:00 PM",
+       "fulldatetime": "Sep 19, 2026, 6:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108744655?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/579e06d8-51d7-446f-8a23-4d05b71b6eca",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108744655?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108744655?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108744655?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "439036555",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10392506",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "439036555",
+      "attributes": {
+       "name": "Chet Faker",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/43/74/47/43744719-1626-cfdb-411c-189f0a44db63/ami-identity-d199a66caef75afbd274748e7e91c226-2026-02-13T06-25-31.804Z_cropped.png/{w}x{h}bb.jpg",
+        "width": 4000,
+        "height": 4000,
+        "textColor1": "000000",
+        "textColor2": "43140d",
+        "textColor3": "21282d",
+        "textColor4": "573838",
+        "bgColor": "a8c9e4",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/chet-faker/439036555"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "7",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10392506",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10392506?l=en-us",
+      "attributes": {
+       "name": "Phoenix Marketcity",
+       "address": {
+        "formattedAddressLine": [
+         "Lal Bahadur Shastri Marg, Patelwadi.Kurla, Kurla West, Kurla",
+         "400070",
+         "Mumbai",
+         "MH",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Lal Bahadur Shastri Marg, Patelwadi.Kurla, Kurla West, Kurla",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "MH",
+         "city": "Mumbai",
+         "postCode": "400070"
+        }
+       },
+       "geo": {
+        "lat": 19.0863795,
+        "lng": 72.8889774
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=19.0863795&lng=72.8889774&token=90d34aa06872afa97aad98444c5e3cbc"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "551ae52e-6fec-447f-ae48-30a130da53ee",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/551ae52e-6fec-447f-ae48-30a130da53ee?l=en-us",
+     "attributes": {
+      "name": "Sid Sriram Concert",
+      "time": {
+       "startTime": "2026-09-19T12:30:00Z",
+       "endTime": "2026-09-19T16:30:00Z",
+       "announcementTime": "2026-08-29T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "6:00 PM",
+       "fulldatetime": "Sep 19, 2026, 6:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108839873?ticket_id=2051058502&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/551ae52e-6fec-447f-ae48-30a130da53ee",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108839873?ticket_id=2051058502&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108839873?ticket_id=2051058502&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108839873?ticket_id=2051058502&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "401698843",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10459476",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "401698843",
+      "attributes": {
+       "name": "Sid Sriram",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/f2/5f/20/f25f20b1-f502-f671-b84b-16f802a4c234/03b4e34e-92b2-496f-9dc2-a02fb0d2122a_ami-identity-d29f291ff6700b97f78cefa15fd569b6-2023-08-04T16-27-30.791Z_cropped.png/{w}x{h}bb.jpg",
+        "width": 2928,
+        "height": 2928,
+        "textColor1": "fdf2d5",
+        "textColor2": "f6dfb8",
+        "textColor3": "e1ceb6",
+        "textColor4": "dbbf9e",
+        "bgColor": "714237",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/sid-sriram/401698843"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1265",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10459476",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10459476?l=en-us",
+      "attributes": {
+       "name": "Shilpakala vedika",
+       "address": {
+        "formattedAddressLine": [
+         "Hitech",
+         "500081",
+         "Hyderabad",
+         "TS",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Hitech",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "TS",
+         "city": "Hyderabad",
+         "postCode": "500081"
+        }
+       },
+       "geo": {
+        "lat": 17.4514336,
+        "lng": 78.37951319999999
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=17.4514336&lng=78.37951319999999&token=7ecbf6ccc37b997e68fa06e973e72c6b"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "ff78fe78-3125-408a-872e-c9e4a7ebbff6",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/ff78fe78-3125-408a-872e-c9e4a7ebbff6?l=en-us",
+     "attributes": {
+      "name": "Akhil Sachdeva Concert",
+      "time": {
+       "startTime": "2026-09-19T15:30:00Z",
+       "endTime": "2026-09-19T19:30:00Z",
+       "announcementTime": "2026-08-21T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "9:00 PM",
+       "fulldatetime": "Sep 19, 2026, 9:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108804633?ticket_id=2049966062&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/ff78fe78-3125-408a-872e-c9e4a7ebbff6",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108804633?ticket_id=2049966062&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108804633?ticket_id=2049966062&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108804633?ticket_id=2049966062&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1205913414",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10647935",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1205913414",
+      "attributes": {
+       "name": "Akhil Sachdeva",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/30/3c/8d/303c8dc1-4a6f-d846-5de6-c712b0ef0829/pr_source.png/{w}x{h}bb.jpg",
+        "width": 1159,
+        "height": 1159,
+        "textColor1": "eb9779",
+        "textColor2": "de8d6f",
+        "textColor3": "c78067",
+        "textColor4": "bd7860",
+        "bgColor": "382822",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/akhil-sachdeva/1205913414"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1263",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10647935",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10647935?l=en-us",
+      "attributes": {
+       "name": "Downtown Jaipur Estd. 2011",
+       "address": {
+        "formattedAddressLine": [
+         "Devraj Niwas",
+         "302006",
+         "Jaipur",
+         "RJ",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Devraj Niwas",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "RJ",
+         "city": "Jaipur",
+         "postCode": "302006"
+        }
+       },
+       "geo": {
+        "lat": 26.921515,
+        "lng": 75.793657
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=26.921515&lng=75.793657&token=237aea4e849bac510cecf1edb5a53341"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "431e14ab-f5a7-4faa-991d-746f015ee9db",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/431e14ab-f5a7-4faa-991d-746f015ee9db?l=en-us",
+     "attributes": {
+      "name": "Ankur Tewari Concert",
+      "time": {
+       "startTime": "2026-09-19T15:30:00Z",
+       "endTime": "2026-09-19T19:30:00Z",
+       "announcementTime": "2026-08-12T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "9:00 PM",
+       "fulldatetime": "Sep 19, 2026, 9:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108767149?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/431e14ab-f5a7-4faa-991d-746f015ee9db",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108767149?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108767149?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108767149?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "337541671",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10562470",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "337541671",
+      "attributes": {
+       "name": "Ankur Tewari",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/7f/af/4d/7faf4dff-042a-f74c-c7ac-db19482d1751/file_cropped.png/{w}x{h}bb.jpg",
+        "width": 1382,
+        "height": 1382,
+        "textColor1": "080705",
+        "textColor2": "0a0806",
+        "textColor3": "332b20",
+        "textColor4": "352c21",
+        "bgColor": "debb8e",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/ankur-tewari/337541671"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1263",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10562470",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10562470?l=en-us",
+      "attributes": {
+       "name": "The Humming Tree",
+       "address": {
+        "formattedAddressLine": [
+         "Shop No, 763, 100 Feet Rd, HAL 2nd Stage, Appareddipalya, Indiranagar",
+         "560008",
+         "Bengaluru",
+         "KA",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Shop No, 763, 100 Feet Rd, HAL 2nd Stage, Appareddipalya, Indiranagar",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "KA",
+         "city": "Bengaluru",
+         "postCode": "560008"
+        }
+       },
+       "geo": {
+        "lat": 12.9711178,
+        "lng": 77.6410673
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=12.9711178&lng=77.6410673&token=3044d232d97839aa46384e0daf91e550"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "5cd916f5-7fe5-4e2b-975c-8c57cc7bcabf",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/5cd916f5-7fe5-4e2b-975c-8c57cc7bcabf?l=en-us",
+     "attributes": {
+      "name": "The Yellow Diary Concert",
+      "time": {
+       "startTime": "2026-09-19T15:30:00Z",
+       "endTime": "2026-09-19T19:30:00Z",
+       "announcementTime": "2026-07-28T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "9:00 PM",
+       "fulldatetime": "Sep 19, 2026, 9:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108706396?ticket_id=2046920715&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/5cd916f5-7fe5-4e2b-975c-8c57cc7bcabf",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108706396?ticket_id=2046920715&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108706396?ticket_id=2046920715&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108706396?ticket_id=2046920715&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1375506247",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-308706396",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1375506247",
+      "attributes": {
+       "name": "The Yellow Diary",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/92/2b/cf/922bcfa5-d562-0c86-72c6-2d885a457640/4794b3a3-b454-441f-8aa3-de873ca4f8e9_file_cropped.png/{w}x{h}bb.jpg",
+        "width": 3009,
+        "height": 3009,
+        "textColor1": "0d0703",
+        "textColor2": "170d06",
+        "textColor3": "3b280e",
+        "textColor4": "432c10",
+        "bgColor": "f1ac3b",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/the-yellow-diary/1375506247"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1185",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-308706396",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-308706396?l=en-us",
+      "attributes": {
+       "name": "Bhopal",
+       "address": {
+        "formattedAddressLine": [
+         "Bhopal",
+         "India"
+        ],
+        "structuredAddress": {
+         "country": "India",
+         "countryIsoCode": "IN",
+         "city": "Bhopal"
+        }
+       },
+       "geo": {
+        "lat": 23.25469,
+        "lng": 77.40289
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=23.25469&lng=77.40289&token=fd72f852433c80ad8f6d8d82caa2a741"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "cc6790e4-b988-42b5-ad51-29155513d209",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/cc6790e4-b988-42b5-ad51-29155513d209?l=en-us",
+     "attributes": {
+      "name": "Abi Sampa Concert",
+      "time": {
+       "startTime": "2026-09-19T14:00:00Z",
+       "endTime": "2026-09-19T18:00:00Z",
+       "announcementTime": "2026-07-16T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "7:30 PM",
+       "fulldatetime": "Sep 19, 2026, 7:30 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108663364?ticket_id=2045586723&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/cc6790e4-b988-42b5-ad51-29155513d209",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108663364?ticket_id=2045586723&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108663364?ticket_id=2045586723&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108663364?ticket_id=2045586723&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1281252840",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10489404",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1281252840",
+      "attributes": {
+       "name": "Abi Sampa",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/27/7c/ea277c16-acb6-75f3-46ec-6d0d224f5331/cover.jpg/{w}x{h}ac.jpg",
+        "width": 4096,
+        "height": 4096,
+        "textColor1": "f2d6c9",
+        "textColor2": "dc944b",
+        "textColor3": "c4aea4",
+        "textColor4": "b2793f",
+        "bgColor": "0c0c0d",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/abi-sampa/1281252840"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "19",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10489404",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10489404?l=en-us",
+      "attributes": {
+       "name": "District Arena @ Terraform",
+       "address": {
+        "formattedAddressLine": [
+         "Survey No - 147/15, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
+         "562157",
+         "Bengaluru",
+         "KA",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Survey No - 147/15, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "KA",
+         "city": "Bengaluru",
+         "postCode": "562157"
+        }
+       },
+       "geo": {
+        "lat": 13.1741517,
+        "lng": 77.59613949999999
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=13.1741517&lng=77.59613949999999&token=63758388645f9351b1793d402696002c"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "90cc5e70-c481-40f7-907a-2cd6971ed14c",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/90cc5e70-c481-40f7-907a-2cd6971ed14c?l=en-us",
+     "attributes": {
+      "name": "Purbayan Chatterjee Concert",
+      "time": {
+       "startTime": "2026-09-19T12:30:00Z",
+       "endTime": "2026-09-19T16:30:00Z",
+       "announcementTime": "2026-08-12T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "6:00 PM",
+       "fulldatetime": "Sep 19, 2026, 6:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108768606?ticket_id=2048849225&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/90cc5e70-c481-40f7-907a-2cd6971ed14c",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108768606?ticket_id=2048849225&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108768606?ticket_id=2048849225&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108768606?ticket_id=2048849225&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "42265377",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10459476",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "42265377",
+      "attributes": {
+       "name": "Purbayan Chatterjee",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/67/d3/91/67d391a3-07dc-eca5-d16e-f05be0adbb19/pr_source.png/{w}x{h}bb.jpg",
+        "width": 500,
+        "height": 500,
+        "textColor1": "110d0d",
+        "textColor2": "101011",
+        "textColor3": "3a3636",
+        "textColor4": "393939",
+        "bgColor": "dedbdb",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/purbayan-chatterjee/42265377"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1269",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": "$10:props:events:2:_venues",
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "5fe385a7-e82c-4dee-a47b-7728645af2ec",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/5fe385a7-e82c-4dee-a47b-7728645af2ec?l=en-us",
+     "attributes": {
+      "name": "Antara Nandy Concert",
+      "time": {
+       "startTime": "2026-09-19T12:30:00Z",
+       "endTime": "2026-09-19T16:30:00Z",
+       "announcementTime": "2026-08-05T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "6:00 PM",
+       "fulldatetime": "Sep 19, 2026, 6:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108741296?ticket_id=2048002615&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/5fe385a7-e82c-4dee-a47b-7728645af2ec",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108741296?ticket_id=2048002615&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108741296?ticket_id=2048002615&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108741296?ticket_id=2048002615&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "350596173",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-308741296",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "350596173",
+      "attributes": {
+       "name": "Antara Nandy",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a7/5c/76/a75c7676-f547-e4a9-12b7-7593f73095de/8902633359178.jpg/{w}x{h}ac.jpg",
+        "width": 3000,
+        "height": 3000,
+        "textColor1": "e6bb5a",
+        "textColor2": "e5b788",
+        "textColor3": "c39c4e",
+        "textColor4": "c29a73",
+        "bgColor": "35241f",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/antara-nandy/350596173"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1267",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-308741296",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-308741296?l=en-us",
+      "attributes": {
+       "name": "New Delhi",
+       "address": {
+        "formattedAddressLine": [
+         "New Delhi",
+         "India"
+        ],
+        "structuredAddress": {
+         "country": "India",
+         "countryIsoCode": "IN",
+         "city": "New Delhi"
+        }
+       },
+       "geo": {
+        "lat": 28.63576,
+        "lng": 77.22445
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=28.63576&lng=77.22445&token=83ab47b11c7ba59b6faa4c01b7306740"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "7b0536b8-62aa-4b14-86d5-3b7e1a700d1d",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/7b0536b8-62aa-4b14-86d5-3b7e1a700d1d?l=en-us",
+     "attributes": {
+      "name": "MHR Concert",
+      "time": {
+       "startTime": "2026-09-19T14:30:00Z",
+       "endTime": "2026-09-19T18:00:00Z",
+       "announcementTime": "2026-09-03T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "8:00 PM",
+       "fulldatetime": "Sep 19, 2026, 8:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 3.5,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108860725?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/7b0536b8-62aa-4b14-86d5-3b7e1a700d1d",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108860725?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108860725?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108860725?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1477345165",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-210117219",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1477345165",
+      "attributes": {
+       "name": "MHR",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/b5/6b/ec/b56bec7b-1135-3b34-59b8-c5b896d569c6/8809887742933.jpg/{w}x{h}ac.jpg",
+        "width": 3000,
+        "height": 3000,
+        "textColor1": "f1f1f1",
+        "textColor2": "cfcfcf",
+        "textColor3": "c5c5c5",
+        "textColor4": "aaaaaa",
+        "bgColor": "161616",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/mhr/1477345165"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "18",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-210117219",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-210117219?l=en-us",
+      "attributes": {
+       "name": "Crowne Plaza Kochi",
+       "address": {
+        "formattedAddressLine": [
+         "XI/641A NH 66 Bypass Ernakulam Near",
+         "682304",
+         "Kochi",
+         "KL",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "XI/641A NH 66 Bypass Ernakulam Near",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "KL",
+         "city": "Kochi",
+         "postCode": "682304"
+        }
+       },
+       "geo": {
+        "lat": 9.934178300000001,
+        "lng": 76.3187757
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=9.934178300000001&lng=76.3187757&token=388692adb224a9c789b14ef016c6c216"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "3944a018-34bb-4ea4-8737-0a1da60c0d74",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/3944a018-34bb-4ea4-8737-0a1da60c0d74?l=en-us",
+     "attributes": {
+      "name": "Outstation Concert",
+      "time": {
+       "startTime": "2026-09-19T08:30:00Z",
+       "endTime": "2026-09-19T11:30:00Z",
+       "announcementTime": "2026-08-20T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "2:00 PM",
+       "fulldatetime": "Sep 19, 2026, 2:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 3,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108800406?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/3944a018-34bb-4ea4-8737-0a1da60c0d74",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108800406?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108800406?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108800406?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1078159047",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10393047",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1078159047",
+      "attributes": {
+       "name": "Outstation",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/38/ae/9e/38ae9ed8-3390-a88e-5060-b401ef824b01/file_cropped.png/{w}x{h}bb.jpg",
+        "width": 4160,
+        "height": 4160,
+        "textColor1": "e7d4a0",
+        "textColor2": "d8b377",
+        "textColor3": "b8b38d",
+        "textColor4": "ad986d",
+        "bgColor": "002c44",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/outstation/1078159047"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "21",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10393047",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10393047?l=en-us",
+      "attributes": {
+       "name": "The Piano Man New Delhi",
+       "address": {
+        "formattedAddressLine": [
+         "Eldeco Centre",
+         "110017",
+         "New Delhi",
+         "DL",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Eldeco Centre",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "DL",
+         "city": "New Delhi",
+         "postCode": "110017"
+        }
+       },
+       "geo": {
+        "lat": 28.5284305,
+        "lng": 77.2058821
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=28.5284305&lng=77.2058821&token=1adf4dfb8b21b247e5219ed2aad597df"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "a87d2e41-3ca7-4dfa-a229-745602a78201",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/a87d2e41-3ca7-4dfa-a229-745602a78201?l=en-us",
+     "attributes": {
+      "name": "Bridge Music Concert",
+      "time": {
+       "startTime": "2026-09-19T12:00:00Z",
+       "endTime": "2026-09-19T16:00:00Z",
+       "announcementTime": "2026-08-15T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "5:30 PM",
+       "fulldatetime": "Sep 19, 2026, 5:30 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108727853?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/a87d2e41-3ca7-4dfa-a229-745602a78201",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108727853?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108727853?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108727853?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1513455030",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-210641299",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1513455030",
+      "attributes": {
+       "name": "Bridge Music",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/18/0c/ed/180cedd1-e689-698f-e82d-a6852af8d6b8/ami-identity-52cf016cfcd29f8fb1d428e2d88ca277-2026-02-13T11-41-49.348Z_cropped.png/{w}x{h}bb.jpg",
+        "width": 2000,
+        "height": 2000,
+        "textColor1": "e8e8e8",
+        "textColor2": "c3c3c3",
+        "textColor3": "b9b9b9",
+        "textColor4": "9c9c9c",
+        "bgColor": "000000",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/bridge-music/1513455030"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "22",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-210641299",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-210641299?l=en-us",
+      "attributes": {
+       "name": "HOLY SPIRIT Generation Church",
+       "address": {
+        "formattedAddressLine": [
+         "NC Arena #3 Near Legacy School & Moto Mind Shop Byrithi",
+         "560077",
+         "Bengaluru",
+         "KA",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "NC Arena #3 Near Legacy School & Moto Mind Shop Byrithi",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "KA",
+         "city": "Bengaluru",
+         "postCode": "560077"
+        }
+       },
+       "geo": {
+        "lat": 13.0612242,
+        "lng": 77.6532508
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=13.0612242&lng=77.6532508&token=aeb060f2fee45831b9dde8680b1e42b0"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "8001825c-b188-4595-8561-9d2978442ea2",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/8001825c-b188-4595-8561-9d2978442ea2?l=en-us",
+     "attributes": {
+      "name": "Easy Wanderlings Concert",
+      "time": {
+       "startTime": "2026-09-19T14:30:00Z",
+       "endTime": "2026-09-19T16:30:00Z",
+       "announcementTime": "2026-08-31T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "8:00 PM",
+       "fulldatetime": "Sep 19, 2026, 8:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 2,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108843314?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/8001825c-b188-4595-8561-9d2978442ea2",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108843314?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108843314?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108843314?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1152903774",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-210134485",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1152903774",
+      "attributes": {
+       "name": "Easy Wanderlings",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/8a/ef/56/8aef5667-e3d6-fc3a-b821-32c8d7fb512e/ami-identity-edfd8dd6c70eb34f30b203eea5e7e886-2026-08-15T07-05-56.743Z_cropped.png/{w}x{h}bb.jpg",
+        "width": 3000,
+        "height": 3000,
+        "textColor1": "0b0a08",
+        "textColor2": "212216",
+        "textColor3": "31312f",
+        "textColor4": "43443a",
+        "bgColor": "cccfc9",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/easy-wanderlings/1152903774"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1134",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-210134485",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-210134485?l=en-us",
+      "attributes": {
+       "name": "Hideaway",
+       "address": {
+        "formattedAddressLine": [
+         "H.No. 622",
+         "403509",
+         "Vagator",
+         "GA",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "H.No. 622",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "GA",
+         "city": "Vagator",
+         "postCode": "403509"
+        }
+       },
+       "geo": {
+        "lat": 15.5953961,
+        "lng": 73.7431187
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=15.5953961&lng=73.7431187&token=9bc050b24a115c35cd5f14907deaef92"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "bd39b011-54c9-4db3-99f9-8c03b1fcd32a",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/bd39b011-54c9-4db3-99f9-8c03b1fcd32a?l=en-us",
+     "attributes": {
+      "name": "Rushil Ranjan Concert",
+      "time": {
+       "startTime": "2026-09-19T14:00:00Z",
+       "endTime": "2026-09-19T18:00:00Z",
+       "announcementTime": "2026-07-16T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "7:30 PM",
+       "fulldatetime": "Sep 19, 2026, 7:30 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108663363?ticket_id=2045586692&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/bd39b011-54c9-4db3-99f9-8c03b1fcd32a",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108663363?ticket_id=2045586692&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108663363?ticket_id=2045586692&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108663363?ticket_id=2045586692&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1493692794",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10489404",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1493692794",
+      "attributes": {
+       "name": "Rushil Ranjan",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ea/27/7c/ea277c16-acb6-75f3-46ec-6d0d224f5331/cover.jpg/{w}x{h}ac.jpg",
+        "width": 4096,
+        "height": 4096,
+        "textColor1": "f2d6c9",
+        "textColor2": "dc944b",
+        "textColor3": "c4aea4",
+        "textColor4": "b2793f",
+        "bgColor": "0c0c0d",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/rushil-ranjan/1493692794"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "5",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": "$10:props:events:6:_venues",
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "42080b46-9c0d-4c97-b888-4d2affd91f18",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/42080b46-9c0d-4c97-b888-4d2affd91f18?l=en-us",
+     "attributes": {
+      "name": "Amani Kl10 Concert",
+      "time": {
+       "startTime": "2026-09-19T11:30:00Z",
+       "endTime": "2026-09-19T17:30:00Z",
+       "announcementTime": "2026-09-06T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "5:00 PM",
+       "fulldatetime": "Sep 19, 2026, 5:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 6,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108871407?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/42080b46-9c0d-4c97-b888-4d2affd91f18",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108871407?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108871407?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108871407?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1624128004",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-210117219",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1624128004",
+      "attributes": {
+       "name": "Amani Kl10",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/91/e7/4a/91e74a9d-f8db-3c8c-1e7c-18a87b83f110/cover.jpg/{w}x{h}ac.jpg",
+        "width": 3000,
+        "height": 3000,
+        "textColor1": "cdc8cc",
+        "textColor2": "d3c2c5",
+        "textColor3": "a9a5a9",
+        "textColor4": "aea0a3",
+        "bgColor": "1a1a1c",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/amani-kl10/1624128004"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "18",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": "$10:props:events:9:_venues",
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "ab7f449f-a06b-4c88-9cd9-829aa665a4f8",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/ab7f449f-a06b-4c88-9cd9-829aa665a4f8?l=en-us",
+     "attributes": {
+      "name": "Rhythm Shaw Concert",
+      "time": {
+       "startTime": "2026-09-19T13:30:00Z",
+       "endTime": "2026-09-19T17:30:00Z",
+       "announcementTime": "2026-09-07T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "7:00 PM",
+       "fulldatetime": "Sep 19, 2026, 7:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108874916?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/ab7f449f-a06b-4c88-9cd9-829aa665a4f8",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108874916?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108874916?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108874916?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1042208011",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-210490130",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1042208011",
+      "attributes": {
+       "name": "Rhythm Shaw",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/2b/c0/6d/2bc06d93-1928-ae78-1726-e2a0a33d4849/pr_source.png/{w}x{h}bb.jpg",
+        "width": 1365,
+        "height": 1365,
+        "textColor1": "ceaca9",
+        "textColor2": "f9858e",
+        "textColor3": "af939a",
+        "textColor4": "d27485",
+        "bgColor": "352f5e",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/rhythm-shaw/1042208011"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "11",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-210490130",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-210490130?l=en-us",
+      "attributes": {
+       "name": "The Spotted Deer",
+       "address": {
+        "formattedAddressLine": [
+         "beside The Palomar by Crossway",
+         "600119",
+         "Chennai",
+         "TN",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "beside The Palomar by Crossway",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "TN",
+         "city": "Chennai",
+         "postCode": "600119"
+        }
+       },
+       "geo": {
+        "lat": 12.8960498,
+        "lng": 80.24672989999999
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=12.8960498&lng=80.24672989999999&token=2e15bf9da3886b9600713e82c6177ea5"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "61cd06b8-9d42-4d1d-a8ac-4f6007ff432c",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/61cd06b8-9d42-4d1d-a8ac-4f6007ff432c?l=en-us",
+     "attributes": {
+      "name": "Hulo Concert",
+      "time": {
+       "startTime": "2026-09-19T14:30:00Z",
+       "endTime": "2026-09-19T18:00:00Z",
+       "announcementTime": "2026-09-02T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "8:00 PM",
+       "fulldatetime": "Sep 19, 2026, 8:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 3.5,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108855848?ticket_id=2051553727&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/61cd06b8-9d42-4d1d-a8ac-4f6007ff432c",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108855848?ticket_id=2051553727&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108855848?ticket_id=2051553727&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108855848?ticket_id=2051553727&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1756067591",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10206205",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1756067591",
+      "attributes": {
+       "name": "Hulo",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/d4/f6/02/d4f60274-2e80-1ec9-5503-ca65faf94330/ami-identity-696397e7c9eb0754e2f2846f4506afda-2025-11-12T08-13-54.781Z_cropped.png/{w}x{h}bb.jpg",
+        "width": 3767,
+        "height": 3767,
+        "textColor1": "162630",
+        "textColor2": "1e2b33",
+        "textColor3": "445159",
+        "textColor4": "4b555c",
+        "bgColor": "ffffff",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/hulo/1756067591"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "21",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10206205",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10206205?l=en-us",
+      "attributes": {
+       "name": "Depot48",
+       "address": {
+        "formattedAddressLine": [
+         "M9, Level, block market, 2, M, Block M, Greater Kailash II",
+         "110048",
+         "New Delhi",
+         "DL",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "M9, Level, block market, 2, M, Block M, Greater Kailash II",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "DL",
+         "city": "New Delhi",
+         "postCode": "110048"
+        }
+       },
+       "geo": {
+        "lat": 28.5341557,
+        "lng": 77.24300939999999
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=28.5341557&lng=77.24300939999999&token=523daf69f00313c86b1dc5853813a554"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "eea4a76d-deb6-49b5-acab-2259b292ba2b",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/eea4a76d-deb6-49b5-acab-2259b292ba2b?l=en-us",
+     "attributes": {
+      "name": "Ady Manral Concert",
+      "time": {
+       "startTime": "2026-09-19T13:30:00Z",
+       "endTime": "2026-09-19T17:30:00Z",
+       "announcementTime": "2026-09-09T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "19",
+       "fullday": "Saturday, September 19, 2026",
+       "fulldate": "Sep 19, 2026",
+       "startHourMin": "7:00 PM",
+       "fulldatetime": "Sep 19, 2026, 7:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108884012?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/eea4a76d-deb6-49b5-acab-2259b292ba2b",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108884012?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108884012?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108884012?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1442015719",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10624126",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1442015719",
+      "attributes": {
+       "name": "Ady Manral",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/4c/f7/9d/4cf79de1-1c9c-e19f-16e0-28c809c890b7/file_cropped.png/{w}x{h}bb.jpg",
+        "width": 3150,
+        "height": 3150,
+        "textColor1": "0e0e0e",
+        "textColor2": "2a2a2a",
+        "textColor3": "3b3b3b",
+        "textColor4": "525252",
+        "bgColor": "f0f0f0",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/ady-manral/1442015719"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "10",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10624126",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10624126?l=en-us",
+      "attributes": {
+       "name": "Hotel Vishranti",
+       "address": {
+        "formattedAddressLine": [
+         "Canal Rd",
+         "248013",
+         "Dehradun",
+         "UK",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Canal Rd",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "UK",
+         "city": "Dehradun",
+         "postCode": "248013"
+        }
+       },
+       "geo": {
+        "lat": 30.3603228,
+        "lng": 78.0719987
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=30.3603228&lng=78.0719987&token=e07e3030aee7d96df3e41c082bf774fe"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "28f6dcc9-0b7f-4047-8d6d-fb4246477b36",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/28f6dcc9-0b7f-4047-8d6d-fb4246477b36?l=en-us",
+     "attributes": {
+      "name": "Chet Faker Concert",
+      "time": {
+       "startTime": "2026-09-20T12:30:00Z",
+       "endTime": "2026-09-20T16:30:00Z",
+       "announcementTime": "2026-08-06T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Sunday",
+       "month": "Sep",
+       "date": "20",
+       "fullday": "Sunday, September 20, 2026",
+       "fulldate": "Sep 20, 2026",
+       "startHourMin": "6:00 PM",
+       "fulldatetime": "Sep 20, 2026, 6:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108744661?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/28f6dcc9-0b7f-4047-8d6d-fb4246477b36",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108744661?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108744661?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108744661?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "439036555",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10442703",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:1:_artists",
+     "_venues": {
+      "id": "06bd999b-10442703",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10442703?l=en-us",
+      "attributes": {
+       "name": "Phoenix Marketcity",
+       "address": {
+        "formattedAddressLine": [
+         "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura",
+         "560048",
+         "Bengaluru",
+         "KA",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "KA",
+         "city": "Bengaluru",
+         "postCode": "560048"
+        }
+       },
+       "geo": {
+        "lat": 12.9957867,
+        "lng": 77.6964011
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=12.9957867&lng=77.6964011&token=7a141ce164536d8434cf7e399744460d"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "e46309ba-4282-4a76-ac1d-6a74cf0a9423",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/e46309ba-4282-4a76-ac1d-6a74cf0a9423?l=en-us",
+     "attributes": {
+      "name": "Rafael Cerato Concert",
+      "time": {
+       "startTime": "2026-09-20T14:30:00Z",
+       "endTime": "2026-09-20T18:30:00Z",
+       "announcementTime": "2026-09-16T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Sunday",
+       "month": "Sep",
+       "date": "20",
+       "fullday": "Sunday, September 20, 2026",
+       "fulldate": "Sep 20, 2026",
+       "startHourMin": "8:00 PM",
+       "fulldatetime": "Sep 20, 2026, 8:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108913965?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/e46309ba-4282-4a76-ac1d-6a74cf0a9423",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108913965?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108913965?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108913965?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "531505276",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10571277",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "531505276",
+      "attributes": {
+       "name": "Rafael Cerato",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/6f/17/54/6f1754d8-5a90-eb50-369b-60f6de452e7b/ami-identity-d23bf78f4c536d9d09a85d8266a2629b-2026-03-09T11-51-27.238Z_cropped.png/{w}x{h}bb.jpg",
+        "width": 4037,
+        "height": 4037,
+        "textColor1": "d9dee5",
+        "textColor2": "dca994",
+        "textColor3": "b0b4b9",
+        "textColor4": "b38a78",
+        "bgColor": "100c07",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/rafael-cerato/531505276"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "17",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10571277",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10571277?l=en-us",
+      "attributes": {
+       "name": "Babylon",
+       "address": {
+        "formattedAddressLine": [
+         "148/2/E, Hyderabad, Nanakramguda",
+         "500032",
+         "Nanakramguda",
+         "TS",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "148/2/E, Hyderabad, Nanakramguda",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "TS",
+         "city": "Nanakramguda",
+         "postCode": "500032"
+        }
+       },
+       "geo": {
+        "lat": 17.422693,
+        "lng": 78.34965330000001
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=17.422693&lng=78.34965330000001&token=3a27fc495868fbe46b02a583193b129a"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "93b70561-b1e6-4ada-ace7-f9b6150aafe3",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/93b70561-b1e6-4ada-ace7-f9b6150aafe3?l=en-us",
+     "attributes": {
+      "name": "Nanku Concert",
+      "time": {
+       "startTime": "2026-09-20T14:00:00Z",
+       "endTime": "2026-09-20T18:00:00Z",
+       "announcementTime": "2026-08-28T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Sunday",
+       "month": "Sep",
+       "date": "20",
+       "fullday": "Sunday, September 20, 2026",
+       "fulldate": "Sep 20, 2026",
+       "startHourMin": "7:30 PM",
+       "fulldatetime": "Sep 20, 2026, 7:30 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108836557?ticket_id=2050955706&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/93b70561-b1e6-4ada-ace7-f9b6150aafe3",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108836557?ticket_id=2050955706&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108836557?ticket_id=2050955706&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108836557?ticket_id=2050955706&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1677419924",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10573289",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1677419924",
+      "attributes": {
+       "name": "Nanku",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/ce/d3/d5/ced3d5f6-f6ec-6055-1911-be9258c38fc8/file_cropped.png/{w}x{h}bb.jpg",
+        "width": 2170,
+        "height": 2170,
+        "textColor1": "fffef2",
+        "textColor2": "f4e7e1",
+        "textColor3": "d3ded7",
+        "textColor4": "caccc9",
+        "bgColor": "24616c",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/nanku/1677419924"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "18",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10573289",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10573289?l=en-us",
+      "attributes": {
+       "name": "Playboy Beer Garden, Dehradun",
+       "address": {
+        "formattedAddressLine": [
+         "5th Floor",
+         "248001",
+         "Dehradun",
+         "UK",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "5th Floor",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "UK",
+         "city": "Dehradun",
+         "postCode": "248001"
+        }
+       },
+       "geo": {
+        "lat": 30.3626525,
+        "lng": 78.0684601
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=30.3626525&lng=78.0684601&token=3e3e1647593983738d514631cfaeaf6b"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "5ec9f6d6-bfdc-4b39-920e-25070359d23c",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/5ec9f6d6-bfdc-4b39-920e-25070359d23c?l=en-us",
+     "attributes": {
+      "name": "Wraith V Concert",
+      "time": {
+       "startTime": "2026-09-20T15:30:00Z",
+       "endTime": "2026-09-20T17:30:00Z",
+       "announcementTime": "2026-09-01T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Sunday",
+       "month": "Sep",
+       "date": "20",
+       "fullday": "Sunday, September 20, 2026",
+       "fulldate": "Sep 20, 2026",
+       "startHourMin": "9:00 PM",
+       "fulldatetime": "Sep 20, 2026, 9:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 2,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108849903?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/5ec9f6d6-bfdc-4b39-920e-25070359d23c",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108849903?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108849903?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108849903?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1445338833",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-210117219",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1445338833",
+      "attributes": {
+       "name": "Wraith V",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/af/ec/25/afec2561-e4fd-cda5-3985-d8fec6b78741/file_cropped.png/{w}x{h}bb.jpg",
+        "width": 3647,
+        "height": 3647,
+        "textColor1": "d4d0d6",
+        "textColor2": "a0a3ce",
+        "textColor3": "afaeb0",
+        "textColor4": "868aaa",
+        "bgColor": "1c2619",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/wraith-v/1445338833"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "18",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": "$10:props:events:9:_venues",
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "158ae3da-3df7-4ac3-a257-c97310bf027c",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/158ae3da-3df7-4ac3-a257-c97310bf027c?l=en-us",
+     "attributes": {
+      "name": "Abi Sampa Concert",
+      "time": {
+       "startTime": "2026-09-20T14:00:00Z",
+       "endTime": "2026-09-20T18:00:00Z",
+       "announcementTime": "2026-07-16T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Sunday",
+       "month": "Sep",
+       "date": "20",
+       "fullday": "Sunday, September 20, 2026",
+       "fulldate": "Sep 20, 2026",
+       "startHourMin": "7:30 PM",
+       "fulldatetime": "Sep 20, 2026, 7:30 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108663370?ticket_id=2045586909&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/158ae3da-3df7-4ac3-a257-c97310bf027c",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108663370?ticket_id=2045586909&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108663370?ticket_id=2045586909&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108663370?ticket_id=2045586909&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1281252840",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10637045",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:6:_artists",
+     "_venues": {
+      "id": "06bd999b-10637045",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10637045?l=en-us",
+      "attributes": {
+       "name": "S S Convention Centre",
+       "address": {
+        "formattedAddressLine": [
+         "Airport Road",
+         "500052",
+         "Hyderabad",
+         "TS",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Airport Road",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "TS",
+         "city": "Hyderabad",
+         "postCode": "500052"
+        }
+       },
+       "geo": {
+        "lat": 17.2787359,
+        "lng": 78.4070863
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=17.2787359&lng=78.4070863&token=71a9ce5e3da8bb9ca5042d7863d38cd4"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "190eda38-32a1-4fd4-97dd-0b06cfb6fe6c",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/190eda38-32a1-4fd4-97dd-0b06cfb6fe6c?l=en-us",
+     "attributes": {
+      "name": "MHR Concert",
+      "time": {
+       "startTime": "2026-09-20T13:30:00Z",
+       "endTime": "2026-09-20T18:00:00Z",
+       "announcementTime": "2026-09-13T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Sunday",
+       "month": "Sep",
+       "date": "20",
+       "fullday": "Sunday, September 20, 2026",
+       "fulldate": "Sep 20, 2026",
+       "startHourMin": "7:00 PM",
+       "fulldatetime": "Sep 20, 2026, 7:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4.5,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108900288?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/190eda38-32a1-4fd4-97dd-0b06cfb6fe6c",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108900288?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108900288?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108900288?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1477345165",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-308900288",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:9:_artists",
+     "_venues": {
+      "id": "06bd999b-308900288",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-308900288?l=en-us",
+      "attributes": {
+       "name": "D & D BANGALORE",
+       "address": {
+        "formattedAddressLine": [
+         "Bengaluru",
+         "KERALA",
+         "India"
+        ],
+        "structuredAddress": {
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "KERALA",
+         "city": "Bengaluru"
+        }
+       },
+       "geo": {
+        "lat": 12.97194,
+        "lng": 77.59369
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=12.97194&lng=77.59369&token=d91190bc154ad5b62734be3b7d29e045"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "3047b26e-6e7d-41e1-b24f-cfc6437395c9",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/3047b26e-6e7d-41e1-b24f-cfc6437395c9?l=en-us",
+     "attributes": {
+      "name": "Akshay Anantapadmanabhan Concert",
+      "time": {
+       "startTime": "2026-09-20T04:30:00Z",
+       "endTime": "2026-09-20T08:30:00Z",
+       "announcementTime": "2026-08-21T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Sunday",
+       "month": "Sep",
+       "date": "20",
+       "fullday": "Sunday, September 20, 2026",
+       "fulldate": "Sep 20, 2026",
+       "startHourMin": "10:00 AM",
+       "fulldatetime": "Sep 20, 2026, 10:00 AM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108806664?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/3047b26e-6e7d-41e1-b24f-cfc6437395c9",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108806664?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108806664?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108806664?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "894967685",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-308806664",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "894967685",
+      "attributes": {
+       "name": "Akshay Anantapadmanabhan",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/92/d0/a2/92d0a247-dd68-d0c0-54a8-f0411b8cc935/pr_source.png/{w}x{h}bb.jpg",
+        "width": 1863,
+        "height": 1863,
+        "textColor1": "0e0f0c",
+        "textColor2": "221b13",
+        "textColor3": "2f2f23",
+        "textColor4": "3e3929",
+        "bgColor": "b0b282",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/akshay-anantapadmanabhan/894967685"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "19",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-308806664",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-308806664?l=en-us",
+      "attributes": {
+       "name": "TBA",
+       "address": {
+        "formattedAddressLine": [
+         "Kāraikkudi",
+         "Tamil Nadu",
+         "India"
+        ],
+        "structuredAddress": {
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "Tamil Nadu",
+         "city": "Kāraikkudi"
+        }
+       },
+       "geo": {
+        "lat": 10.06615,
+        "lng": 78.76784
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=10.06615&lng=78.76784&token=70cfcf482f3fab903251feb038984b6e"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "9c23ffb4-53b8-4cc8-93a1-ea3c587aaefe",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/9c23ffb4-53b8-4cc8-93a1-ea3c587aaefe?l=en-us",
+     "attributes": {
+      "name": "Big Scratch Concert",
+      "time": {
+       "startTime": "2026-09-20T13:30:00Z",
+       "endTime": "2026-09-20T18:00:00Z",
+       "announcementTime": "2026-09-04T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Sunday",
+       "month": "Sep",
+       "date": "20",
+       "fullday": "Sunday, September 20, 2026",
+       "fulldate": "Sep 20, 2026",
+       "startHourMin": "7:00 PM",
+       "fulldatetime": "Sep 20, 2026, 7:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4.5,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108866914?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/9c23ffb4-53b8-4cc8-93a1-ea3c587aaefe",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108866914?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108866914?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108866914?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "438508538",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "I885E36481F869CE1",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "438508538",
+      "attributes": {
+       "name": "Big Scratch",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/de/ea/cd/deeacd95-e08b-9963-6920-5ad8255281fc/file_cropped.png/{w}x{h}bb.jpg",
+        "width": 2000,
+        "height": 2000,
+        "textColor1": "d7a779",
+        "textColor2": "d3995e",
+        "textColor3": "ae8762",
+        "textColor4": "ab7c4d",
+        "bgColor": "0a0908",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/big-scratch/438508538"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "18",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "I885E36481F869CE1",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/I885E36481F869CE1?l=en-us",
+      "attributes": {
+       "name": "Social",
+       "address": {
+        "formattedAddressLine": [
+         "3-5, 5th Road",
+         "400052",
+         "Mumbai",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "3-5, 5th Road",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "city": "Mumbai",
+         "postCode": "400052"
+        }
+       },
+       "geo": {
+        "lat": 19.0687321,
+        "lng": 72.8381301
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=19.0687321&lng=72.8381301&token=3faa584fce4761e3f19060d5299b7460"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "96f65d84-748a-4f15-b318-7dc464aee650",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/96f65d84-748a-4f15-b318-7dc464aee650?l=en-us",
+     "attributes": {
+      "name": "Easy Wanderlings Concert",
+      "time": {
+       "startTime": "2026-09-20T12:00:00Z",
+       "endTime": "2026-09-20T14:00:00Z",
+       "announcementTime": "2026-08-31T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Sunday",
+       "month": "Sep",
+       "date": "20",
+       "fullday": "Sunday, September 20, 2026",
+       "fulldate": "Sep 20, 2026",
+       "startHourMin": "5:30 PM",
+       "fulldatetime": "Sep 20, 2026, 5:30 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 2,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108843323?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/96f65d84-748a-4f15-b318-7dc464aee650",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108843323?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108843323?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108843323?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1152903774",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-210648327",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:12:_artists",
+     "_venues": {
+      "id": "06bd999b-210648327",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-210648327?l=en-us",
+      "attributes": {
+       "name": "Armaan Collective & Cafe",
+       "address": {
+        "formattedAddressLine": [
+         "X783+CM2",
+         "682002",
+         "Kochi",
+         "KL",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "X783+CM2",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "KL",
+         "city": "Kochi",
+         "postCode": "682002"
+        }
+       },
+       "geo": {
+        "lat": 9.966009,
+        "lng": 76.25413499999999
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=9.966009&lng=76.25413499999999&token=0f06618ab98416d5c5aaade20c730647"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "ebed9dbf-eed0-4f80-abf1-d58b46707cb7",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/ebed9dbf-eed0-4f80-abf1-d58b46707cb7?l=en-us",
+     "attributes": {
+      "name": "Rushil Ranjan Concert",
+      "time": {
+       "startTime": "2026-09-20T14:00:00Z",
+       "endTime": "2026-09-20T18:00:00Z",
+       "announcementTime": "2026-07-16T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Sunday",
+       "month": "Sep",
+       "date": "20",
+       "fullday": "Sunday, September 20, 2026",
+       "fulldate": "Sep 20, 2026",
+       "startHourMin": "7:30 PM",
+       "fulldatetime": "Sep 20, 2026, 7:30 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108663371?ticket_id=2045586940&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/ebed9dbf-eed0-4f80-abf1-d58b46707cb7",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108663371?ticket_id=2045586940&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108663371?ticket_id=2045586940&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108663371?ticket_id=2045586940&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1493692794",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10637045",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:13:_artists",
+     "_venues": "$10:props:events:22:_venues",
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "b0b25955-25da-4d09-a593-9add99ed1ea1",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/b0b25955-25da-4d09-a593-9add99ed1ea1?l=en-us",
+     "attributes": {
+      "name": "Amani Kl10 Concert",
+      "time": {
+       "startTime": "2026-09-20T12:30:00Z",
+       "endTime": "2026-09-20T18:00:00Z",
+       "announcementTime": "2026-09-06T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Sunday",
+       "month": "Sep",
+       "date": "20",
+       "fullday": "Sunday, September 20, 2026",
+       "fulldate": "Sep 20, 2026",
+       "startHourMin": "6:00 PM",
+       "fulldatetime": "Sep 20, 2026, 6:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 5.5,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108871408?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/b0b25955-25da-4d09-a593-9add99ed1ea1",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108871408?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108871408?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108871408?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1624128004",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10634163",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:14:_artists",
+     "_venues": {
+      "id": "06bd999b-10634163",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10634163?l=en-us",
+      "attributes": {
+       "name": "DND - The Venue",
+       "address": {
+        "formattedAddressLine": [
+         "26",
+         "560102",
+         "Bengaluru",
+         "KA",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "26",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "KA",
+         "city": "Bengaluru",
+         "postCode": "560102"
+        }
+       },
+       "geo": {
+        "lat": 12.9151176,
+        "lng": 77.66653629999999
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=12.9151176&lng=77.66653629999999&token=499be877a77bfff46528eabbf56fabab"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "eb026300-5513-4df9-8770-6c55f745e496",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/eb026300-5513-4df9-8770-6c55f745e496?l=en-us",
+     "attributes": {
+      "name": "Paddy Shivoham Concert",
+      "time": {
+       "startTime": "2026-09-20T13:30:00Z",
+       "endTime": "2026-09-20T17:30:00Z",
+       "announcementTime": "2026-07-28T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Sunday",
+       "month": "Sep",
+       "date": "20",
+       "fullday": "Sunday, September 20, 2026",
+       "fulldate": "Sep 20, 2026",
+       "startHourMin": "7:00 PM",
+       "fulldatetime": "Sep 20, 2026, 7:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": true,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108707553?ticket_id=2046956582&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": false,
+      "webUrl": "https://www.shazam.com/event/eb026300-5513-4df9-8770-6c55f745e496",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108707553?ticket_id=2046956582&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108707553?ticket_id=2046956582&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108707553?ticket_id=2046956582&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1551364533",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-308707553",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1551364533",
+      "attributes": {
+       "name": "Paddy Shivoham",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/13/19/45/13194583-2f3e-7197-27f3-4db5d981ac69/artwork.jpg/{w}x{h}ac.jpg",
+        "width": 3000,
+        "height": 3000,
+        "textColor1": "bec2d6",
+        "textColor2": "a3bad2",
+        "textColor3": "9ca1b7",
+        "textColor4": "869ab4",
+        "bgColor": "121c3c",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/paddy-shivoham/1551364533"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1268",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-308707553",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-308707553?l=en-us",
+      "attributes": {
+       "name": "Delhi",
+       "address": {
+        "formattedAddressLine": [
+         "Delhi",
+         "India"
+        ],
+        "structuredAddress": {
+         "country": "India",
+         "countryIsoCode": "IN",
+         "city": "Delhi"
+        }
+       },
+       "geo": {
+        "lat": 24.6444,
+        "lng": 81.57507
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=24.6444&lng=81.57507&token=643b452f1c1ad0f2568979a1e6d7e123"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "ba2fa15a-c049-4b84-9b09-b92f1d33e91c",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/ba2fa15a-c049-4b84-9b09-b92f1d33e91c?l=en-us",
+     "attributes": {
+      "name": "Zero Pause Concert",
+      "time": {
+       "startTime": "2026-09-22T13:00:00Z",
+       "endTime": "2026-09-22T16:30:00Z",
+       "announcementTime": "2026-09-10T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Tuesday",
+       "month": "Sep",
+       "date": "22",
+       "fullday": "Tuesday, September 22, 2026",
+       "fulldate": "Sep 22, 2026",
+       "startHourMin": "6:30 PM",
+       "fulldatetime": "Sep 22, 2026, 6:30 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 3.5,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108889270?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/ba2fa15a-c049-4b84-9b09-b92f1d33e91c",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108889270?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108889270?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108889270?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1788539500",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-210651167",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1788539500",
+      "attributes": {
+       "name": "Zero Pause",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/ec/86/11/ec8611f4-4fce-8986-9b78-2489510ddd50/ami-identity-96c6d50d42f7001514752df58f947893-2026-07-11T11-06-38.182Z_cropped.png/{w}x{h}bb.jpg",
+        "width": 1536,
+        "height": 1536,
+        "textColor1": "010101",
+        "textColor2": "060606",
+        "textColor3": "1c1c1c",
+        "textColor4": "202020",
+        "bgColor": "8a8a8a",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/zero-pause/1788539500"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1144",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-210651167",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-210651167?l=en-us",
+      "attributes": {
+       "name": "Al-Saj Convention Centre - Milky Way Hall",
+       "address": {
+        "formattedAddressLine": [
+         "HVG9+6P6",
+         "695582",
+         "Thiruvananthapuram",
+         "KL",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "HVG9+6P6",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "KL",
+         "city": "Thiruvananthapuram",
+         "postCode": "695582"
+        }
+       },
+       "geo": {
+        "lat": 8.5755375,
+        "lng": 76.86926559999999
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=8.5755375&lng=76.86926559999999&token=2098f8fbfa495cc0e165377912b3bd48"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "8c7f9771-945f-4ca5-a836-a9f1730b87bc",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/8c7f9771-945f-4ca5-a836-a9f1730b87bc?l=en-us",
+     "attributes": {
+      "name": "Varun Nimbolkar Concert",
+      "time": {
+       "startTime": "2026-09-23T16:00:00Z",
+       "endTime": "2026-09-23T18:00:00Z",
+       "announcementTime": "2026-09-15T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Wednesday",
+       "month": "Sep",
+       "date": "23",
+       "fullday": "Wednesday, September 23, 2026",
+       "fulldate": "Sep 23, 2026",
+       "startHourMin": "9:30 PM",
+       "fulldatetime": "Sep 23, 2026, 9:30 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 2,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108906832?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/8c7f9771-945f-4ca5-a836-a9f1730b87bc",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108906832?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108906832?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108906832?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1566186954",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-210324232",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1566186954",
+      "attributes": {
+       "name": "Varun Nimbolkar",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/c2/2d/81/c22d818b-6707-94c7-78cd-c1e81bf702c8/file_cropped.png/{w}x{h}bb.jpg",
+        "width": 4000,
+        "height": 4000,
+        "textColor1": "fcefe4",
+        "textColor2": "ebd4ba",
+        "textColor3": "cec5ba",
+        "textColor4": "c1b098",
+        "bgColor": "172111",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/varun-nimbolkar/1566186954"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "19",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-210324232",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-210324232?l=en-us",
+      "attributes": {
+       "name": "Bonobo",
+       "address": {
+        "formattedAddressLine": [
+         "2nd floor",
+         "400050",
+         "Mumbai",
+         "MH",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "2nd floor",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "MH",
+         "city": "Mumbai",
+         "postCode": "400050"
+        }
+       },
+       "geo": {
+        "lat": 19.0655221,
+        "lng": 72.8340542
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=19.0655221&lng=72.8340542&token=f7f667ff9da84a7e89635c89286777a9"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "da73e54c-8fd2-4091-97df-297e2e7262e8",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/da73e54c-8fd2-4091-97df-297e2e7262e8?l=en-us",
+     "attributes": {
+      "name": "Swanand Kirkire Concert",
+      "time": {
+       "startTime": "2026-09-24T04:52:00Z",
+       "endTime": "2026-09-24T08:52:00Z",
+       "announcementTime": "2026-08-12T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Thursday",
+       "month": "Sep",
+       "date": "24",
+       "fullday": "Thursday, September 24, 2026",
+       "fulldate": "Sep 24, 2026",
+       "startHourMin": "10:22 AM",
+       "fulldatetime": "Sep 24, 2026, 10:22 AM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108768607?ticket_id=2048849256&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/da73e54c-8fd2-4091-97df-297e2e7262e8",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108768607?ticket_id=2048849256&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108768607?ticket_id=2048849256&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108768607?ticket_id=2048849256&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "216004399",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-308768607",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "216004399",
+      "attributes": {
+       "name": "Swanand Kirkire",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/a5/a5/9f/a5a59fd8-e410-8cdc-e2bf-83a0529ab39c/file_cropped.png/{w}x{h}bb.jpg",
+        "width": 1179,
+        "height": 1179,
+        "textColor1": "160804",
+        "textColor2": "241f19",
+        "textColor3": "382b21",
+        "textColor4": "433d32",
+        "bgColor": "c0b896",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/swanand-kirkire/216004399"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1263",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-308768607",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-308768607?l=en-us",
+      "attributes": {
+       "name": "Ziro Valley : Arunachal Pradesh",
+       "address": {
+        "formattedAddressLine": [
+         "Ziro",
+         "India"
+        ],
+        "structuredAddress": {
+         "country": "India",
+         "countryIsoCode": "IN",
+         "city": "Ziro"
+        }
+       },
+       "geo": {
+        "lat": 27.59497,
+        "lng": 93.83854
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=27.59497&lng=93.83854&token=3edccfd6484b402650d9e99600a1f898"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "fc69728c-fdcc-4ace-883a-24d5e5c31854",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/fc69728c-fdcc-4ace-883a-24d5e5c31854?l=en-us",
+     "attributes": {
+      "name": "Wraith V Concert",
+      "time": {
+       "startTime": "2026-09-24T12:30:00Z",
+       "endTime": "2026-09-24T14:00:00Z",
+       "announcementTime": "2026-09-01T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Thursday",
+       "month": "Sep",
+       "date": "24",
+       "fullday": "Thursday, September 24, 2026",
+       "fulldate": "Sep 24, 2026",
+       "startHourMin": "6:00 PM",
+       "fulldatetime": "Sep 24, 2026, 6:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 1.5,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108849925?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/fc69728c-fdcc-4ace-883a-24d5e5c31854",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108849925?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108849925?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108849925?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1445338833",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "IBE5C724486225705",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:21:_artists",
+     "_venues": {
+      "id": "IBE5C724486225705",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/IBE5C724486225705?l=en-us",
+      "attributes": {
+       "name": "antiSOCIAL",
+       "address": {
+        "formattedAddressLine": [
+         "Mathuradas Mill Compound 242",
+         "400013",
+         "Mumbai",
+         "MH",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Mathuradas Mill Compound 242",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "MH",
+         "city": "Mumbai",
+         "postCode": "400013"
+        }
+       },
+       "geo": {
+        "lat": 18.999054,
+        "lng": 72.829873
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=18.999054&lng=72.829873&token=bd9d08e37b18279ea44a16aaea0676fe"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "0e316a20-587c-4de1-9c87-8ace6878d7d7",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/0e316a20-587c-4de1-9c87-8ace6878d7d7?l=en-us",
+     "attributes": {
+      "name": "MHR Concert",
+      "time": {
+       "startTime": "2026-09-24T14:30:00Z",
+       "endTime": "2026-09-24T18:00:00Z",
+       "announcementTime": "2026-09-03T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Thursday",
+       "month": "Sep",
+       "date": "24",
+       "fullday": "Thursday, September 24, 2026",
+       "fulldate": "Sep 24, 2026",
+       "startHourMin": "8:00 PM",
+       "fulldatetime": "Sep 24, 2026, 8:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 3.5,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108861805?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/0e316a20-587c-4de1-9c87-8ace6878d7d7",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108861805?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108861805?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108861805?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1477345165",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "IBE5C724486225705",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:9:_artists",
+     "_venues": "$10:props:events:33:_venues",
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "02d16673-2262-4ad6-aeb1-f50427d2bfc6",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/02d16673-2262-4ad6-aeb1-f50427d2bfc6?l=en-us",
+     "attributes": {
+      "name": "Marta Pereira da Costa Concert",
+      "time": {
+       "startTime": "2026-09-24T13:30:00Z",
+       "endTime": "2026-09-24T15:30:00Z",
+       "announcementTime": "2026-09-01T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Thursday",
+       "month": "Sep",
+       "date": "24",
+       "fullday": "Thursday, September 24, 2026",
+       "fulldate": "Sep 24, 2026",
+       "startHourMin": "7:00 PM",
+       "fulldatetime": "Sep 24, 2026, 7:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 2,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108850341?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/02d16673-2262-4ad6-aeb1-f50427d2bfc6",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108850341?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108850341?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108850341?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "694165368",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10278418",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "694165368",
+      "attributes": {
+       "name": "Marta Pereira da Costa",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/59/c6/4c/59c64c1b-387e-093f-5f9c-df77cf8a49ef/ami-identity-abf1c82283064e5b179988f86c2f80c0-2025-04-20T20-51-12.323Z_cropped.png/{w}x{h}bb.jpg",
+        "width": 2741,
+        "height": 2741,
+        "textColor1": "ebc9b2",
+        "textColor2": "f05c56",
+        "textColor3": "bea28f",
+        "textColor4": "c24c45",
+        "bgColor": "0a0a01",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/marta-pereira-da-costa/694165368"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "19",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10278418",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10278418?l=en-us",
+      "attributes": {
+       "name": "Ravindra Bhavan",
+       "address": {
+        "formattedAddressLine": [
+         "near State Highway 5",
+         "403602",
+         "Margao",
+         "GA",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "near State Highway 5",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "GA",
+         "city": "Margao",
+         "postCode": "403602"
+        }
+       },
+       "geo": {
+        "lat": 15.2853271,
+        "lng": 73.9629781
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=15.2853271&lng=73.9629781&token=78badef115b7cadc7c4c7fffb5e29631"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "433b7c94-b609-4067-afde-00715eb339de",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/433b7c94-b609-4067-afde-00715eb339de?l=en-us",
+     "attributes": {
+      "name": "Amani Kl10 Concert",
+      "time": {
+       "startTime": "2026-09-24T12:30:00Z",
+       "endTime": "2026-09-24T18:00:00Z",
+       "announcementTime": "2026-09-06T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Thursday",
+       "month": "Sep",
+       "date": "24",
+       "fullday": "Thursday, September 24, 2026",
+       "fulldate": "Sep 24, 2026",
+       "startHourMin": "6:00 PM",
+       "fulldatetime": "Sep 24, 2026, 6:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 5.5,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108871410?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/433b7c94-b609-4067-afde-00715eb339de",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108871410?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108871410?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108871410?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1624128004",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "IBE5C724486225705",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:14:_artists",
+     "_venues": "$10:props:events:33:_venues",
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "42f01743-8eec-42f6-8bb9-88db4d86480e",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/42f01743-8eec-42f6-8bb9-88db4d86480e?l=en-us",
+     "attributes": {
+      "name": "Rhythm Shaw Concert",
+      "time": {
+       "startTime": "2026-09-24T14:30:00Z",
+       "endTime": "2026-09-24T18:30:00Z",
+       "announcementTime": "2026-09-07T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Thursday",
+       "month": "Sep",
+       "date": "24",
+       "fullday": "Thursday, September 24, 2026",
+       "fulldate": "Sep 24, 2026",
+       "startHourMin": "8:00 PM",
+       "fulldatetime": "Sep 24, 2026, 8:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108874926?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/42f01743-8eec-42f6-8bb9-88db4d86480e",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108874926?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108874926?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108874926?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1042208011",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10562470",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:15:_artists",
+     "_venues": "$10:props:events:4:_venues",
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "1acac53f-096c-4f2b-af47-ef58aabc21b3",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/1acac53f-096c-4f2b-af47-ef58aabc21b3?l=en-us",
+     "attributes": {
+      "name": "GYMV Concert",
+      "time": {
+       "startTime": "2026-09-24T09:30:00Z",
+       "endTime": "2026-09-27T18:00:00Z",
+       "announcementTime": "2026-09-13T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Thursday",
+       "month": "Sep",
+       "date": "24",
+       "fullday": "Thursday, September 24, 2026",
+       "fulldate": "Sep 24, 2026",
+       "startHourMin": "3:00 PM",
+       "fulldatetime": "Sep 24, 2026, 3:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 80.5,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108899054?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/1acac53f-096c-4f2b-af47-ef58aabc21b3",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108899054?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108899054?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108899054?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1794994851",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-210457346",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1794994851",
+      "attributes": {
+       "name": "GYMV",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/81/63/53/816353f5-b0a9-5a70-b19d-ed458a54ea68/file_cropped.png/{w}x{h}bb.jpg",
+        "width": 2000,
+        "height": 2000,
+        "textColor1": "ede5e3",
+        "textColor2": "dfd7cf",
+        "textColor3": "c0bab8",
+        "textColor4": "b6afa8",
+        "bgColor": "0f100c",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/gymv/1794994851"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "100020",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-210457346",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-210457346?l=en-us",
+      "attributes": {
+       "name": "ZIRO VALLEY TOURISM - ARUNACHAL PRADESH",
+       "address": {
+        "formattedAddressLine": [
+         "C/O ANAND DAS",
+         "781028",
+         "Guwahati",
+         "AS",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "C/O ANAND DAS",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "AS",
+         "city": "Guwahati",
+         "postCode": "781028"
+        }
+       },
+       "geo": {
+        "lat": 26.124052,
+        "lng": 91.797292
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=26.124052&lng=91.797292&token=966f893ec66b1191ef433f2830600e9b"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "3beb64d8-33ff-4a42-9578-692e789b6ae4",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/3beb64d8-33ff-4a42-9578-692e789b6ae4?l=en-us",
+     "attributes": {
+      "name": "SOLTO (FR) Concert",
+      "time": {
+       "startTime": "2026-09-25T17:30:00Z",
+       "endTime": "2026-09-25T21:30:00Z",
+       "announcementTime": "2026-06-11T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Friday",
+       "month": "Sep",
+       "date": "25",
+       "fullday": "Friday, September 25, 2026",
+       "fulldate": "Sep 25, 2026",
+       "startHourMin": "11:00 PM",
+       "fulldatetime": "Sep 25, 2026, 11:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108515840?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/3beb64d8-33ff-4a42-9578-692e789b6ae4",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108515840?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108515840?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108515840?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1849715875",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10482281",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1849715875",
+      "attributes": {
+       "name": "SOLTO (FR)",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/dd/07/f3/dd07f340-6b00-d548-1e85-3a8b13c0febe/file_cropped.png/{w}x{h}bb.jpg",
+        "width": 4984,
+        "height": 4984,
+        "textColor1": "e2bdb1",
+        "textColor2": "d7a788",
+        "textColor3": "b99b90",
+        "textColor4": "b1896f",
+        "bgColor": "19120c",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/solto-fr/1849715875"
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10482281",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10482281?l=en-us",
+      "attributes": {
+       "name": "Bağlami | Bağlamı Bombay",
+       "address": {
+        "formattedAddressLine": [
+         "Opp NMACC",
+         "400051",
+         "Mumbai",
+         "MH",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Opp NMACC",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "MH",
+         "city": "Mumbai",
+         "postCode": "400051"
+        }
+       },
+       "geo": {
+        "lat": 19.0668943,
+        "lng": 72.86659879999999
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=19.0668943&lng=72.86659879999999&token=b41c1d4106c4abfd40e9fe7af06f76d1"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "c1b9f46c-4408-4348-9238-5355779c3f18",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/c1b9f46c-4408-4348-9238-5355779c3f18?l=en-us",
+     "attributes": {
+      "name": "Akhil Sachdeva Concert",
+      "time": {
+       "startTime": "2026-09-25T15:30:00Z",
+       "endTime": "2026-09-25T19:30:00Z",
+       "announcementTime": "2026-07-28T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Friday",
+       "month": "Sep",
+       "date": "25",
+       "fullday": "Friday, September 25, 2026",
+       "fulldate": "Sep 25, 2026",
+       "startHourMin": "9:00 PM",
+       "fulldatetime": "Sep 25, 2026, 9:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108707549?ticket_id=2046956458&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/c1b9f46c-4408-4348-9238-5355779c3f18",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108707549?ticket_id=2046956458&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108707549?ticket_id=2046956458&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108707549?ticket_id=2046956458&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1205913414",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-308707549",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:3:_artists",
+     "_venues": {
+      "id": "06bd999b-308707549",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-308707549?l=en-us",
+      "attributes": {
+       "name": "Kolkata",
+       "address": {
+        "formattedAddressLine": [
+         "Kolkata",
+         "India"
+        ],
+        "structuredAddress": {
+         "country": "India",
+         "countryIsoCode": "IN",
+         "city": "Kolkata"
+        }
+       },
+       "geo": {
+        "lat": 22.56263,
+        "lng": 88.36304
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=22.56263&lng=88.36304&token=aa3720e9625dacf93d81565960db1a03"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "a3e72a59-3bf3-46ac-850f-cec653f884a8",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/a3e72a59-3bf3-46ac-850f-cec653f884a8?l=en-us",
+     "attributes": {
+      "name": "The Yellow Diary Concert",
+      "time": {
+       "startTime": "2026-09-25T15:30:00Z",
+       "endTime": "2026-09-25T19:30:00Z",
+       "announcementTime": "2026-07-28T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Friday",
+       "month": "Sep",
+       "date": "25",
+       "fullday": "Friday, September 25, 2026",
+       "fulldate": "Sep 25, 2026",
+       "startHourMin": "9:00 PM",
+       "fulldatetime": "Sep 25, 2026, 9:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108706387?ticket_id=2046920436&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/a3e72a59-3bf3-46ac-850f-cec653f884a8",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108706387?ticket_id=2046920436&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108706387?ticket_id=2046920436&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108706387?ticket_id=2046920436&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1375506247",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-308706387",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:5:_artists",
+     "_venues": {
+      "id": "06bd999b-308706387",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-308706387?l=en-us",
+      "attributes": {
+       "name": "Nagpur",
+       "address": {
+        "formattedAddressLine": [
+         "Nāgpur",
+         "India"
+        ],
+        "structuredAddress": {
+         "country": "India",
+         "countryIsoCode": "IN",
+         "city": "Nāgpur"
+        }
+       },
+       "geo": {
+        "lat": 20.56524,
+        "lng": 80.59258
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=20.56524&lng=80.59258&token=226cef5c9f464a12e4fe716abbc5d7b8"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "8870a2db-cdfb-4303-90e0-95dbb1c4f925",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/8870a2db-cdfb-4303-90e0-95dbb1c4f925?l=en-us",
+     "attributes": {
+      "name": "Twin Strings Concert",
+      "time": {
+       "startTime": "2026-09-25T15:30:00Z",
+       "endTime": "2026-09-25T17:30:00Z",
+       "announcementTime": "2026-09-07T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Friday",
+       "month": "Sep",
+       "date": "25",
+       "fullday": "Friday, September 25, 2026",
+       "fulldate": "Sep 25, 2026",
+       "startHourMin": "9:00 PM",
+       "fulldatetime": "Sep 25, 2026, 9:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 2,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108873521?ticket_id=2052101590&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/8870a2db-cdfb-4303-90e0-95dbb1c4f925",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108873521?ticket_id=2052101590&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108873521?ticket_id=2052101590&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108873521?ticket_id=2052101590&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1449458159",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10459814",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1449458159",
+      "attributes": {
+       "name": "Twin Strings",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/62/da/48/62da48be-32fd-b658-8e6d-50be9bb3cb1a/pr_source.png/{w}x{h}bb.jpg",
+        "width": 1000,
+        "height": 1000,
+        "textColor1": "f2f6f9",
+        "textColor2": "9cd0f7",
+        "textColor3": "c4d7e5",
+        "textColor4": "7fb8e3",
+        "bgColor": "0a5895",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/twin-strings/1449458159"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1185",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10459814",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10459814?l=en-us",
+      "attributes": {
+       "name": "HASHTAG KOLKATA",
+       "address": {
+        "formattedAddressLine": [
+         "8th floor",
+         "700071",
+         "Kolkata",
+         "WB",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "8th floor",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "WB",
+         "city": "Kolkata",
+         "postCode": "700071"
+        }
+       },
+       "geo": {
+        "lat": 22.5450368,
+        "lng": 88.34798959999999
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=22.5450368&lng=88.34798959999999&token=f95e5b1aeb6907587cbb3f8285af0f70"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "d44dba4a-3707-49ba-8428-8fa9711e2560",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/d44dba4a-3707-49ba-8428-8fa9711e2560?l=en-us",
+     "attributes": {
+      "name": "Marta Pereira da Costa Concert",
+      "time": {
+       "startTime": "2026-09-25T16:00:00Z",
+       "endTime": "2026-09-25T17:30:00Z",
+       "announcementTime": "2026-09-01T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Friday",
+       "month": "Sep",
+       "date": "25",
+       "fullday": "Friday, September 25, 2026",
+       "fulldate": "Sep 25, 2026",
+       "startHourMin": "9:30 PM",
+       "fulldatetime": "Sep 25, 2026, 9:30 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 1.5,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108850389?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/d44dba4a-3707-49ba-8428-8fa9711e2560",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108850389?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108850389?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108850389?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "694165368",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10320796",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:35:_artists",
+     "_venues": {
+      "id": "06bd999b-10320796",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10320796?l=en-us",
+      "attributes": {
+       "name": "Windmills CraftWorks",
+       "address": {
+        "formattedAddressLine": [
+         "TOWER-1",
+         "560048",
+         "Bengaluru",
+         "KA",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "TOWER-1",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "KA",
+         "city": "Bengaluru",
+         "postCode": "560048"
+        }
+       },
+       "geo": {
+        "lat": 12.9823834,
+        "lng": 77.72182099999999
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=12.9823834&lng=77.72182099999999&token=1c35718597f4ba23c21a22546be371d8"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "3f9d728c-9596-4767-adba-275b5c3cc018",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/3f9d728c-9596-4767-adba-275b5c3cc018?l=en-us",
+     "attributes": {
+      "name": "Rhythm Shaw Concert",
+      "time": {
+       "startTime": "2026-09-25T14:30:00Z",
+       "endTime": "2026-09-25T18:30:00Z",
+       "announcementTime": "2026-09-07T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Friday",
+       "month": "Sep",
+       "date": "25",
+       "fullday": "Friday, September 25, 2026",
+       "fulldate": "Sep 25, 2026",
+       "startHourMin": "8:00 PM",
+       "fulldatetime": "Sep 25, 2026, 8:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108874929?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/3f9d728c-9596-4767-adba-275b5c3cc018",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108874929?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108874929?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108874929?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1042208011",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10393046",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:15:_artists",
+     "_venues": {
+      "id": "06bd999b-10393046",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10393046?l=en-us",
+      "attributes": {
+       "name": "Freemason’s Brewworks",
+       "address": {
+        "formattedAddressLine": [
+         "5th Floor, City Center Mall, GS Rd, near Apollo Hospital, Ganeshguri,",
+         "781005",
+         "Guwahati",
+         "AS",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "5th Floor, City Center Mall, GS Rd, near Apollo Hospital, Ganeshguri,",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "AS",
+         "city": "Guwahati",
+         "postCode": "781005"
+        }
+       },
+       "geo": {
+        "lat": 26.1547193,
+        "lng": 91.78151609999999
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=26.1547193&lng=91.78151609999999&token=ff211fa37887fcedefde404ecfdcf31a"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "23e5fdc7-4dd3-4ae9-b2ac-1213dfef7fa1",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/23e5fdc7-4dd3-4ae9-b2ac-1213dfef7fa1?l=en-us",
+     "attributes": {
+      "name": "Hulo Concert",
+      "time": {
+       "startTime": "2026-09-25T13:30:00Z",
+       "endTime": "2026-09-25T16:30:00Z",
+       "announcementTime": "2026-09-10T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Friday",
+       "month": "Sep",
+       "date": "25",
+       "fullday": "Friday, September 25, 2026",
+       "fulldate": "Sep 25, 2026",
+       "startHourMin": "7:00 PM",
+       "fulldatetime": "Sep 25, 2026, 7:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 3,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108889790?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/23e5fdc7-4dd3-4ae9-b2ac-1213dfef7fa1",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108889790?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108889790?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108889790?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1756067591",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-210651216",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:16:_artists",
+     "_venues": {
+      "id": "06bd999b-210651216",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-210651216?l=en-us",
+      "attributes": {
+       "name": "away.center-coworking spaces (koramangla)",
+       "address": {
+        "formattedAddressLine": [
+         "3rd Floor",
+         "560095",
+         "Bengaluru",
+         "KA",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "3rd Floor",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "KA",
+         "city": "Bengaluru",
+         "postCode": "560095"
+        }
+       },
+       "geo": {
+        "lat": 12.9355566,
+        "lng": 77.61528640000002
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=12.9355566&lng=77.61528640000002&token=c849b2ac6752438d2435cbf27b24f7de"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "099f3533-fcc7-4c78-b812-98f4656d2248",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/099f3533-fcc7-4c78-b812-98f4656d2248?l=en-us",
+     "attributes": {
+      "name": "Brian Citro Concert",
+      "time": {
+       "startTime": "2026-09-25T14:00:00Z",
+       "endTime": "2026-09-25T17:30:00Z",
+       "announcementTime": "2026-09-10T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Friday",
+       "month": "Sep",
+       "date": "25",
+       "fullday": "Friday, September 25, 2026",
+       "fulldate": "Sep 25, 2026",
+       "startHourMin": "7:30 PM",
+       "fulldatetime": "Sep 25, 2026, 7:30 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 3.5,
+       "isJustAnnounced": true,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/e/108891721?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/099f3533-fcc7-4c78-b812-98f4656d2248",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108891721?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/e/108891721?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/e/108891721?app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=event",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1890972808",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10206205",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1890972808",
+      "attributes": {
+       "name": "Brian Citro",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/71/70/e5/7170e571-6fae-e1bb-3647-9735d9bbb287/ami-identity-9fd0e5fef5d45dab3e9367cc78dcafa7-2026-06-05T17-06-05.646Z_cropped.png/{w}x{h}bb.jpg",
+        "width": 1847,
+        "height": 1847,
+        "textColor1": "0c0c07",
+        "textColor2": "1b1b16",
+        "textColor3": "383935",
+        "textColor4": "444541",
+        "bgColor": "e9edeb",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/brian-citro/1890972808"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "11",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": "$10:props:events:16:_venues",
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "216f786e-291b-4bc3-95ec-30b5dfa0ef7e",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/216f786e-291b-4bc3-95ec-30b5dfa0ef7e?l=en-us",
+     "attributes": {
+      "name": "Harshdeep Kaur Concert",
+      "time": {
+       "startTime": "2026-09-26T13:30:00Z",
+       "endTime": "2026-09-26T17:30:00Z",
+       "announcementTime": "2026-07-28T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "26",
+       "fullday": "Saturday, September 26, 2026",
+       "fulldate": "Sep 26, 2026",
+       "startHourMin": "7:00 PM",
+       "fulldatetime": "Sep 26, 2026, 7:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108706355?ticket_id=2046919444&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/216f786e-291b-4bc3-95ec-30b5dfa0ef7e",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108706355?ticket_id=2046919444&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108706355?ticket_id=2046919444&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108706355?ticket_id=2046919444&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "266191448",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10593491",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "266191448",
+      "attributes": {
+       "name": "Harshdeep Kaur",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/5a/3c/84/5a3c84e4-7597-c3d1-1c7f-81688c916b38/mza_18425542330730153448.png/{w}x{h}bb.jpg",
+        "width": 3840,
+        "height": 3840,
+        "textColor1": "020000",
+        "textColor2": "050201",
+        "textColor3": "2c0d0f",
+        "textColor4": "2f0e11",
+        "bgColor": "d5414f",
+        "hasP3": true
+       },
+       "url": "https://music.apple.com/in/artist/harshdeep-kaur/266191448"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1185",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": {
+      "id": "06bd999b-10593491",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10593491?l=en-us",
+      "attributes": {
+       "name": "World Street, Down Town New Chandigarh",
+       "address": {
+        "formattedAddressLine": [
+         "Omaxe World Street",
+         "140901",
+         "New Chandigarh",
+         "PB",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Omaxe World Street",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "PB",
+         "city": "New Chandigarh",
+         "postCode": "140901"
+        }
+       },
+       "geo": {
+        "lat": 30.8224527,
+        "lng": 76.7325631
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=30.8224527&lng=76.7325631&token=8038311fdc97fde09fde5920b4ceb30a"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "84d0feb6-4939-44ad-94d7-cb878aad76d2",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/84d0feb6-4939-44ad-94d7-cb878aad76d2?l=en-us",
+     "attributes": {
+      "name": "Akhil Sachdeva Concert",
+      "time": {
+       "startTime": "2026-09-26T15:30:00Z",
+       "endTime": "2026-09-26T19:30:00Z",
+       "announcementTime": "2026-08-21T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "26",
+       "fullday": "Saturday, September 26, 2026",
+       "fulldate": "Sep 26, 2026",
+       "startHourMin": "9:00 PM",
+       "fulldatetime": "Sep 26, 2026, 9:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108804652?ticket_id=2049966651&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/84d0feb6-4939-44ad-94d7-cb878aad76d2",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108804652?ticket_id=2049966651&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108804652?ticket_id=2049966651&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108804652?ticket_id=2049966651&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1205913414",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10640952",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": "$10:props:events:3:_artists",
+     "_venues": {
+      "id": "06bd999b-10640952",
+      "href": "https://cdn.shazam.com/event/v2/IN/venues/06bd999b-10640952?l=en-us",
+      "attributes": {
+       "name": "Odiin Experiences",
+       "address": {
+        "formattedAddressLine": [
+         "Block 1",
+         "781005",
+         "Guwahati",
+         "AS",
+         "India"
+        ],
+        "structuredAddress": {
+         "address": "Block 1",
+         "country": "India",
+         "countryIsoCode": "IN",
+         "region": "AS",
+         "city": "Guwahati",
+         "postCode": "781005"
+        }
+       },
+       "geo": {
+        "lat": 26.1545251,
+        "lng": 91.78326779999999
+       },
+       "mapImageUrl": "https://www.shazam.com/services/musicevents/snapshot/en-us/IN/{w}x{h}?lat=26.1545251&lng=91.78326779999999&token=6747b57c3ba5bed032beaf88a16fc22b"
+      },
+      "type": "venues"
+     },
+     "appleMusicCuratedPageUrl": ""
+    },
+    {
+     "id": "02fc9ed3-01fb-455b-9dce-95983477c63c",
+     "href": "https://cdn.shazam.com/event/v2/IN/shazam-events/02fc9ed3-01fb-455b-9dce-95983477c63c?l=en-us",
+     "attributes": {
+      "name": "Varun Jain Concert",
+      "time": {
+       "startTime": "2026-09-26T15:30:00Z",
+       "endTime": "2026-09-26T19:30:00Z",
+       "announcementTime": "2026-08-05T00:00:00Z",
+       "timezone": "Asia/Kolkata",
+       "day": "Saturday",
+       "month": "Sep",
+       "date": "26",
+       "fullday": "Saturday, September 26, 2026",
+       "fulldate": "Sep 26, 2026",
+       "startHourMin": "9:00 PM",
+       "fulldatetime": "Sep 26, 2026, 9:00 PM",
+       "timezoneAbbrevation": "GMT+5:30",
+       "duration": 4,
+       "isJustAnnounced": false,
+       "isFuture": true,
+       "isPreShow": true,
+       "isPostShow": false,
+       "isLeadUpShow": false,
+       "isActiveShow": false
+      },
+      "url": "https://www.bandsintown.com/t/108740642?ticket_id=2047982341&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+      "isVirtual": false,
+      "removed": false,
+      "hasPostShowContent": false,
+      "allowsSubscriptions": true,
+      "webUrl": "https://www.shazam.com/event/02fc9ed3-01fb-455b-9dce-95983477c63c",
+      "tickets": {
+       "provider": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108740642?ticket_id=2047982341&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "links": [
+        {
+         "vendor": "Bandsintown",
+         "url": "https://www.bandsintown.com/t/108740642?ticket_id=2047982341&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+         "order": 1
+        }
+       ]
+      },
+      "provider": {
+       "name": "Bandsintown",
+       "url": "https://www.bandsintown.com/t/108740642?ticket_id=2047982341&app_id=szm_feed&came_from=283&utm_medium=web&utm_source=szm_feed&utm_campaign=ticket",
+       "attribution": {
+        "logo": "https://is2-ssl.mzstatic.com/image/thumb/OZIuvfoPZqeBsb-I0X4MHQ/{w}x{h}h.png"
+       }
+      },
+      "kind": "MUSIC"
+     },
+     "relationships": {
+      "artists": {
+       "data": [
+        {
+         "id": "1207761226",
+         "type": "artists"
+        }
+       ]
+      },
+      "venues": {
+       "data": [
+        {
+         "id": "06bd999b-10634163",
+         "type": "venues"
+        }
+       ]
+      }
+     },
+     "type": "shazam-events",
+     "_artists": {
+      "id": "1207761226",
+      "attributes": {
+       "name": "Varun Jain",
+       "artwork": {
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/55/be/3f/55be3f23-03ca-54f5-5447-ab36c087f9bb/826e55cd-df16-4df1-87e2-a6b595c3d6eb_file_cropped.png/{w}x{h}bb.jpg",
+        "width": 1170,
+        "height": 1170,
+        "textColor1": "020202",
+        "textColor2": "131313",
+        "textColor3": "1a1a1a",
+        "textColor4": "282828",
+        "bgColor": "7b7b7b",
+        "hasP3": false
+       },
+       "url": "https://music.apple.com/in/artist/varun-jain/1207761226"
+      },
+      "relationships": {
+       "genres": {
+        "data": [
+         {
+          "id": "1263",
+          "type": "genres"
+         }
+        ]
+       }
+      },
+      "type": "artists"
+     },
+     "_venues": "$10:props:events:28:_venues",
+     "appleMusicCuratedPageUrl": ""
+    }
+   ],
+   "isGenresEnabled": true,
+   "localGenres": {
+    "5": {
+     "name": "Classical",
+     "count": 2
+    },
+    "7": {
+     "name": "Electronic",
+     "count": 2
+    },
+    "10": {
+     "name": "Singer/Songwriter",
+     "count": 1
+    },
+    "11": {
+     "name": "Jazz",
+     "count": 4
+    },
+    "17": {
+     "name": "Dance",
+     "count": 1
+    },
+    "18": {
+     "name": "Hip-Hop/Rap",
+     "count": 10
+    },
+    "19": {
+     "name": "World",
+     "count": 6
+    },
+    "21": {
+     "name": "Rock",
+     "count": 3
+    },
+    "22": {
+     "name": "Christian & Gospel",
+     "count": 1
+    },
+    "1134": {
+     "name": "Soft Rock",
+     "count": 2
+    },
+    "1144": {
+     "name": "Adult Alternative",
+     "count": 1
+    },
+    "1185": {
+     "name": "Indian Pop",
+     "count": 4
+    },
+    "1263": {
+     "name": "Bollywood",
+     "count": 6
+    },
+    "1264": {
+     "name": "Tamil",
+     "count": 1
+    },
+    "1265": {
+     "name": "Telugu",
+     "count": 1
+    },
+    "1267": {
+     "name": "Devotional & Spiritual",
+     "count": 1
+    },
+    "1268": {
+     "name": "Sufi & Ghazals",
+     "count": 1
+    },
+    "1269": {
+     "name": "Indian Classical",
+     "count": 1
+    },
+    "100020": {
+     "name": "Indie Pop",
+     "count": 1
+    }
+   },
+   "children": [
+    "$L100",
+    "$L101"
+   ]
+  }
+ ],
+ "fe": [
+  "$",
+  "$L103",
+  null,
+  {
+   "badgeConfig": {
+    "text": {
+     "new": "New",
+     "nearby": "Nearby"
+    },
+    "size": "small",
+    "screenName": "events_event"
+   },
+   "genres": {
+    "5": {
+     "id": "5",
+     "attributes": {
+      "name": "Classical"
+     },
+     "type": "genres"
+    },
+    "7": {
+     "id": "7",
+     "attributes": {
+      "name": "Electronic"
+     },
+     "type": "genres"
+    },
+    "10": {
+     "id": "10",
+     "attributes": {
+      "name": "Singer/Songwriter"
+     },
+     "type": "genres"
+    },
+    "11": {
+     "id": "11",
+     "attributes": {
+      "name": "Jazz"
+     },
+     "type": "genres"
+    },
+    "17": {
+     "id": "17",
+     "attributes": {
+      "name": "Dance"
+     },
+     "type": "genres"
+    },
+    "18": {
+     "id": "18",
+     "attributes": {
+      "name": "Hip-Hop/Rap"
+     },
+     "type": "genres"
+    },
+    "19": {
+     "id": "19",
+     "attributes": {
+      "name": "World"
+     },
+     "type": "genres"
+    },
+    "21": {
+     "id": "21",
+     "attributes": {
+      "name": "Rock"
+     },
+     "type": "genres"
+    },
+    "22": {
+     "id": "22",
+     "attributes": {
+      "name": "Christian & Gospel"
+     },
+     "type": "genres"
+    },
+    "1134": {
+     "id": "1134",
+     "attributes": {
+      "name": "Soft Rock"
+     },
+     "type": "genres"
+    },
+    "1144": {
+     "id": "1144",
+     "attributes": {
+      "name": "Adult Alternative"
+     },
+     "type": "genres"
+    },
+    "1185": {
+     "id": "1185",
+     "attributes": {
+      "name": "Indian Pop"
+     },
+     "type": "genres"
+    },
+    "1263": {
+     "id": "1263",
+     "attributes": {
+      "name": "Bollywood"
+     },
+     "type": "genres"
+    },
+    "1264": {
+     "id": "1264",
+     "attributes": {
+      "name": "Tamil"
+     },
+     "type": "genres"
+    },
+    "1265": {
+     "id": "1265",
+     "attributes": {
+      "name": "Telugu"
+     },
+     "type": "genres"
+    },
+    "1267": {
+     "id": "1267",
+     "attributes": {
+      "name": "Devotional & Spiritual"
+     },
+     "type": "genres"
+    },
+    "1268": {
+     "id": "1268",
+     "attributes": {
+      "name": "Sufi & Ghazals"
+     },
+     "type": "genres"
+    },
+    "1269": {
+     "id": "1269",
+     "attributes": {
+      "name": "Indian Classical"
+     },
+     "type": "genres"
+    },
+    "100020": {
+     "id": "100020",
+     "attributes": {
+      "name": "Indie Pop"
+     },
+     "type": "genres"
+    }
+   },
+   "events": [
+    "$10:props:events:0",
+    "$10:props:events:1",
+    "$10:props:events:2",
+    "$10:props:events:3",
+    "$10:props:events:4",
+    "$10:props:events:5",
+    "$10:props:events:6",
+    "$10:props:events:7",
+    "$10:props:events:8",
+    "$10:props:events:9",
+    "$10:props:events:10",
+    "$10:props:events:11",
+    "$10:props:events:12",
+    "$10:props:events:13",
+    "$10:props:events:14",
+    "$10:props:events:15",
+    "$10:props:events:16",
+    "$10:props:events:17",
+    "$10:props:events:18",
+    "$10:props:events:19",
+    "$10:props:events:20",
+    "$10:props:events:21",
+    "$10:props:events:22",
+    "$10:props:events:23",
+    "$10:props:events:24",
+    "$10:props:events:25",
+    "$10:props:events:26",
+    "$10:props:events:27",
+    "$10:props:events:28",
+    "$10:props:events:29",
+    "$10:props:events:30",
+    "$10:props:events:31",
+    "$10:props:events:32",
+    "$10:props:events:33",
+    "$10:props:events:34",
+    "$10:props:events:35",
+    "$10:props:events:36",
+    "$10:props:events:37",
+    "$10:props:events:38",
+    "$10:props:events:39",
+    "$10:props:events:40",
+    "$10:props:events:41",
+    "$10:props:events:42",
+    "$10:props:events:43",
+    "$10:props:events:44",
+    "$10:props:events:45",
+    "$10:props:events:46",
+    "$10:props:events:47",
+    "$10:props:events:48",
+    "$10:props:events:49"
+   ],
+   "next": "/event/v2/IN/shazam-events?l=en-us&countryCode=IN&filter%5BisFuture%5D=true&limit=50&filter%5Bartists.genre.id%5D=&offset=50",
+   "error": "$undefined",
+   "filters": "$11:1:props:children:props:filters",
+   "localGenres": {
+    "5": {
+     "name": "Classical",
+     "count": 2
+    },
+    "7": {
+     "name": "Electronic",
+     "count": 2
+    },
+    "10": {
+     "name": "Singer/Songwriter",
+     "count": 1
+    },
+    "11": {
+     "name": "Jazz",
+     "count": 4
+    },
+    "17": {
+     "name": "Dance",
+     "count": 1
+    },
+    "18": {
+     "name": "Hip-Hop/Rap",
+     "count": 10
+    },
+    "19": {
+     "name": "World",
+     "count": 6
+    },
+    "21": {
+     "name": "Rock",
+     "count": 3
+    },
+    "22": {
+     "name": "Christian & Gospel",
+     "count": 1
+    },
+    "1134": {
+     "name": "Soft Rock",
+     "count": 2
+    },
+    "1144": {
+     "name": "Adult Alternative",
+     "count": 1
+    },
+    "1185": {
+     "name": "Indian Pop",
+     "count": 4
+    },
+    "1263": {
+     "name": "Bollywood",
+     "count": 6
+    },
+    "1264": {
+     "name": "Tamil",
+     "count": 1
+    },
+    "1265": {
+     "name": "Telugu",
+     "count": 1
+    },
+    "1267": {
+     "name": "Devotional & Spiritual",
+     "count": 1
+    },
+    "1268": {
+     "name": "Sufi & Ghazals",
+     "count": 1
+    },
+    "1269": {
+     "name": "Indian Classical",
+     "count": 1
+    },
+    "100020": {
+     "name": "Indie Pop",
+     "count": 1
+    }
+   }
+  }
+ ]
+}
