@@ -136,7 +136,11 @@ def test_track_page_extraction(monkeypatch):
 
 def test_artist_page_extraction(monkeypatch):
     rows = fixture("page_rows_artist_567072")
-    html = open(os.path.join(FIXTURES, "page_artist_567072_head.html")).read() + "<script>self.__next_f</script>"
+    # 2026-10-06: concert links live in the page's ld+json MusicGroup (MusicEvent @ids), not the flight
+    html = (open(os.path.join(FIXTURES, "page_artist_567072_head.html")).read()
+            + '<script type="application/ld+json">{"@type":"MusicGroup","event":[{"@type":"MusicEvent",'
+              '"@id":"https://www.shazam.com/event/9465ad18-3f77-4518-a058-0b625a7e3a28"}]}</script>'
+            + "<script>self.__next_f</script>")
     monkeypatch.setattr(pages.rsc, "page_rows", lambda h: rows)
     # the real flight text carries no spaces after separators (the similar-artist regex relies on it)
     monkeypatch.setattr(pages.rsc, "flight_text", lambda h: json.dumps(rows, separators=(",", ":")))
@@ -162,6 +166,21 @@ def test_chart_catalog_and_events(monkeypatch):
     us = next(c for c in catalog if c["code"] == "US")
     assert us["momentum_playlist_id"] and any(x["slug"] == "chicago" for x in us["cities"])
     assert any(g["slug"] == "hip-hop-rap" for g in us["genres"])
+
+    # 2026-11-13 page shape: options[0] (the world chart) is a path reference
+    # "$23:props:…:selected" to the header selector's entry; ids may be "$undefined".
+    monkeypatch.setattr(pages.rsc, "page_rows", lambda h: fixture("page_rows_charts_2026_11"))
+    catalog = pages.chart_catalog()
+    assert len(catalog) == 71
+    world = catalog[0]
+    assert world["slug"] == "world" and world["code"] is None and world["name"] == "Global"
+    assert world["top_playlist_id"].startswith("pl.") and world["viral_playlist_id"].startswith("pl.")
+    assert any(g["slug"] == "pop" for g in world["genres"])
+    algeria = next(c for c in catalog if c["code"] == "DZ")
+    assert algeria["top_playlist_id"].startswith("pl.") and algeria["momentum_playlist_id"] is None
+    us = next(c for c in catalog if c["code"] == "US")
+    assert us["momentum_playlist_id"] and any(x["slug"] == "chicago" for x in us["cities"])
+    assert not any(isinstance(v, str) and v.startswith("$") for c in catalog for v in c.values())
 
     monkeypatch.setattr(pages.rsc, "page_rows", lambda h: fixture("page_rows_events_india"))
     monkeypatch.setattr(pages, "get_page", lambda path: "<title>Find concerts by genres in India | Shazam</title>self.__next_f")

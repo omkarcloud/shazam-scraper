@@ -12,7 +12,7 @@ matches (offset of the clip inside the song, time / frequency skew).
 import config
 from shazam import parsers as P
 from shazam import sigx
-from shazam.fetch import ShazamBadRequest, _session, recognize_signature
+from shazam.fetch import ShazamBadRequest, download_session, recognize_signature
 from shazam.sigx import AudioDecodeError
 
 DOWNLOAD_TIMEOUT = 60
@@ -76,7 +76,7 @@ def from_url(url, offset_seconds=None, duration_seconds=sigx.DEFAULT_WINDOW_SECO
              country="US", language="en-US"):
     limit = getattr(config, "SHAZAM_MAX_AUDIO_BYTES", 30 * 1024 * 1024)
     try:
-        resp = _session().get(url, timeout=DOWNLOAD_TIMEOUT, stream=True,
+        resp = download_session().get(url, timeout=DOWNLOAD_TIMEOUT, stream=True,
                               headers={"accept": "*/*", "user-agent": "Mozilla/5.0"})
     except Exception as e:
         raise ShazamBadRequest(f"could not download the audio: {type(e).__name__}: {e}")

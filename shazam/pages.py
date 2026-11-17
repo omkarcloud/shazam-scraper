@@ -31,10 +31,10 @@ import re
 from cricbuzz import rsc
 
 from shazam import parsers as P
-from shazam.fetch import ShazamNotFound, get_page, run_parallel
+from shazam.fetch import ShazamNotFound, ShazamUpstreamError, get_page, run_parallel
 from shazam.refs import slugify
 
-_EVENT_LINK_RE = re.compile(r'"href":"(/event/[0-9a-f-]{36})"')
+_EVENT_ID_RE = re.compile(r"/event/([0-9a-f-]{36})")
 _SIMILAR_RE = re.compile(r'"href":"(/artist/[^"]+)","artistId":"(\d+)"[^}]*?"dataTestId":"similarArtistItem"')
 
 
@@ -74,6 +74,26 @@ def find_dict(rows, pred):
 def _is_element(n):
     """A React element row: ["$", "<type>", key, {props}]."""
     return isinstance(n, list) and len(n) == 4 and n[0] == "$" and isinstance(n[3], dict)
+
+
+def _deref_path(rows, value):
+    """Resolve a flight path reference "$<row>:<key>:<key>…" (a value the
+    page already sent elsewhere; "props" steps into a React element's props)
+    to that value; anything else passes through. None when the path is gone."""
+    if not (isinstance(value, str) and value.startswith("$") and ":" in value):
+        return value
+    row_id, *path = value[1:].split(":")
+    node = rows.get(row_id)
+    for key in path:
+        if key == "props" and _is_element(node):
+            node = node[3]
+        elif isinstance(node, list) and key.isdigit() and int(key) < len(node):
+            node = node[int(key)]
+        elif isinstance(node, dict):
+            node = node.get(key)
+        else:
+            return None
+    return node
 
 
 def _text_of(node):
@@ -219,14 +239,22 @@ def artist_page(apple_id, slug=None):
                 "release_date": P.iso_date(r.get("releaseDate")), "artist_name": r.get("artistName"),
             } for r in releases.get(key) or [] if isinstance(r, dict)]
 
+    # 2026-10-06: the concert tiles' "href":"/event/…" props left the flight
+    # markup; the page now lists the artist's shows as MusicEvent @ids in
+    # its ld+json MusicGroup (also copied inside the flight), so take every
+    # /event/{uuid} the HTML mentions, deduplicated in page order.
     events = []
-    for href in _EVENT_LINK_RE.findall(flight):
-        if href not in events:
-            events.append(href)
+    for event_id in _EVENT_ID_RE.findall(html):
+        if "/event/" + event_id not in events:
+            events.append("/event/" + event_id)
 
     badges = [b for b in (_text_of(b) for b in _props_with_class(rows, "HeaderBadges_badge__")) if b]
     title = re.search(r"<title>(.*?)</title>", html)
     canonical = re.search(r'rel="canonical" href="([^"]+)"', html)
+    # 2026-10-06: Fastly answers automation-class clients with another
+    # artist's page (see fetch.py); never hand out someone else's shows.
+    if canonical and not canonical.group(1).rstrip("/").endswith(f"/{apple_id}"):
+        raise ShazamUpstreamError(f"artist page {apple_id} was answered with {canonical.group(1)}")
     return {
         "name": (title.group(1).rsplit(" - Shazam", 1)[0] if title else None),
         "canonical_link": canonical.group(1) if canonical else None,
@@ -249,12 +277,21 @@ def chart_catalog():
     """The country selector of the charts page -> [chart_country, …]."""
     html = get_page("/charts/top-200/world")
     rows = rsc.page_rows(html)
-    options = find_dict(rows, lambda d: isinstance(d.get("options"), list) and d["options"]
-                        and isinstance(d["options"][0], dict) and "listid" in d["options"][0]
-                        and "genres" in d["options"][0])
+
+    def is_country(o):
+        return isinstance(o, dict) and "listid" in o and "genres" in o
+
+    # 2026-11-13: the selector's first option (the world chart) became a
+    # path reference to the header's `selected` entry
+    # ("$23:props:children:1:props:children:props:selected"), so the list is
+    # found by ANY full country entry and its references are resolved.
+    # (The header's own selector lists only {caption, link} per country.)
+    options = find_dict(rows, lambda d: isinstance(d.get("options"), list)
+                        and any(is_country(o) for o in d["options"]))
     if not options:
         raise ShazamNotFound("chart catalog not found on the charts page")
-    countries = [c for c in (P.chart_country(o) for o in options["options"]) if c]
+    entries = [rsc.undefined_to_none(_deref_path(rows, o)) for o in options["options"]]
+    countries = [c for c in (P.chart_country(o) for o in entries if is_country(o)) if c]
     # the world entry carries no slug of its own in some builds
     for c in countries:
         if c["slug"] is None and c["link"]:

@@ -52,25 +52,58 @@ relaunch and now answers "Not supported"):
      The storefront a page embeds follows the egress IP; the Apple ids in
      it are storefront-independent, so that never matters.
 
-Bot protection seen so far (2026-09-19): Fastly's "Client Challenge" (a
-JavaScript proof-of-work page, `/_fs-ch-…/` assets, a 200 with no flight
-data) on /track/* pages only, for one IP after ~60 page loads within an
-hour; artist/charts/events pages, the JSON hosts and the Apple API were
-never challenged, and the same track pages loaded at once through a fresh
-US residential exit. get_page therefore treats the challenge as a per-IP
-signal: the worker thread's page session moves to a
-config.shazam_page_fallback_proxy() exit for SHAZAM_DIRECT_COOLDOWN
-seconds (rotating exits on repeat challenges) and returns to direct egress
-afterwards.
-
-FALLBACK HOOK: if direct requests AND the residential exits both start
-being challenged, escalate the same way g2 does — add a patchright pool
-with flag "shazam" to config.CHROME_POOLS, warm it on
-https://www.shazam.com/, let the real Chrome solve the challenge and
-replay its cookie jar over curl_cffi (the challenge sets a cookie), or
-serve these same URLs through the in-page driver.get()
-(patchright_driver.FetchResponse). Not built now: dead code while a fresh
-exit passes.
+Bot protection: Fastly's "Client Challenge" (a JavaScript fingerprinting
+interstitial, `/_fs-ch-…/` assets, a 200 with no flight data).
+  2026-09-19  on /track/* pages only, for one IP after ~60 page loads in
+              an hour; a fresh US residential exit loaded the same pages
+              at once, so get_page moved a challenged thread's page loads
+              to a config.shazam_page_fallback_proxy() exit for
+              SHAZAM_DIRECT_COOLDOWN seconds.
+  2026-10-06  on EVERY page, decided per request on the TLS/HTTP2
+              fingerprint and only for origin fetches (edge/shield cache
+              hits are served to anyone): curl_cffi's Chrome-124 handshake
+              is challenged from its first request on any IP Fastly
+              distrusts — the pod, every either proxy vendor exit tried
+              (9 countries), this office IP after ~30 loads — whatever the
+              User-Agent or client hints claim. Identities that declare
+              automation (HeadlessChrome / curl UAs, headless Chrome) are
+              NOT challenged but served decoy pages of other entities
+              (another artist's profile, a song page for an event URL):
+              never use them. A real headed Chrome is served normally, and
+              when it navigates to a challenged URL the interstitial clears
+              in ~5 s and leaves `_fs_ch_cp_*` / `_fs_cd_cp_*` cookies
+              (1 h, bound to the exit IP, not to UA or TLS) that plain
+              curl_cffi replays. get_page therefore mints such a clearance
+              per egress with a throwaway headed Chrome (trustpilot's
+              aws-waf-token pattern) and keeps the residential exit as the
+              last rung, where it gets a clearance of its own the same
+              way. The JSON hosts and the Apple API were never challenged.
+  2026-10-22  no browser runs on GKE: the mint is one
+              browser_client.mint("shazam", proxy=<the challenged exit>,
+              variant=<the challenged path>) to the browser box
+              (recipes/shazam.py), which opens that very page through that
+              very proxy port (same exit IP as this pod's curl
+              session) and returns the `_fs_c*_cp_` cookies. A challenge on
+              DIRECT egress is never minted: a cookie minted on the box's
+              own IP is not this pod's, so it goes straight to the exit
+              rung. The per-egress clearance cache and single-flight stay
+              here, as does the exit rung on a failed mint.
+  2026-10-12  the GKE pod's direct egress is REFUSED outright: a Fastly
+              "403 Forbidden ... Error 54113" (no challenge assets) for
+              every page, to curl_cffi and to the pod's headed Chrome
+              alike, so a browser mint on that IP can only collect no
+              cookies. The 10-06 code counted that empty mint as success
+              and re-minted on the same refused IP until the retries ran
+              out (log: "clearance minted on direct egress (no cookies: the
+              page came from cache)" x4 -> 502), never reaching the exit
+              rung. Through a proxy US exit the same pod's Chrome
+              clears the challenge in ~3 s and curl replays the
+              `_fs_ch_cp_*` cookie on track/artist/events/charts pages
+              (verified in-pod). So: a plain 401/403/429 goes straight to
+              the exit rung, a mint that yields no `_fs_c*_cp_` cookie is
+              a FAILED mint (exit rung again), and every worker thread
+              shares ONE process-wide fallback exit (rotated only when it
+              fails) so a burst mints one Chrome, not one per thread.
 
 Failure taxonomy (scraper_errors, mapped to HTTP by route_glue):
   ShazamUpstreamError  transport failure / 5xx            — retryable
@@ -80,19 +113,25 @@ Failure taxonomy (scraper_errors, mapped to HTTP by route_glue):
 """
 import base64
 import json
+import fastjson
 import os
 import sys
 import threading
 import time
 import uuid
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, wait as wait_futures
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+import browser_client
 import config
+import egress
+from browser_client import BoxRefused, BoxUnavailable
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
+from scraper_utils import debug, fanout, sessions
 
 SITE = "https://www.shazam.com"
+BOX_SITE = "shazam"                  # recipes/shazam.py
 AMP = "https://amp.shazam.com"
 CDN = "https://cdn.shazam.com"
 APPLE = "https://api.music.apple.com"
@@ -109,11 +148,11 @@ TOKEN_REFRESH_MARGIN = 24 * 3600   # re-harvest a day before exp
 
 PAGE_HEADERS = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "accept-language": "en-US,en;q=0.9",
+    "accept-language": egress.site_accept_language("shazam"),
 }
 JSON_HEADERS = {
     "accept": "*/*",
-    "accept-language": "en-US,en;q=0.9",
+    "accept-language": egress.site_accept_language("shazam"),
     "origin": SITE,
     "referer": SITE + "/",
 }
@@ -122,7 +161,7 @@ TAG_HEADERS = {
     "X-Shazam-Platform": "IPHONE",
     "X-Shazam-AppVersion": "14.1.0",
     "Accept": "*/*",
-    "Accept-Language": "en",
+    "Accept-Language": "en",      # locale: app identity (the iOS app's fixed header, not a browser's)
     "Accept-Encoding": "gzip, deflate",
     "User-Agent": "Shazam/3685 CFNetwork/1197 Darwin/20.0.0",
     "Content-Type": "application/json",
@@ -159,35 +198,121 @@ class ShazamChallenged(ShazamBlocked):
 
 # One curl session per cheroot worker thread (a curl handle must not be
 # shared across threads); all calls are stateless GET/POST with keep-alive.
+#
+# Egress of the JSON sessions: config.shazam_proxy() (None = the pod's own
+# IP) until the JSON hosts rate-limit that IP (HTTP 429 / 403 on a call, see
+# config.SHAZAM_API_FALLBACK_PROXY_COUNTRY for the 2026-11-04 measurement);
+# then the direct egress is benched for SHAZAM_DIRECT_COOLDOWN seconds and
+# every thread's next session takes its own sticky residential exit, so a
+# recognition burst is spread over one per-IP budget per thread. A blocked
+# residential exit dies with its session (_drop_session) and the retry
+# rides a fresh one; a residential session also lapses with the bench
+# (session.shazam_until), so the thread's JSON calls go back to the direct
+# egress once the cooldown is over instead of riding the exit for the life
+# of the worker thread.
 _local = threading.local()
+_api_egress = {"direct_blocked_until": 0.0}
+
+
+def _api_proxy():
+    """(proxy, is_direct, until) for a new JSON session: `until` is when a
+    residential fallback session lapses (the bench's end), 0 for a direct
+    or a forced-proxy session (those live until they fail)."""
+    forced = config.shazam_proxy()
+    if forced:
+        return forced, False, 0.0
+    with _egress_lock:
+        until = _api_egress["direct_blocked_until"]
+    fallback = config.shazam_api_fallback_proxy() if until > time.time() else None
+    if fallback is None:
+        return None, True, 0.0
+    return fallback, False, until
+
+
+def bench_direct_api():
+    """The direct egress just got rate-limited: route new JSON sessions
+    through residential exits for SHAZAM_DIRECT_COOLDOWN seconds."""
+    with _egress_lock:
+        if _api_egress["direct_blocked_until"] > time.time():
+            return
+        _api_egress["direct_blocked_until"] = time.time() + config.SHAZAM_DIRECT_COOLDOWN
+    print(f"shazam: JSON calls rate-limited on the direct egress; residential exits for "
+          f"{config.SHAZAM_DIRECT_COOLDOWN}s", flush=True)
 
 
 def _session():
     sess = getattr(_local, "session", None)
+    if sess is not None and getattr(sess, "shazam_until", 0.0) and sess.shazam_until < time.time():
+        _drop_session()             # the bench lapsed: back to the direct egress
+        sess = None
     if sess is None:
         from curl_cffi import requests as curl_requests
         sess = curl_requests.Session(impersonate=IMPERSONATE)
-        proxy = config.shazam_proxy()
+        proxy, direct, until = _api_proxy()
         if proxy:
             sess.proxies = {"http": proxy, "https": proxy}
+        sess.shazam_direct = direct
+        sess.shazam_until = until
         _local.session = sess
+    return sess
+
+
+def download_session():
+    """The thread's session for fetching a caller's audio URL: always the
+    plain egress (no residential bandwidth for media; apify and Instagram's
+    CDN never refused the pod's own IP)."""
+    sess = getattr(_local, "download", None)
+    if sess is None:
+        from curl_cffi import requests as curl_requests
+        sess = _local.download = curl_requests.Session(impersonate=IMPERSONATE)
     return sess
 
 
 def _drop_session():
     """Close the thread's session so a poisoned keep-alive connection dies."""
-    sess = getattr(_local, "session", None)
-    _local.session = None
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.drop(_local)
 
 
 # Page loads: same per-thread session, but after a challenge the thread
 # reads pages through a residential exit until the cooldown lapses.
 _pages = threading.local()
+
+
+def _new_page_state(proxy, until=0, via_fallback=None):
+    from curl_cffi import requests as curl_requests
+    sess = curl_requests.Session(impersonate=IMPERSONATE)
+    if proxy:
+        sess.proxies = {"http": proxy, "https": proxy}
+    if via_fallback is None:
+        via_fallback = bool(until)
+    state = {"session": sess, "until": until, "via_proxy": bool(proxy), "proxy": proxy,
+             "via_fallback": via_fallback, "egress": _egress_key(proxy), "clearance_at": 0}
+    clearance = _current_clearance(state["egress"])
+    if clearance:
+        _apply_clearance(state, clearance)
+    return state
+
+
+# 2026-10-12: which egress NEW page sessions use, process-wide. Once direct
+# page loads are refused/challenged past a clearance, every thread reads
+# pages through the same sticky fallback exit until direct_blocked_until
+# (one exit -> one clearance mint shared by all threads); that exit is
+# replaced only when a session on it fails (_escalate_page_session).
+_egress_lock = threading.Lock()
+_page_egress = {"direct_blocked_until": 0, "fallback": None}
+
+
+def _page_proxy():
+    """(proxy, until) for a new page session: the shared fallback exit while
+    direct egress is benched, else config.shazam_proxy() (None = direct)."""
+    with _egress_lock:
+        until = _page_egress["direct_blocked_until"]
+        if until > time.time():
+            if _page_egress["fallback"] is None:
+                _page_egress["fallback"] = config.shazam_page_fallback_proxy()
+            if _page_egress["fallback"]:
+                return _page_egress["fallback"], until
+    return config.shazam_proxy(), 0
 
 
 def _page_session():
@@ -197,12 +322,8 @@ def _page_session():
         _drop_page_session()
         state = None
     if state is None:
-        from curl_cffi import requests as curl_requests
-        sess = curl_requests.Session(impersonate=IMPERSONATE)
-        proxy = config.shazam_proxy()
-        if proxy:
-            sess.proxies = {"http": proxy, "https": proxy}
-        state = {"session": sess, "until": 0, "via_proxy": bool(proxy)}
+        proxy, until = _page_proxy()
+        state = _new_page_state(proxy, until=until)
         _pages.state = state
     return state
 
@@ -217,17 +338,24 @@ def _drop_page_session():
             pass
 
 
-def _escalate_page_session():
-    """Swap the thread's page session for one on a fresh residential exit
-    (sticky for the cooldown). Returns False when no fallback is configured."""
-    proxy = config.shazam_page_fallback_proxy()
+def _escalate_page_session(state):
+    """Move this thread's page loads off the egress that just failed: direct
+    egress is benched for SHAZAM_DIRECT_COOLDOWN and the shared fallback
+    exit is used; a failing fallback exit is replaced by a fresh one (unless
+    another thread already rotated it). Returns False when no fallback is
+    configured."""
+    with _egress_lock:
+        if _page_egress["direct_blocked_until"] <= time.time() or not state["via_fallback"]:
+            _page_egress["direct_blocked_until"] = time.time() + config.SHAZAM_DIRECT_COOLDOWN
+        if state["via_fallback"] and _page_egress["fallback"] == state["proxy"]:
+            _page_egress["fallback"] = None
+        if _page_egress["fallback"] is None:
+            _page_egress["fallback"] = config.shazam_page_fallback_proxy()
+        proxy, until = _page_egress["fallback"], _page_egress["direct_blocked_until"]
     _drop_page_session()
     if not proxy:
         return False
-    from curl_cffi import requests as curl_requests
-    sess = curl_requests.Session(impersonate=IMPERSONATE)
-    sess.proxies = {"http": proxy, "https": proxy}
-    _pages.state = {"session": sess, "until": time.time() + config.SHAZAM_DIRECT_COOLDOWN, "via_proxy": True}
+    _pages.state = _new_page_state(proxy, until=until, via_fallback=True)
     return True
 
 
@@ -236,16 +364,93 @@ def is_challenge(html):
     return all(marker in head for marker in CHALLENGE_MARKERS)
 
 
+# ---- Fastly clearance ------------------------------------------------------------
+# 2026-10-06 (see the module docstring): one clearance per egress ("direct"
+# or the sticky proxy URL) — the shazam.com cookies a real headed Chrome
+# holds once the challenge cleared — shared by every worker thread's page
+# session on that egress, minted single-flight and re-minted when a session
+# that already carries the newest one is challenged again (the cookies
+# live ~1 h).
+_clearance_lock = threading.Lock()
+_clearances = {}          # egress -> {"cookies": {name: value}, "minted_at": monotonic}
+_mint_locks = {}
+STATE_COOKIE_PREFIX = "_fs_ch_st_"   # the 10 s token of a challenge in flight: never replayed
+# 2026-10-12: what a cleared challenge leaves; a mint without one has nothing to replay
+CLEARANCE_COOKIE_PREFIXES = ("_fs_ch_cp_", "_fs_cd_cp_")
+MAX_MINTS_PER_PAGE = 2               # box mints one get_page call may trigger
+
+
+def _egress_key(proxy):
+    return proxy or "direct"
+
+
+def _mint_lock(egress):
+    with _clearance_lock:
+        return _mint_locks.setdefault(egress, threading.Lock())
+
+
+def _current_clearance(egress):
+    with _clearance_lock:
+        return _clearances.get(egress)
+
+
+def _apply_clearance(state, clearance):
+    for name, value in clearance["cookies"].items():
+        state["session"].cookies.set(name, value, domain=".shazam.com")
+    state["clearance_at"] = clearance["minted_at"]
+
+
+def _mint_clearance(egress, proxy, url):
+    """One /mint on the shazam browser box: a throwaway HEADED Chrome
+    navigation to the challenged URL through the same exit (recipes/
+    shazam.py) -> {"cookies", "minted_at"}. Headed matters: headless Chrome
+    is classed as automation and served decoy pages instead of a challenge.
+    The box waits for the clearance COOKIE (2026-10-12: a browser served
+    something other than the challenge never gets one and must not count as
+    a success) and fails fast on an unchallenged page. Raises BoxRefused /
+    BoxUnavailable / RuntimeError (no clearance cookie came back)."""
+    where = f"exit port {egress.rsplit(':', 1)[-1]}"
+    path = url[len(SITE):] if url.startswith(SITE) else ""
+    print(f"shazam: minting a Fastly clearance on {where} via the browser box...")
+    ident = browser_client.mint(BOX_SITE, proxy=proxy, variant=path)
+    cookies = {c["name"]: c["value"] for c in ident.get("cookies") or []
+               if str(c.get("domain", "")).endswith("shazam.com")
+               and not c["name"].startswith(STATE_COOKIE_PREFIX)}
+    if not any(name.startswith(CLEARANCE_COOKIE_PREFIXES) for name in cookies):
+        raise RuntimeError("the box answered without a clearance cookie")
+    print(f"shazam: Fastly clearance minted on {where} ({', '.join(sorted(cookies))})")
+    return {"cookies": cookies, "minted_at": time.monotonic()}
+
+
+def _refresh_clearance(state, url):
+    """Give this page session a clearance newer than the one it carries,
+    minting one (single-flight per egress) unless another thread already
+    did since. False when the mint failed or this session is on direct
+    egress (the box cannot mint for this pod's own IP). A box that is down
+    or busy raises ShazamUpstreamError: no exit would do better."""
+    egress = state["egress"]
+    if not state["proxy"]:
+        print("shazam: challenged on direct egress; no box mint for the pod's own IP, exit rung")
+        return False
+    with _mint_lock(egress):
+        clearance = _current_clearance(egress)
+        if clearance is None or clearance["minted_at"] <= state["clearance_at"]:
+            try:
+                clearance = _mint_clearance(egress, state["proxy"], url)
+            except BoxUnavailable as e:
+                raise ShazamUpstreamError(f"browser box unavailable for the clearance mint: {e}")
+            except (BoxRefused, Exception) as e:  # noqa: BLE001 - the exit rung still applies
+                print(f"shazam: Fastly clearance mint failed on {egress}: {type(e).__name__}: {e}")
+                return False
+            with _clearance_lock:
+                _clearances[egress] = clearance
+    _apply_clearance(state, clearance)
+    return True
+
+
 def dump_debug(name, text):
     """Write a raw body to $SHAZAM_DEBUG_DIR/<name>.txt for post-mortems."""
-    dbg = os.environ.get("SHAZAM_DEBUG_DIR", "")
-    if dbg and text:
-        try:
-            os.makedirs(dbg, exist_ok=True)
-            with open(os.path.join(dbg, name + ".txt"), "w") as f:
-                f.write(text)
-        except OSError:
-            pass
+    debug.dump("SHAZAM_DEBUG_DIR", name, text)
 
 
 def _classify(resp, label):
@@ -284,6 +489,8 @@ def _retrying(fn, *, refresh_token_on_401=False):
             raise
         except (ShazamBlocked, ShazamUpstreamError) as e:
             last = e
+            if isinstance(e, ShazamBlocked) and getattr(getattr(_local, "session", None), "shazam_direct", False):
+                bench_direct_api()          # the retry's fresh session takes a residential exit
             _drop_session()
         if attempt < config.MAX_RETRIES:
             time.sleep(config.RETRY_BACKOFF * attempt)
@@ -315,12 +522,16 @@ def _json_body(resp, label):
 def get_page(path):
     """One server-rendered shazam.com page -> HTML. The site's error shell
     (a 200/404 with id="__next_error__") and a 204 both mean NotFound; a
-    Fastly challenge moves this thread's page loads to a fresh residential
-    exit and retries."""
+    Fastly challenge gets this egress a browser-minted clearance and
+    retries, and only an egress that stays challenged with a fresh one
+    moves this thread's page loads to a residential exit."""
     url = SITE + path
     label = f"page {path}"
     last = None
-    for attempt in range(1, config.MAX_RETRIES + 2):
+    mints = 0
+    # 2026-10-12: +3 so "direct refused -> exit challenged -> mint -> page"
+    # fits with a retry to spare
+    for attempt in range(1, config.MAX_RETRIES + 3):
         state = _page_session()
         try:
             resp = state["session"].get(url, headers=PAGE_HEADERS, timeout=PAGE_TIMEOUT)
@@ -334,10 +545,23 @@ def get_page(path):
             raise ShazamNotFound(f"{label} not found")
         if resp.status_code == 400:
             raise ShazamBadRequest(f"{label}: {html[:200]}")
-        if is_challenge(html) or resp.status_code in (401, 403, 429):
+        challenged = is_challenge(html)
+        if challenged or resp.status_code in (401, 403, 429):
             dump_debug("page_challenge", html)
-            last = ShazamChallenged(f"{label}: bot challenge from this exit")
-            if not _escalate_page_session():
+            last = ShazamChallenged(f"{label}: bot challenge from this exit" if challenged
+                                    else f"{label}: HTTP {resp.status_code} refused from this exit")
+            # 2026-10-06: residential exits are challenged from their first
+            # request too, so a clearance for THIS egress comes first; the
+            # exit rung stays for an egress that is challenged even with a
+            # fresh clearance (it is minted one of its own on the next pass).
+            # 2026-10-12: only a real challenge is worth a browser mint. A
+            # plain 401/403/429 (Fastly "Error 54113" on the pod's IP) is an
+            # IP refusal a browser on the same IP gets too: exit rung at once.
+            if challenged and mints < MAX_MINTS_PER_PAGE:
+                mints += 1
+                if _refresh_clearance(state, url):
+                    continue
+            if not _escalate_page_session(state):
                 break
             continue
         if resp.status_code >= 500:
@@ -447,7 +671,7 @@ def recognize_signature(signature_uri, sample_ms, *, country=None, language=None
 def jwt_payload(token):
     try:
         part = token.split(".")[1]
-        return json.loads(base64.urlsafe_b64decode(part + "=" * (-len(part) % 4)))
+        return fastjson.loads(base64.urlsafe_b64decode(part + "=" * (-len(part) % 4)))
     except Exception:
         return {}
 
@@ -498,7 +722,7 @@ def _apple_headers(token, lang):
 
 def _apple_error(body):
     try:
-        err = (json.loads(body).get("errors") or [{}])[0]
+        err = (fastjson.loads(body).get("errors") or [{}])[0]
         return ": ".join(x for x in (err.get("title"), err.get("detail")) if x)
     except Exception:
         return (body or "")[:200]
@@ -559,14 +783,31 @@ def page_range(path, offset, limit, *, max_per_call, lang=None, params=None):
     return out[:limit], has_more or len(out) > limit
 
 
+# Long-lived pools (2026-10-23): their threads keep their thread-local curl
+# sessions — and the sticky exits behind them — between requests. The
+# per-call executor they replace opened fresh sessions/exits for every
+# fan-out and threw them away when the call returned. Two levels: a fan-out
+# running inside a fan-out goes to the second pool, so it neither waits on
+# the workers it occupies (deadlock) nor loses its parallelism; a third
+# level runs inline.
+_pools = (ThreadPoolExecutor(max_workers=FANOUT_WORKERS * 4, thread_name_prefix="shazam-fanout-0"),
+          ThreadPoolExecutor(max_workers=FANOUT_WORKERS * 4, thread_name_prefix="shazam-fanout-1"))
+
+
+def _windowed(fns, workers):
+    """Run `fns` on the pool for this nesting level, at most `workers` at a
+    time; results align with `fns`. The first failure (in `fns` order)
+    propagates once the callables already started have finished."""
+    return fanout.windowed(_pools, "shazam-fanout", fns, workers)
+
+
 def run_parallel(fns):
     """Run zero-arg callables concurrently; results in order; exceptions re-raised."""
     if not fns:
         return []
     if len(fns) == 1:
         return [fns[0]()]
-    with ThreadPoolExecutor(min(FANOUT_WORKERS, len(fns))) as pool:
-        return list(pool.map(lambda f: f(), fns))
+    return _windowed(fns, FANOUT_WORKERS)
 
 
 def gather(mapping):

@@ -4,3 +4,8 @@ curl_cffi
 marshmallow
 numpy
 pytest
+patchright
+psutil
+browserforge
+requests
+pyvirtualdisplay; sys_platform == "linux"

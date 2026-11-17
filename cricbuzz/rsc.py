@@ -19,7 +19,7 @@ data object is located (props of the client component that renders it).
 Values that are references (`"$26"`) point at another row: `deref` resolves
 the T-blob ones (player bios live there).
 """
-import json
+import fastjson
 import re
 
 _CHUNK_RE = re.compile(r'self\.__next_f\.push\(\[1,"((?:[^"\\]|\\.)*)"\]\)', re.S)
@@ -31,7 +31,7 @@ def flight_text(html):
     parts = []
     for chunk in _CHUNK_RE.findall(html or ""):
         try:
-            parts.append(json.loads('"' + chunk + '"'))
+            parts.append(fastjson.loads('"' + chunk + '"'))
         except Exception:
             parts.append(chunk.encode("utf-8", "surrogatepass").decode("unicode_escape", errors="ignore"))
     return "".join(parts)
@@ -72,7 +72,7 @@ def parse_flight(text):
         pos = nl + 1
         if body[:1] in "[{":
             try:
-                rows[rid] = json.loads(body)
+                rows[rid] = fastjson.loads(body)
                 continue
             except ValueError:
                 pass
